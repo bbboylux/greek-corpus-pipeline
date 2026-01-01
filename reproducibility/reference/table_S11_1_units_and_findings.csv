@@ -1,0 +1,7 @@
+stratum,label,imported_records,active_records,words,analyzable_links,analyzable_sentences,findings,active_checks,nuclei,findings_fingerprint
+gorman,Gorman,625176,616646,548912,513369,25994,101047,56,33652,971c8056de40
+pedalion,Pedalion,281245,274609,238413,213144,18235,29515,51,13848,a037eae69887
+glaux_auto,GLAUx automatic,300292,292567,251994,223872,17982,13168,22,11347,6560da673493
+glaux_man,GLAUx manual,21652,21107,17834,16713,1745,2400,20,996,e9c9e830c5b6
+glaux_conf_auto,GLAUx confirmation automatic,273354,267313,231725,206955,13227,11259,20,11051,a3efc2fa2260
+glaux_conf_man,GLAUx confirmation manual,28666,28143,24351,21769,1979,3188,20,1041,771c3f3dbedd

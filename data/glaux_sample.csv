@@ -1,0 +1,41 @@
+tlg,campione,strato,seme,percorso,autore,opera,genere,dialetto,anno_iniziale,token_dichiarati
+0011-004,principale,manuale,20260814,xml/0011-004.xml,Sophocles,Oedipus tyrannus,Tragedy,Attic,-500,11374
+0011-007,principale,automatico,20260814,xml/0011-007.xml,Sophocles,Oedipus Coloneus,Tragedy,Attic,-500,12802
+0018-031,principale,automatico,20260814,xml/0018-031.xml,Philo Judaeus,Legatio ad Gaium,Philosophy,Koine,-100,20091
+0029-004,principale,automatico,20260814,xml/0029-004.xml,Dinarchus,In Demosthenem,Oratory,,-400,8577
+0057-049,principale,automatico,20260814,xml/0057-049.xml,Galenus,Adversus eos qui de typis scripserunt vel de circuitibus,Medicine,Attic/Koine,101,6298
+0082-003,principale,automatico,20260814,xml/0082-003.xml,Apollonius Dyscolus,De conjunctionibus,Language,,101,14218
+0085-005,principale,manuale,20260814,xml/0085-005.xml,Aeschylus,Agamemnon,Tragedy,Attic,-600,9760
+0098-001,principale,automatico,20260814,xml/0098-001.xml,Zenobius Sophista,Epitome collectionum Lucilli Tarrhaei et Didymi,Language,,101,24313
+0284-042,principale,automatico,20260814,xml/0284-042.xml,Aelius Aristides,Περὶ ὁμονοίας ταῖς πόλεσιν,Oratory,Attic/Koine,101,7257
+0527-012,principale,automatico,20260814,xml/0527-012.xml,Septuaginta,Regnorum ii,Religious History,Koine,-200,20238
+0552-004,principale,automatico,20260814,xml/0552-004.xml,Archimedes,De lineis spiralibus,Mathematics,Doric,-300,15871
+0556-001,principale,automatico,20260814,xml/0556-001.xml,Asclepiodotus,Tactica,Military,,-100,7414
+0627-010,principale,automatico,20260814,xml/0627-010.xml,Hippocrates et Corpus Hippocraticum,De articulis,Medicine,Ionic,-500,25227
+1386-001,principale,automatico,20260814,xml/1386-001.xml,Historia Alexandri Magni,Recensio α sive Recensio vetusta,Narrative,,201,38750
+1600-001,principale,automatico,20260814,xml/1600-001.xml,Philostratus Major,Imagines,Art,,101,26321
+1608-001,principale,automatico,20260814,xml/1608-001.xml,Phrynichus,Praeparatio sophistica,Language,Attic/Koine,101,17197
+1766-001,principale,automatico,20260814,xml/1766-001.xml,Tatianus,Oratio ad Graecos,Oratory,,101,11829
+1799-012,principale,automatico,20260814,xml/1799-012.xml,Euclides,Phaenomena,Astronomy/Astrology,,-300,9197
+2042-045,principale,automatico,20260814,xml/2042-045.xml,Origenes,Epistula ad Africanum,Epistolography,Koine,101,6223
+2042-075,principale,automatico,20260814,xml/2042-075.xml,Origenes,Expositio in Proverbia,Commentary,Koine,101,21229
+0018-006,conferma,automatico,20260815,xml/0018-006.xml,Philo Judaeus,De posteritate Caini,Theology,Koine,-100,12633
+0018-018,conferma,automatico,20260815,xml/0018-018.xml,Philo Judaeus,De mutatione nominum,Theology,Koine,-100,15358
+0018-026,conferma,automatico,20260815,xml/0018-026.xml,Philo Judaeus,De praemiis et poenis et De exsecrationibus,Philosophy,Koine,-100,10323
+0020-002,conferma,manuale,20260815,xml/0020-002.xml,Hesiodus,Opera et dies,Epic poetry,Ionic/Epic,-800,6954
+0031-002,conferma,manuale,20260815,xml/0031-002.xml,Novum Testamentum,Evangelium secundum Marcum,Religious History,Koine,1,12998
+0031-006,conferma,manuale,20260815,xml/0031-006.xml,Novum Testamentum,Epistula Pauli ad Romanos,Religious Epistle,Koine,1,8191
+0034-001,conferma,automatico,20260815,xml/0034-001.xml,Lycurgus,Oratio in Leocratem,Oratory,Attic,-400,12421
+0057-046,conferma,automatico,20260815,xml/0057-046.xml,Galenus,De morborum temporibus liber,Medicine,Attic/Koine,101,6087
+0284-027,conferma,automatico,20260815,xml/0284-027.xml,Aelius Aristides,Ἱεροὶ λόγοι εʹ,Biography,Attic/Koine,101,5052
+0284-056,conferma,automatico,20260815,xml/0284-056.xml,Aelius Aristides,Ars rhetorica,Rhetoric,Attic/Koine,101,27127
+0592-005,conferma,automatico,20260815,xml/0592-005.xml,Hermogenes,Περὶ μεθόδου δεινότητος,Rhetoric,Attic/Koine,101,7599
+0627-003,conferma,automatico,20260815,xml/0627-003.xml,Hippocrates et Corpus Hippocraticum,Prognosticon,Medicine,Ionic,-500,6087
+0627-025,conferma,automatico,20260815,xml/0627-025.xml,Hippocrates et Corpus Hippocraticum,De affectionibus,Medicine,Ionic,-500,8734
+0732-011,conferma,automatico,20260815,xml/0732-011.xml,Alexander,De anima libri mantissa,Philosophy,,101,40753
+1419-001,conferma,automatico,20260815,xml/1419-001.xml,Hermas,Pastor,Religious Prophecy,Koine,101,32014
+1608-002,conferma,automatico,20260815,xml/1608-002.xml,Phrynichus,Eclogae,Language,Attic/Koine,101,10322
+1747-001,conferma,automatico,20260815,xml/1747-001.xml,Vitae Adam Et Evae,Vita Adam et Evae ,Religious Narrative,Koine,1,5129
+2027-001,conferma,automatico,20260815,xml/2027-001.xml,Valerius Apsines,Ars rhetorica,Rhetoric,,201,21927
+2034-002,conferma,automatico,20260815,xml/2034-002.xml,Porphyrius,Vita Pythagorae,Biography,,201,6551
+2034-003,conferma,automatico,20260815,xml/2034-003.xml,Porphyrius,De abstinentia,Philosophy,,201,39825

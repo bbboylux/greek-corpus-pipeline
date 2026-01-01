@@ -1,0 +1,47 @@
+{
+ "id": "loci-dein-participiale",
+ "nome": "Luoghi contestati di δεῖν participiale",
+ "name_en": "Disputed loci of participial δεῖν",
+ "versione": "2.0.0",
+ "funzione": "The passages in which the tradition transmits δεῖν with a participial analysis and the LSJ marks it as doubtful, and the granularity with which each one can be identified. A participial δεῖν that the pipeline cannot exclude from these passages is reported without a proposal, because the choice is editorial; where the exclusion is certain, the form is the infinitive δεῖν analysed as a participle, and the program proposes v--pna---.",
+ "usata_da": [
+  "postag · dein-participle-disputed",
+  "postag · dein-participle"
+ ],
+ "fonte": "LSJ, s.v. δεῖ, IV: “δεῖν is dub. in Ar.Fr.220, Lys.14.7”. The list is closed: it contains the two passages that the source names, each with the status of identifiability that the processed resources allow.",
+ "voci": [
+  {
+   "locus": "Lys. 14.7",
+   "stato": "identificato",
+   "autore_urn": "tlg0540",
+   "cts_urn": "tlg0540.tlg014",
+   "autore": "Lysias",
+   "opera": "Against Alcibiades I",
+   "granularita": "The finest reference that the processed resources carry is the work: the column “ref”, which should contain the section, is empty throughout the document. The entry therefore identifies the speech and not paragraph 7, and says so here instead of suggesting a precision that the data do not have.",
+   "verificato_su": {
+    "corpus": "gorman",
+    "document_id": "lysias-14-bu1",
+    "sentence_id": "21",
+    "token_id": "37",
+    "postag": "v-spp-na-",
+    "contesto": "ὅτι δεῖν αὐτὸν μετὰ τῶν ὁπλιτῶν κινδυνεύειν ἱππεύειν εἵλετο",
+    "nota": "annotated as an absolute accusative"
+   }
+  },
+  {
+   "locus": "Ar. Fr. 220",
+   "stato": "non_escludibile",
+   "autore_urn": "tlg0019",
+   "cts_urn": null,
+   "autore": "Aristophanes",
+   "opera": "fragment 220",
+   "granularita": "The fragments of Aristophanes are cited by fragment number, and none of the processed resources carries that datum. There is therefore no way to establish whether a participial δεῖν in Aristophanes is fragment 220 or another passage. The entry does not declare that Aristophanes is the locus of the LSJ: it declares that it cannot be excluded, and for this reason the program does not correct. When a resource carries the fragment number, the entry can move to “identificato” with the exact citation.",
+   "verificato_su": null
+  }
+ ],
+ "stati": {
+  "identificato": "The resource carries a reference that identifies the passage. The match is verified on a real occurrence, recorded under “verificato_su”.",
+  "non_escludibile": "The source names the passage, but the processed resources do not carry a reference fine enough to establish whether a given occurrence is that one. The program does not declare that the occurrence is the passage of the LSJ: it declares that it cannot exclude it, and for this reason it does not correct."
+ },
+ "provenienza_insufficiente": "A record that does not identify author and work does not allow any of these passages to be excluded, and its occurrence goes to manual review like the others. The absence of metadata is not an authorisation to correct: a correction that needs bibliographic information to be safe does not become safe because that information is missing. Author and work are read from the fields that carry them — the CTS citation, or “tlg_author” and “tlg_work” — and from nothing else: deducing them from the name of a file or from the similarity between strings would be inventing a provenance."
+}

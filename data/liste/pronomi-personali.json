@@ -1,0 +1,55 @@
+{
+ "id": "pronomi-personali",
+ "nome": "Forme dei pronomi personali",
+ "name_en": "Personal pronoun forms",
+ "versione": "1.0.0",
+ "funzione": "The forms that identify a truly personal pronoun. The part of speech “p” is not enough, because it includes relatives, demonstratives and indefinites. The lemma ὅς is excluded separately because it is a relative.",
+ "usata_da": [
+  "postag · personal-pronoun-person"
+ ],
+ "fonte": "Grammar: Smyth (1920) § 325 (with § 325 a, d, D). The list does not contain the unaccented μου, μοι, σου, σοι, οὑ, οἱ nor the dual σφώ, σφῷν. It decides which tokens the check personal-pronoun-person examines, and it must therefore be defended form by form.",
+ "voci": {
+  "prima": [
+   "με",
+   "νώ",
+   "νῷν",
+   "ἐγώ",
+   "ἐμέ",
+   "ἐμοί",
+   "ἐμοῦ",
+   "ἡμεῖς",
+   "ἡμᾶς",
+   "ἡμῖν",
+   "ἡμῶν"
+  ],
+  "seconda": [
+   "σέ",
+   "σε",
+   "σοί",
+   "σοῦ",
+   "σύ",
+   "ὑμεῖς",
+   "ὑμᾶς",
+   "ὑμῖν",
+   "ὑμῶν"
+  ],
+  "terza": [
+   "οἷ",
+   "οὗ",
+   "σφίσι",
+   "σφίσιν",
+   "σφας",
+   "σφεῖς",
+   "σφι",
+   "σφιν",
+   "σφισι",
+   "σφισιν",
+   "σφᾶς",
+   "σφῶε",
+   "σφῶιν",
+   "σφῶν",
+   "ἑ",
+   "ἕ"
+  ]
+ }
+}

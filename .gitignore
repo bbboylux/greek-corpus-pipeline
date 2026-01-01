@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+workspace/
+pipeline_errors.log
+CHECK_INSTALL_result.txt

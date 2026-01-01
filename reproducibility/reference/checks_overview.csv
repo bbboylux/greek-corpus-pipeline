@@ -1,0 +1,78 @@
+rule_id,name_en,family,class,treatment,severity,gorman,pedalion,glaux_auto,glaux_man,glaux_conf_auto,glaux_conf_man
+agreement-modifier,Possible failure of agreement in the modifier,agreement,case_to_check,manual,suspect,1593,499,1281,51,929,44
+annotator-note-in-relation,Annotator's note in the relation field,text,violation,manual,error,0,43,0,0,0,0
+apos-suffix-orphan,The suffix _AP without an apposition,syntax,violation,manual,error,56,0,0,0,0,0
+apostrophe-mixed,Elision apostrophes encoded with different characters,text,variant,automatic,suspect,1655,2394,0,0,0,0
+aux-finite-verb,Finite verb with the relation AuxY or AuxZ,syntax,case_to_check,manual,suspect,286,3,2,0,4,0
+aux-governor-without-child,AuxP or AuxC without a dependent,syntax,case_to_check,manual,suspect,114,126,877,5,970,17
+aux-governs-conjuncts,Non-COORD node governing several _CO conjuncts,syntax,case_to_check,manual,suspect,42,126,129,1,187,8
+beta-code-form,Beta code residues in the form,text,violation,manual,error,0,0,0,0,0,0
+beta-code-lemma,Beta code residues in the lemma,text,violation,manual,error,0,1,0,0,0,0
+breathing-impossible,Elision apostrophe encoded as a breathing,text,violation,automatic,error,19,0,0,0,0,0
+case-letter-l,"Locative, an allowed but rare value",morphology,case_to_check,manual,suspect,2,0,0,0,0,0
+case-object,Object in an unexpected case,agreement,case_to_check,manual,suspect,392,141,57,14,27,1
+case-subject,Subject in a case unexpected for the context,agreement,case_to_check,manual,suspect,629,267,114,6,110,7
+common-gender-c,Extra-scheme value c in the gender slot,morphology,case_to_check,manual,suspect,0,8256,5163,835,4267,769
+coord-discordant-conjuncts,Different functions within the same coordination,syntax,case_to_check,manual,suspect,33,242,346,0,451,2
+coord-suffix-orphan,The suffix _CO without a coordinating node,syntax,violation,manual,error,442,440,0,8,0,9
+corpus-not-nfc,Corpus predominantly in NFD,text,variant,automatic,suspect,0,0,1,1,1,1
+creon-anomaly,Nominal χρεὼν with an incomplete PoS,morphology,violation,manual,error,1,0,0,0,0,0
+degree-underscore,Underscore in the degree slot,morphology,variant,automatic,suspect,11187,270,0,0,0,0
+dein-participle,δεῖν with participial mood,morphology,violation,automatic,error,36,0,0,0,0,0
+dein-participle-disputed,Participial δεῖν to be checked against the passage,morphology,case_to_check,manual,suspect,1,0,0,0,0,0
+deina-anomaly,Pronominal δεῖνʼ with an incomplete PoS,morphology,violation,manual,error,2,0,0,0,0,0
+double-accent,Two accents on the same word,text,case_to_check,manual,suspect,55,24,38,2,9,3
+final-sigma-inside,Final sigma inside the word,text,violation,automatic,error,1,2,0,0,0,0
+grade-p,Positive degree marked with p,morphology,variant,automatic,suspect,1218,454,0,0,0,0
+head-cycle,Cycle in the heads,syntax,violation,manual,error,0,23,0,2,0,2
+head-dangling,Non-existent head,syntax,violation,manual,error,0,21,9,0,21,0
+head-missing,Syntactic head not declared,syntax,violation,manual,error,22,15,0,0,0,0
+invalid-character,Character not allowed in the morphological slot,morphology,violation,manual,error,36,62,0,0,0,0
+invalid-length-broken,Label of incorrect length to be reconstructed in context,morphology,violation,manual,error,0,16,0,0,0,0
+invalid-length-padding,Label consisting only of hyphens with an incorrect length,morphology,violation,automatic,error,320,79,0,0,0,0
+invisible-char-form,Format characters in the form,text,violation,automatic,error,0,0,0,0,0,0
+invisible-char-lemma,Format characters in the lemma,text,violation,automatic,error,0,0,0,0,0,0
+isolated-breathing,Isolated breathing in the form,text,violation,manual,error,0,31,0,0,0,0
+leading-t,PoS not allowed in slot one (t),morphology,violation,manual,error,6,0,0,0,0,0
+leading-x-lexical,PoS x on a lexical record,morphology,violation,manual,error,18,0,0,0,0,0
+lemma-graphic-variant,Competing graphic variants of the same lemma,lemma,variant,manual,suspect,477,180,6,1,7,3
+lemma-rare-for-form,Rare lemma for form and POS,lemma,case_to_check,manual,suspect,102,41,0,2,0,0
+lemma-suspicious-characters,Anomalous characters in the lemma,lemma,variant,manual,suspect,804,17,4,1,2,0
+lemma-tool-numbering,Final number in the lemma,lemma,variant,manual,suspect,72836,311,0,0,0,0
+mediopassive-d,Voice d not provided for,morphology,case_to_check,manual,suspect,2,0,0,0,0,0
+missing-lemma,Lemma missing,lemma,violation,manual,error,150,42,0,0,0,0
+missing-postag,PoS tag missing,morphology,violation,manual,error,26,33,0,0,0,0
+mixed-script,Look-alike Latin letters in a Greek word,text,violation,automatic,error,0,2,0,0,0,0
+mixed-script-unrepairable,Latin letters that are not look-alikes in a Greek word,text,violation,manual,error,0,11,3,0,0,0
+nonlexical-z-pos,PoS outside the scheme on a non-lexical record (z),morphology,case_to_check,manual,suspect,0,0,0,0,0,0
+numeral-generic-m,Numeral with underscores in the PoS tag,morphology,violation,automatic,error,24,4,0,0,0,0
+osfranthiti-anomaly,ὀσφράνθητι with an incompatible morphological analysis,morphology,violation,automatic,error,2,0,0,0,0,0
+participle-mood-g,Value not allowed in the mood slot (g),morphology,violation,manual,error,8,0,0,0,0,0
+pedalion-b-pos,Extra-scheme POS used as a local extension (b),morphology,variant,manual,suspect,0,8555,0,1405,0,2131
+personal-pronoun-person,Person not annotated on a personal pronoun,morphology,variant,manual,suspect,2372,176,1773,1,1451,1
+pot-anomaly,Elided forms πότʼ/πόθʼ with an adjectival PoS,morphology,violation,manual,error,2,0,0,0,0,0
+punctuation-leading-e,PoS e on a punctuation mark,morphology,violation,automatic,error,17,0,0,0,0,0
+rare-relation-for-lemma-and-pos,Rare relation for lemma and POS,agreement,case_to_check,manual,suspect,2765,918,517,24,824,37
+relation-bare-convention,Label outside the scheme used systematically by the corpus,syntax,case_to_check,manual,suspect,0,0,2239,0,1782,0
+relation-greek-lookalike,Look-alike Greek character in the syntactic label,syntax,violation,automatic,error,10,0,0,0,0,0
+relation-missing,Relation missing,syntax,violation,manual,error,190,46,0,0,0,0
+relation-nil-placeholder,The placeholder nil in place of the relation,syntax,violation,manual,error,3,0,0,0,0,0
+relation-truncated-or-foreign,Non-AGDT relation traceable to a known convention,syntax,violation,manual,error,20,11,0,0,0,1
+relation-typo,Unambiguous typo in the syntactic label,syntax,violation,automatic,error,1,0,0,0,0,0
+relation-unknown,Relation outside the scheme,syntax,violation,manual,error,2,57,9,22,23,0
+san-anomaly,σὰν as a letter name with an incomplete PoS,morphology,violation,manual,error,1,0,0,0,0,0
+sentence-many-roots,Sentence with several roots,syntax,case_to_check,manual,suspect,1196,844,0,9,0,91
+sentence-no-root,Sentence without a root,syntax,violation,manual,error,6,32,0,0,0,3
+sentence-not-annotated,No head declared in the sentence,syntax,violation,manual,error,0,3,0,0,0,0
+slot-forbidden,Feature not allowed for the part of speech,morphology,violation,manual,error,34,19,0,0,0,0
+slot-missing,Required morphological feature left unfilled,morphology,violation,manual,error,453,353,356,9,128,0
+slot-missing-bare,Noun with no morphological features (n--------),morphology,case_to_check,manual,suspect,7,35,227,1,59,54
+tan-anomaly,"τάν/τᾶν, a lexically ambiguous form",morphology,case_to_check,manual,suspect,1,0,0,0,0,0
+tessereskaideka-anomaly,τεσσερεσκαίδεκα with a non-numeral PoS,morphology,violation,automatic,error,4,0,0,0,0,0
+token-id-duplicate,Duplicate identifier,syntax,violation,manual,error,0,12,0,0,0,0
+underscore-person-number,Underscore in morphological slots 2-8,morphology,variant,automatic,suspect,1364,220,0,0,0,0
+unicode-not-nfc,Encoding not normalised to NFC,text,variant,automatic,suspect,0,4007,0,0,0,0
+uninflected-lemma,Nominal lemma without case in all its occurrences,lemma,case_to_check,manual,suspect,0,1,16,0,7,4
+verbal-adjective-g,Local value g for verbal adjectives in -τέος,morphology,case_to_check,manual,suspect,0,47,0,0,0,0
+whitespace-in-form,Internal separator in the form,text,violation,manual,error,1,1,0,0,0,0
+whitespace-in-lemma,Internal separator in the lemma,text,violation,manual,error,1,2,1,0,0,0

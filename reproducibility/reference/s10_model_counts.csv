@@ -1,0 +1,139 @@
+id,section,corpus,quantity,expected
+S10.3.stanza.lemma.agreements,S10.3,gorman,"Table S10.3, Stanza, lemma: agreements",489727
+S10.3.stanza.lemma.denominator,S10.3,gorman,"Table S10.3, Stanza, lemma: denominator",548803
+S10.3.stanza.lemma.rate,S10.3,gorman,"Table S10.3, Stanza, lemma: rate (percent)",89.24
+S10.3.stanza.lemma.rate_1dp,S10.3,gorman,"Table 9 of the article, Stanza, lemma: rate to one decimal (percent)",89.2
+S10.3.udpipe.lemma.agreements,S10.3,gorman,"Table S10.3, UDPipe, lemma: agreements",447567
+S10.3.udpipe.lemma.denominator,S10.3,gorman,"Table S10.3, UDPipe, lemma: denominator",548803
+S10.3.udpipe.lemma.rate,S10.3,gorman,"Table S10.3, UDPipe, lemma: rate (percent)",81.55
+S10.3.udpipe.lemma.rate_1dp,S10.3,gorman,"Table 9 of the article, UDPipe, lemma: rate to one decimal (percent)",81.6
+S10.3.stanza.tag.agreements,S10.3,gorman,"Table S10.3, Stanza, tag: agreements",456724
+S10.3.stanza.tag.denominator,S10.3,gorman,"Table S10.3, Stanza, tag: denominator",548593
+S10.3.stanza.tag.rate,S10.3,gorman,"Table S10.3, Stanza, tag: rate (percent)",83.25
+S10.3.stanza.tag.rate_1dp,S10.3,gorman,"Table 9 of the article, Stanza, tag: rate to one decimal (percent)",83.3
+S10.3.stanza.tag.interpretable,S10.3,gorman,"Table S10.3, Stanza, tag: predictions with the AGDT form",548593
+S10.3.stanza.tag.malformed,S10.3,gorman,"Table S10.3, Stanza, tag: malformed predictions",0
+S10.3.udpipe.tag.agreements,S10.3,gorman,"Table S10.3, UDPipe, tag: agreements",366471
+S10.3.udpipe.tag.denominator,S10.3,gorman,"Table S10.3, UDPipe, tag: denominator",548593
+S10.3.udpipe.tag.rate,S10.3,gorman,"Table S10.3, UDPipe, tag: rate (percent)",66.8
+S10.3.udpipe.tag.rate_1dp,S10.3,gorman,"Table 9 of the article, UDPipe, tag: rate to one decimal (percent)",66.8
+S10.3.udpipe.tag.interpretable,S10.3,gorman,"Table S10.3, UDPipe, tag: predictions with the AGDT form",548590
+S10.3.udpipe.tag.malformed,S10.3,gorman,"Table S10.3, UDPipe, tag: malformed predictions",3
+S10.8.lemma.all_three_agree,S10.8,gorman,"Table S10.8, lemma: all three agree",435830
+S10.8.lemma.corpus_and_stanza_against_udpipe,S10.8,gorman,"Table S10.8, lemma: corpus and Stanza against UDPipe",53897
+S10.8.lemma.corpus_and_udpipe_against_stanza,S10.8,gorman,"Table S10.8, lemma: corpus and UDPipe against Stanza",11737
+S10.8.lemma.two_models_against_corpus,S10.8,gorman,"Table S10.8, lemma: the two models against the corpus",18581
+S10.8.lemma.no_pair_agrees,S10.8,gorman,"Table S10.8, lemma: no pair agrees",28758
+S10.8.lemma.total,S10.8,gorman,"Table S10.8, lemma: total of eligible words",548803
+S10.8.tag.all_three_agree,S10.8,gorman,"Table S10.8, tag: all three agree",348446
+S10.8.tag.corpus_and_stanza_against_udpipe,S10.8,gorman,"Table S10.8, tag: corpus and Stanza against UDPipe",108278
+S10.8.tag.corpus_and_udpipe_against_stanza,S10.8,gorman,"Table S10.8, tag: corpus and UDPipe against Stanza",18025
+S10.8.tag.two_models_against_corpus,S10.8,gorman,"Table S10.8, tag: the two models against the corpus",43317
+S10.8.tag.no_pair_agrees,S10.8,gorman,"Table S10.8, tag: no pair agrees",30527
+S10.8.tag.total,S10.8,gorman,"Table S10.8, tag: total of eligible words",548593
+S10.13.modelcmp_tag_two_models_against_corpus,S10.13,gorman,"three_way_agreement of modelcmp.py, tag: the two models against the corpus",43487
+S10.13.modelcmp_tag_words,S10.13,gorman,three_way_agreement of modelcmp.py: words aligned,548912
+S10.9.g.corpus_words,S10.9,gorman,words that the corpus tags g in the first position,0
+S10.9.g.stanza_words,S10.9,gorman,words that Stanza tags g (all the words),4418
+S10.9.g.udpipe_words,S10.9,gorman,words that UDPipe tags g (all the words),38438
+S10.9.g.models_agree,S10.9,gorman,words on which the two models agree on g--------,3013
+S10.9.g.models_agree_corpus_d,S10.9,gorman,... of which the corpus writes d--------,2735
+S10.9.agreed_substitutions,S10.9,gorman,words on which the two models agree against the corpus tag,43317
+S10.9.fulltag.d_to_c.words,S10.9,gorman,d-------- replaced by c--------: words,6142
+S10.9.fulltag.d_to_c.forms,S10.9,gorman,d-------- replaced by c--------: forms,28
+S10.9.fulltag.d_to_g.words,S10.9,gorman,d-------- replaced by g--------: words,2735
+S10.9.fulltag.d_to_g.forms,S10.9,gorman,d-------- replaced by g--------: forms,46
+S10.9.fulltag.over_1000.count,S10.9,gorman,"complete-tag substitutions that recur more than 1,000 times",3
+S10.9.fulltag.over_1000.share,S10.9,gorman,their share of the cases (percent),23.3
+S10.9.pair.d>c,S10.9,gorman,"first position d in the corpus, c in the models: words",6468
+S10.9.pair.a>a,S10.9,gorman,"first position a in the corpus, a in the models: words",5738
+S10.9.pair.v>v,S10.9,gorman,"first position v in the corpus, v in the models: words",5153
+S10.9.pair.p>p,S10.9,gorman,"first position p in the corpus, p in the models: words",4155
+S10.9.pair.n>n,S10.9,gorman,"first position n in the corpus, n in the models: words",3589
+S10.9.pair.l>l,S10.9,gorman,"first position l in the corpus, l in the models: words",2795
+S10.9.pair.d>g,S10.9,gorman,"first position d in the corpus, g in the models: words",2778
+S10.9.pair.n>a,S10.9,gorman,"first position n in the corpus, a in the models: words",2387
+S10.9.pair.d>d,S10.9,gorman,"first position d in the corpus, d in the models: words",2145
+S10.9.pair.p>a,S10.9,gorman,"first position p in the corpus, a in the models: words",1751
+S10.9.pair.a>n,S10.9,gorman,"first position a in the corpus, n in the models: words",1643
+S10.9.pair.a>p,S10.9,gorman,"first position a in the corpus, p in the models: words",1313
+S10.9.pair.count_at_least_1000,S10.9,gorman,"pairs of first positions that recur at least 1,000 times",12
+S10.9.pair.share,S10.9,gorman,their share of the cases (percent),92.1
+S10.6.degree.eligible,S10.6,gorman,words with a nine-character corpus tag,548593
+S10.6.degree.stanza_fills,S10.6,gorman,words on which Stanza fills the ninth position,3516
+S10.6.degree.udpipe_fills,S10.6,gorman,words on which UDPipe fills the ninth position,2271
+S10.6.degree.corpus_fills,S10.6,gorman,words on which the corpus fills the ninth position,16476
+S10.6.degree.underscore,S10.6,gorman,... with the underscore,11187
+S10.6.degree.p,S10.6,gorman,... with p,1218
+S10.6.degree.cs,S10.6,gorman,... with c or s,4071
+S10.6.degree.stanza_agrees_cs,S10.6,gorman,words with c or s on which Stanza agrees,2993
+S10.6.degree.udpipe_agrees_cs,S10.6,gorman,words with c or s on which UDPipe agrees,1506
+S10.3.stanza.lemma.agreements,S10.3,pedalion,"Table S10.3, Stanza, lemma: agreements",204950
+S10.3.stanza.lemma.denominator,S10.3,pedalion,"Table S10.3, Stanza, lemma: denominator",238389
+S10.3.stanza.lemma.rate,S10.3,pedalion,"Table S10.3, Stanza, lemma: rate (percent)",85.97
+S10.3.stanza.lemma.rate_1dp,S10.3,pedalion,"Table 9 of the article, Stanza, lemma: rate to one decimal (percent)",86.0
+S10.3.udpipe.lemma.agreements,S10.3,pedalion,"Table S10.3, UDPipe, lemma: agreements",187521
+S10.3.udpipe.lemma.denominator,S10.3,pedalion,"Table S10.3, UDPipe, lemma: denominator",238389
+S10.3.udpipe.lemma.rate,S10.3,pedalion,"Table S10.3, UDPipe, lemma: rate (percent)",78.66
+S10.3.udpipe.lemma.rate_1dp,S10.3,pedalion,"Table 9 of the article, UDPipe, lemma: rate to one decimal (percent)",78.7
+S10.3.stanza.tag.agreements,S10.3,pedalion,"Table S10.3, Stanza, tag: agreements",170049
+S10.3.stanza.tag.denominator,S10.3,pedalion,"Table S10.3, Stanza, tag: denominator",238311
+S10.3.stanza.tag.rate,S10.3,pedalion,"Table S10.3, Stanza, tag: rate (percent)",71.36
+S10.3.stanza.tag.rate_1dp,S10.3,pedalion,"Table 9 of the article, Stanza, tag: rate to one decimal (percent)",71.4
+S10.3.stanza.tag.interpretable,S10.3,pedalion,"Table S10.3, Stanza, tag: predictions with the AGDT form",238311
+S10.3.stanza.tag.malformed,S10.3,pedalion,"Table S10.3, Stanza, tag: malformed predictions",0
+S10.3.udpipe.tag.agreements,S10.3,pedalion,"Table S10.3, UDPipe, tag: agreements",138585
+S10.3.udpipe.tag.denominator,S10.3,pedalion,"Table S10.3, UDPipe, tag: denominator",238311
+S10.3.udpipe.tag.rate,S10.3,pedalion,"Table S10.3, UDPipe, tag: rate (percent)",58.15
+S10.3.udpipe.tag.rate_1dp,S10.3,pedalion,"Table 9 of the article, UDPipe, tag: rate to one decimal (percent)",58.2
+S10.3.udpipe.tag.interpretable,S10.3,pedalion,"Table S10.3, UDPipe, tag: predictions with the AGDT form",238304
+S10.3.udpipe.tag.malformed,S10.3,pedalion,"Table S10.3, UDPipe, tag: malformed predictions",7
+S10.8.lemma.all_three_agree,S10.8,pedalion,"Table S10.8, lemma: all three agree",180848
+S10.8.lemma.corpus_and_stanza_against_udpipe,S10.8,pedalion,"Table S10.8, lemma: corpus and Stanza against UDPipe",24102
+S10.8.lemma.corpus_and_udpipe_against_stanza,S10.8,pedalion,"Table S10.8, lemma: corpus and UDPipe against Stanza",6673
+S10.8.lemma.two_models_against_corpus,S10.8,pedalion,"Table S10.8, lemma: the two models against the corpus",9432
+S10.8.lemma.no_pair_agrees,S10.8,pedalion,"Table S10.8, lemma: no pair agrees",17334
+S10.8.lemma.total,S10.8,pedalion,"Table S10.8, lemma: total of eligible words",238389
+S10.8.tag.all_three_agree,S10.8,pedalion,"Table S10.8, tag: all three agree",129645
+S10.8.tag.corpus_and_stanza_against_udpipe,S10.8,pedalion,"Table S10.8, tag: corpus and Stanza against UDPipe",40404
+S10.8.tag.corpus_and_udpipe_against_stanza,S10.8,pedalion,"Table S10.8, tag: corpus and UDPipe against Stanza",8940
+S10.8.tag.two_models_against_corpus,S10.8,pedalion,"Table S10.8, tag: the two models against the corpus",33754
+S10.8.tag.no_pair_agrees,S10.8,pedalion,"Table S10.8, tag: no pair agrees",25568
+S10.8.tag.total,S10.8,pedalion,"Table S10.8, tag: total of eligible words",238311
+S10.9.g.corpus_words,S10.9,pedalion,words that the corpus tags g in the first position,0
+S10.9.g.stanza_words,S10.9,pedalion,words that Stanza tags g (all the words),6131
+S10.9.g.udpipe_words,S10.9,pedalion,words that UDPipe tags g (all the words),16966
+S10.9.g.models_agree,S10.9,pedalion,words on which the two models agree on g--------,4726
+S10.9.g.models_agree_corpus_d,S10.9,pedalion,... of which the corpus writes d--------,4113
+S10.9.agreed_substitutions,S10.9,pedalion,words on which the two models agree against the corpus tag,33754
+S10.9.fulltag.b_to_c.words,S10.9,pedalion,b-------- replaced by c--------: words,4991
+S10.9.fulltag.b_to_c.forms,S10.9,pedalion,b-------- replaced by c--------: forms,16
+S10.9.fulltag.d_to_g.words,S10.9,pedalion,d-------- replaced by g--------: words,4113
+S10.9.fulltag.d_to_g.forms,S10.9,pedalion,d-------- replaced by g--------: forms,61
+S10.9.fulltag.over_1000.count,S10.9,pedalion,"complete-tag substitutions that recur more than 1,000 times",4
+S10.9.fulltag.over_1000.share,S10.9,pedalion,their share of the cases (percent),34.4
+S10.9.pair.p>p,S10.9,pedalion,"first position p in the corpus, p in the models: words",6445
+S10.9.pair.b>c,S10.9,pedalion,"first position b in the corpus, c in the models: words",4991
+S10.9.pair.d>g,S10.9,pedalion,"first position d in the corpus, g in the models: words",4113
+S10.9.pair.p>a,S10.9,pedalion,"first position p in the corpus, a in the models: words",3258
+S10.9.pair.v>v,S10.9,pedalion,"first position v in the corpus, v in the models: words",2082
+S10.9.pair.n>n,S10.9,pedalion,"first position n in the corpus, n in the models: words",1810
+S10.9.pair.a>a,S10.9,pedalion,"first position a in the corpus, a in the models: words",1803
+S10.9.pair.d>c,S10.9,pedalion,"first position d in the corpus, c in the models: words",1413
+S10.9.pair.c>d,S10.9,pedalion,"first position c in the corpus, d in the models: words",1129
+S10.9.pair.l>l,S10.9,pedalion,"first position l in the corpus, l in the models: words",1121
+S10.9.pair.a>n,S10.9,pedalion,"first position a in the corpus, n in the models: words",1026
+S10.9.pair.count_at_least_1000,S10.9,pedalion,"pairs of first positions that recur at least 1,000 times",11
+S10.9.pair.share,S10.9,pedalion,their share of the cases (percent),86.5
+S10.6.degree.corpus_fills,S10.6,pedalion,words on which the corpus fills the ninth position,3354
+S10.6.degree.underscore,S10.6,pedalion,... with the underscore,270
+S10.6.degree.p,S10.6,pedalion,... with p,454
+S10.6.degree.cs,S10.6,pedalion,... with c or s,2630
+S10.6.degree.stanza_fills,S10.6,pedalion,words on which Stanza fills the ninth position,1483
+S10.6.degree.udpipe_fills,S10.6,pedalion,words on which UDPipe fills the ninth position,996
+S10.6.degree.stanza_agrees_cs,S10.6,pedalion,words with c or s on which Stanza agrees,1319
+S10.6.degree.udpipe_agrees_cs,S10.6,pedalion,words with c or s on which UDPipe agrees,619
+S10.6.degree.stanza_disagreements,S10.6,pedalion,words with the position filled on which Stanza disagrees,2035
+S10.6.degree.udpipe_disagreements,S10.6,pedalion,words with the position filled on which UDPipe disagrees,2735
+S10.6.degree.stanza_disagreements_model_hyphen,S10.6,pedalion,... of which on c or s with the hyphen in the Stanza tag,1311
+S10.6.degree.udpipe_disagreements_model_hyphen,S10.6,pedalion,... of which on c or s with the hyphen in the UDPipe tag,2011

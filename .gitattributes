@@ -1,0 +1,5 @@
+# Keep every file exactly as it is in this package, byte for byte.
+# INVENTORY.md and SHA256SUMS give the SHA-256 of each file; the Windows launchers (*.bat) and some
+# CSV files end their lines with CR LF, the rest with LF. A version-control system that converts line
+# endings (for instance core.autocrlf on Windows) would change those bytes and the checksums would no longer hold.
+* -text

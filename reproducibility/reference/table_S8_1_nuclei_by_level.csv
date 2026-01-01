@@ -1,0 +1,7 @@
+stratum,label,morphology,tag_positions,context,dependencies,lemmas,total
+gorman,Gorman,6159,8259,3526,13416,2292,33652
+pedalion,Pedalion,3427,4534,735,4432,720,13848
+glaux_auto,GLAUx automatic,2956,3600,586,4158,47,11347
+glaux_man,GLAUx manual,382,495,3,98,18,996
+glaux_conf_auto,GLAUx confirmation automatic,2554,3284,580,4623,10,11051
+glaux_conf_man,GLAUx confirmation manual,297,345,22,372,5,1041

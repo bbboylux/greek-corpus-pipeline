@@ -1,0 +1,26 @@
+{
+ "id": "varianti-canoniche-di-lemma",
+ "nome": "Varianti canoniche di lemma",
+ "name_en": "Canonical lemma variants",
+ "versione": "1.0.0",
+ "funzione": "The spellings that different corpora use for the same lemma, and the form on which they are aligned when they are compared with one another. It applies only to the comparison between resources: applying it to the counts of a single corpus would rewrite its lexicon according to the convention of another.",
+ "usata_da": [
+  "lemma · lemma-graphic-variant",
+  "normalise.canonical_variant · comparison between different corpora (outside the diagnosis)"
+ ],
+ "fonte": "Reading of the corpora. Twelve entries.",
+ "voci": {
+  "γέ": "γε",
+  "γαἶα": "γῆ",
+  "δοκάω": "δοκέω",
+  "εἴ": "εἰ",
+  "κλάω": "κλαίω",
+  "νοῦς": "νόος",
+  "νύν": "νυν",
+  "ποτέ": "ποτε",
+  "τέ": "τε",
+  "τοί": "τοι",
+  "ἀείρω": "αἴρω",
+  "ἄγε": "ἄγω"
+ }
+}

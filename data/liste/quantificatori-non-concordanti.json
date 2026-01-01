@@ -1,0 +1,18 @@
+{
+ "id": "quantificatori-non-concordanti",
+ "nome": "Quantificatori che non concordano",
+ "name_en": "Non-agreeing quantifiers",
+ "versione": "1.0.0",
+ "funzione": "The quantifiers whose disagreement with the noun is normal and must not be reported as a failure of agreement.",
+ "usata_da": [
+  "agdt_schema.is_non_agreeing_quantifier",
+  "agreement · agreement-modifier (exclusion)"
+ ],
+ "fonte": "Grammar: Smyth (1920) §§ 952, 962 a, 982, 999 for ἄμφω, ἑκάτερος, ἕκαστος; no statement in Smyth has been found for εἷς.",
+ "voci": [
+  "εἷς",
+  "ἄμφω",
+  "ἑκάτερος",
+  "ἕκαστος"
+ ]
+}

@@ -1,0 +1,7 @@
+stratum,findings,violations,to_verify,variants,violation_share
+gorman,101047,1914,7220,91913,0.0189
+pedalion,29515,1361,11570,16584,0.0461
+glaux_auto,13168,378,11006,1784,0.0287
+glaux_man,2400,41,950,1409,0.0171
+glaux_conf_auto,11259,172,9626,1461,0.0153
+glaux_conf_man,3188,15,1037,2136,0.0047

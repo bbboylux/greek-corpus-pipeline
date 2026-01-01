@@ -1,0 +1,13 @@
+# The minimum dependencies needed to run Greek Corpus Pipeline.
+# They are the same as those declared in pyproject.toml: this file is for whoever
+# prefers "pip install -r requirements.txt" to "pip install -e .".
+pandas>=2.2
+numpy>=1.26
+pyarrow>=14.0
+PyQt6>=6.5
+matplotlib>=3.8
+
+# Optional: the two automatic annotation models, which download additional
+# resources on first use. The program works without them.
+# stanza>=1.10
+# ufal.udpipe>=1.3.1.1

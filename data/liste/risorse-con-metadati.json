@@ -1,0 +1,63 @@
+{
+ "id": "risorse-con-metadati",
+ "nome": "Risorse per cui GCP distribuisce metadati propri",
+ "name_en": "Resources for which GCP ships its own metadata",
+ "versione": "1.0.0",
+ "funzione": "The resources that GCP recognises from the fingerprint of the imported corpus, and the metadata catalogue that it can apply to each. Recognition is by fingerprint and nothing else: not by the name of the folder and not by what the user typed in the name field. The fingerprint is computed on the sentences and forms of the corpus together with the names of its files and the identifiers of its documents, so that a corpus whose files have been renamed is not recognised.",
+ "usata_da": [
+  "corpus_metadata.riconosci_risorsa",
+  "corpus_metadata.enrich_tokens"
+ ],
+ "fonte": "Fingerprints computed with manifest.corpus_fingerprint on the imported corpus, before any scientific filter, on the versions that GCP has analysed.",
+ "nota": "A fingerprint that does not appear here is not an error: it is a corpus that GCP does not know. In that case no series catalogue is applied, and the only attribution possible comes from the identifiers that the files declare about themselves or from a CSV that the user loads.",
+ "voci": [
+  {
+   "risorsa": "Gorman",
+   "versione": "run 2026-08, 625,176 records imported",
+   "impronta": "161cf700d953cac9",
+   "file_metadati": "gorman_metadata.csv",
+   "chiave_join": "source_file",
+   "record_importati": 625176
+  },
+  {
+   "risorsa": "Pedalion",
+   "versione": "run 2026-08, 281,245 records imported",
+   "impronta": "ff22642971f9d9c8",
+   "file_metadati": "pedalion_metadata.csv",
+   "chiave_join": "source_file",
+   "record_importati": 281245
+  },
+  {
+   "risorsa": "GLAUx, declared sample, automatic annotation",
+   "versione": "run 2026-08, 300,292 records imported",
+   "impronta": "41a986e01196402d",
+   "file_metadati": "glaux_metadata.csv",
+   "chiave_join": "document_id",
+   "record_importati": 300292
+  },
+  {
+   "risorsa": "GLAUx, declared sample, manual annotation",
+   "versione": "run 2026-08, 21,652 records imported",
+   "impronta": "7271c839d5b45f51",
+   "file_metadati": "glaux_metadata.csv",
+   "chiave_join": "document_id",
+   "record_importati": 21652
+  },
+  {
+   "risorsa": "GLAUx, confirmation sample, automatic annotation",
+   "versione": "run 2026-08, 273,354 records imported",
+   "impronta": "9b39d109354153a6",
+   "file_metadati": "glaux_metadata.csv",
+   "chiave_join": "document_id",
+   "record_importati": 273354
+  },
+  {
+   "risorsa": "GLAUx, confirmation sample, manual annotation",
+   "versione": "run 2026-08, 28,666 records imported",
+   "impronta": "8e7a0ca5d6a78815",
+   "file_metadati": "glaux_metadata.csv",
+   "chiave_join": "document_id",
+   "record_importati": 28666
+  }
+ ]
+}

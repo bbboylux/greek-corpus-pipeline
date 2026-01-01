@@ -1,0 +1,242 @@
+id,section,corpus,quantity,expected
+S10.12.gorman.hdt-1.training,S10.12,gorman,"Table S10.12, Gorman, Herodotus 1 (hdt-1): training",17095
+S10.12.gorman.hdt-1.development,S10.12,gorman,"Table S10.12, Gorman, Herodotus 1 (hdt-1): development",0
+S10.12.gorman.hdt-1.test,S10.12,gorman,"Table S10.12, Gorman, Herodotus 1 (hdt-1): test",0
+S10.12.gorman.hdt-1.no_overlap,S10.12,gorman,"Table S10.12, Gorman, Herodotus 1 (hdt-1): no overlap",12081
+S10.12.gorman.hdt-1.words,S10.12,gorman,"Table S10.12, Gorman, Herodotus 1 (hdt-1): words",29176
+S10.12.gorman.diodsic.training,S10.12,gorman,"Table S10.12, Gorman, Diodorus 11 (diodsic): training",15242
+S10.12.gorman.diodsic.development,S10.12,gorman,"Table S10.12, Gorman, Diodorus 11 (diodsic): development",0
+S10.12.gorman.diodsic.test,S10.12,gorman,"Table S10.12, Gorman, Diodorus 11 (diodsic): test",0
+S10.12.gorman.diodsic.no_overlap,S10.12,gorman,"Table S10.12, Gorman, Diodorus 11 (diodsic): no overlap",7831
+S10.12.gorman.diodsic.words,S10.12,gorman,"Table S10.12, Gorman, Diodorus 11 (diodsic): words",23073
+S10.12.gorman.athen12.training,S10.12,gorman,"Table S10.12, Gorman, Athenaeus 12 (athen12): training",212
+S10.12.gorman.athen12.development,S10.12,gorman,"Table S10.12, Gorman, Athenaeus 12 (athen12): development",1525
+S10.12.gorman.athen12.test,S10.12,gorman,"Table S10.12, Gorman, Athenaeus 12 (athen12): test",15757
+S10.12.gorman.athen12.no_overlap,S10.12,gorman,"Table S10.12, Gorman, Athenaeus 12 (athen12): no overlap",13968
+S10.12.gorman.athen12.words,S10.12,gorman,"Table S10.12, Gorman, Athenaeus 12 (athen12): words",31462
+S10.12.gorman.athen13.training,S10.12,gorman,"Table S10.12, Gorman, Athenaeus 13 (athen13): training",6247
+S10.12.gorman.athen13.development,S10.12,gorman,"Table S10.12, Gorman, Athenaeus 13 (athen13): development",0
+S10.12.gorman.athen13.test,S10.12,gorman,"Table S10.12, Gorman, Athenaeus 13 (athen13): test",19519
+S10.12.gorman.athen13.no_overlap,S10.12,gorman,"Table S10.12, Gorman, Athenaeus 13 (athen13): no overlap",17749
+S10.12.gorman.athen13.words,S10.12,gorman,"Table S10.12, Gorman, Athenaeus 13 (athen13): words",43515
+S10.12.gorman.thuc-1.training,S10.12,gorman,"Table S10.12, Gorman, Thucydides 1 (thuc-1): training",5
+S10.12.gorman.thuc-1.development,S10.12,gorman,"Table S10.12, Gorman, Thucydides 1 (thuc-1): development",9229
+S10.12.gorman.thuc-1.test,S10.12,gorman,"Table S10.12, Gorman, Thucydides 1 (thuc-1): test",0
+S10.12.gorman.thuc-1.no_overlap,S10.12,gorman,"Table S10.12, Gorman, Thucydides 1 (thuc-1): no overlap",13240
+S10.12.gorman.thuc-1.words,S10.12,gorman,"Table S10.12, Gorman, Thucydides 1 (thuc-1): words",22474
+S10.12.gorman.plut-alcib.training,S10.12,gorman,"Table S10.12, Gorman, Plutarch, Alcibiades (plut-alcib): training",5
+S10.12.gorman.plut-alcib.development,S10.12,gorman,"Table S10.12, Gorman, Plutarch, Alcibiades (plut-alcib): development",4343
+S10.12.gorman.plut-alcib.test,S10.12,gorman,"Table S10.12, Gorman, Plutarch, Alcibiades (plut-alcib): test",5
+S10.12.gorman.plut-alcib.no_overlap,S10.12,gorman,"Table S10.12, Gorman, Plutarch, Alcibiades (plut-alcib): no overlap",5727
+S10.12.gorman.plut-alcib.words,S10.12,gorman,"Table S10.12, Gorman, Plutarch, Alcibiades (plut-alcib): words",10080
+S10.12.gorman.plutarch-lycurgus.training,S10.12,gorman,"Table S10.12, Gorman, Plutarch, Lycurgus (plutarch-: training",0
+S10.12.gorman.plutarch-lycurgus.development,S10.12,gorman,"Table S10.12, Gorman, Plutarch, Lycurgus (plutarch-: development",4451
+S10.12.gorman.plutarch-lycurgus.test,S10.12,gorman,"Table S10.12, Gorman, Plutarch, Lycurgus (plutarch-: test",0
+S10.12.gorman.plutarch-lycurgus.no_overlap,S10.12,gorman,"Table S10.12, Gorman, Plutarch, Lycurgus (plutarch-: no overlap",4933
+S10.12.gorman.plutarch-lycurgus.words,S10.12,gorman,"Table S10.12, Gorman, Plutarch, Lycurgus (plutarch-: words",9384
+S10.12.gorman.other.training,S10.12,gorman,"Table S10.12, Gorman, other works: training",259
+S10.12.gorman.other.development,S10.12,gorman,"Table S10.12, Gorman, other works: development",147
+S10.12.gorman.other.test,S10.12,gorman,"Table S10.12, Gorman, other works: test",32
+S10.12.gorman.other.no_overlap,S10.12,gorman,"Table S10.12, Gorman, other works: no overlap",379310
+S10.12.gorman.other.words,S10.12,gorman,"Table S10.12, Gorman, other works: words",379748
+S10.12.gorman.total.training,S10.12,gorman,"Table S10.12, Gorman, total: training",39065
+S10.12.gorman.total.development,S10.12,gorman,"Table S10.12, Gorman, total: development",19695
+S10.12.gorman.total.test,S10.12,gorman,"Table S10.12, Gorman, total: test",35313
+S10.12.gorman.total.no_overlap,S10.12,gorman,"Table S10.12, Gorman, total: no overlap",454839
+S10.12.gorman.total.words,S10.12,gorman,"Table S10.12, Gorman, total: words",548912
+S10.12.pedalion.total.training,S10.12,pedalion,"Table S10.12, Pedalion, total: training",1282
+S10.12.pedalion.total.development,S10.12,pedalion,"Table S10.12, Pedalion, total: development",257
+S10.12.pedalion.total.test,S10.12,pedalion,"Table S10.12, Pedalion, total: test",119
+S10.12.pedalion.total.no_overlap,S10.12,pedalion,"Table S10.12, Pedalion, total: no overlap",236755
+S10.12.pedalion.total.words,S10.12,pedalion,"Table S10.12, Pedalion, total: words",238413
+S10.13.gorman.lemma_stanza.training.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, training: agreements",38110
+S10.13.gorman.lemma_stanza.training.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, training: eligible words",39063
+S10.13.gorman.lemma_stanza.training.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, training: rate (%)",97.56
+S10.13.gorman.lemma_stanza.development.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, development: agreements",17721
+S10.13.gorman.lemma_stanza.development.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, development: eligible words",19695
+S10.13.gorman.lemma_stanza.development.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, development: rate (%)",89.98
+S10.13.gorman.lemma_stanza.test.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, test: agreements",30220
+S10.13.gorman.lemma_stanza.test.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, test: eligible words",35313
+S10.13.gorman.lemma_stanza.test.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, test: rate (%)",85.58
+S10.13.gorman.lemma_stanza.no_overlap.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, no overlap: agreements",403676
+S10.13.gorman.lemma_stanza.no_overlap.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, no overlap: eligible words",454732
+S10.13.gorman.lemma_stanza.no_overlap.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, no overlap: rate (%)",88.77
+S10.13.gorman.lemma_stanza.all_words.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, all words: agreements",489727
+S10.13.gorman.lemma_stanza.all_words.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, all words: eligible words",548803
+S10.13.gorman.lemma_stanza.all_words.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, all words: rate (%)",89.24
+S10.13.gorman.lemma_stanza.without_training_overlap.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, without training overlap: agreements",451617
+S10.13.gorman.lemma_stanza.without_training_overlap.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, without training overlap: eligible words",509740
+S10.13.gorman.lemma_stanza.without_training_overlap.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, Stanza, without training overlap: rate (%)",88.6
+S10.13.gorman.lemma_udpipe.training.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, training: agreements",38160
+S10.13.gorman.lemma_udpipe.training.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, training: eligible words",39063
+S10.13.gorman.lemma_udpipe.training.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, training: rate (%)",97.69
+S10.13.gorman.lemma_udpipe.development.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, development: agreements",16079
+S10.13.gorman.lemma_udpipe.development.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, development: eligible words",19695
+S10.13.gorman.lemma_udpipe.development.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, development: rate (%)",81.64
+S10.13.gorman.lemma_udpipe.test.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, test: agreements",27533
+S10.13.gorman.lemma_udpipe.test.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, test: eligible words",35313
+S10.13.gorman.lemma_udpipe.test.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, test: rate (%)",77.97
+S10.13.gorman.lemma_udpipe.no_overlap.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, no overlap: agreements",365795
+S10.13.gorman.lemma_udpipe.no_overlap.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, no overlap: eligible words",454732
+S10.13.gorman.lemma_udpipe.no_overlap.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, no overlap: rate (%)",80.44
+S10.13.gorman.lemma_udpipe.all_words.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, all words: agreements",447567
+S10.13.gorman.lemma_udpipe.all_words.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, all words: eligible words",548803
+S10.13.gorman.lemma_udpipe.all_words.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, all words: rate (%)",81.55
+S10.13.gorman.lemma_udpipe.without_training_overlap.agreements,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, without training overlap: agreements",409407
+S10.13.gorman.lemma_udpipe.without_training_overlap.eligible,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, without training overlap: eligible words",509740
+S10.13.gorman.lemma_udpipe.without_training_overlap.rate,S10.13,gorman,"Table S10.13, Gorman, lemma, UDPipe, without training overlap: rate (%)",80.32
+S10.13.gorman.tag_stanza.training.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, training: agreements",35731
+S10.13.gorman.tag_stanza.training.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, training: eligible words",39062
+S10.13.gorman.tag_stanza.training.rate,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, training: rate (%)",91.47
+S10.13.gorman.tag_stanza.development.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, development: agreements",16943
+S10.13.gorman.tag_stanza.development.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, development: eligible words",19694
+S10.13.gorman.tag_stanza.development.rate,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, development: rate (%)",86.03
+S10.13.gorman.tag_stanza.test.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, test: agreements",28886
+S10.13.gorman.tag_stanza.test.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, test: eligible words",35165
+S10.13.gorman.tag_stanza.test.rate,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, test: rate (%)",82.14
+S10.13.gorman.tag_stanza.no_overlap.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, no overlap: agreements",375164
+S10.13.gorman.tag_stanza.no_overlap.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, no overlap: eligible words",454672
+S10.13.gorman.tag_stanza.no_overlap.rate,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, no overlap: rate (%)",82.51
+S10.13.gorman.tag_stanza.all_words.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, all words: agreements",456724
+S10.13.gorman.tag_stanza.all_words.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, all words: eligible words",548593
+S10.13.gorman.tag_stanza.all_words.rate,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, all words: rate (%)",83.25
+S10.13.gorman.tag_stanza.without_training_overlap.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, without training overlap: agreements",420993
+S10.13.gorman.tag_stanza.without_training_overlap.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, without training overlap: eligible words",509531
+S10.13.gorman.tag_stanza.without_training_overlap.rate,S10.13,gorman,"Table S10.13, Gorman, tag, Stanza, without training overlap: rate (%)",82.62
+S10.13.gorman.tag_udpipe.training.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, training: agreements",33108
+S10.13.gorman.tag_udpipe.training.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, training: eligible words",39062
+S10.13.gorman.tag_udpipe.training.rate,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, training: rate (%)",84.76
+S10.13.gorman.tag_udpipe.development.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, development: agreements",13404
+S10.13.gorman.tag_udpipe.development.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, development: eligible words",19694
+S10.13.gorman.tag_udpipe.development.rate,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, development: rate (%)",68.06
+S10.13.gorman.tag_udpipe.test.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, test: agreements",23708
+S10.13.gorman.tag_udpipe.test.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, test: eligible words",35165
+S10.13.gorman.tag_udpipe.test.rate,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, test: rate (%)",67.42
+S10.13.gorman.tag_udpipe.no_overlap.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, no overlap: agreements",296251
+S10.13.gorman.tag_udpipe.no_overlap.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, no overlap: eligible words",454672
+S10.13.gorman.tag_udpipe.no_overlap.rate,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, no overlap: rate (%)",65.16
+S10.13.gorman.tag_udpipe.all_words.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, all words: agreements",366471
+S10.13.gorman.tag_udpipe.all_words.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, all words: eligible words",548593
+S10.13.gorman.tag_udpipe.all_words.rate,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, all words: rate (%)",66.8
+S10.13.gorman.tag_udpipe.without_training_overlap.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, without training overlap: agreements",333363
+S10.13.gorman.tag_udpipe.without_training_overlap.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, without training overlap: eligible words",509531
+S10.13.gorman.tag_udpipe.without_training_overlap.rate,S10.13,gorman,"Table S10.13, Gorman, tag, UDPipe, without training overlap: rate (%)",65.43
+S10.13.gorman.tag_both_against.training.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, training: agreements",873
+S10.13.gorman.tag_both_against.training.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, training: eligible words",39062
+S10.13.gorman.tag_both_against.training.rate,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, training: rate (%)",2.23
+S10.13.gorman.tag_both_against.development.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, development: agreements",1322
+S10.13.gorman.tag_both_against.development.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, development: eligible words",19694
+S10.13.gorman.tag_both_against.development.rate,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, development: rate (%)",6.71
+S10.13.gorman.tag_both_against.test.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, test: agreements",2897
+S10.13.gorman.tag_both_against.test.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, test: eligible words",35165
+S10.13.gorman.tag_both_against.test.rate,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, test: rate (%)",8.24
+S10.13.gorman.tag_both_against.no_overlap.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, no overlap: agreements",38225
+S10.13.gorman.tag_both_against.no_overlap.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, no overlap: eligible words",454672
+S10.13.gorman.tag_both_against.no_overlap.rate,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, no overlap: rate (%)",8.41
+S10.13.gorman.tag_both_against.all_words.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, all words: agreements",43317
+S10.13.gorman.tag_both_against.all_words.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, all words: eligible words",548593
+S10.13.gorman.tag_both_against.all_words.rate,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, all words: rate (%)",7.9
+S10.13.gorman.tag_both_against.without_training_overlap.agreements,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, without training overlap: agreements",42444
+S10.13.gorman.tag_both_against.without_training_overlap.eligible,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, without training overlap: eligible words",509531
+S10.13.gorman.tag_both_against.without_training_overlap.rate,S10.13,gorman,"Table S10.13, Gorman, tag, both models against the corpus, without training overlap: rate (%)",8.33
+S10.13.pedalion.lemma_stanza.training.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, training: agreements",1178
+S10.13.pedalion.lemma_stanza.training.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, training: eligible words",1282
+S10.13.pedalion.lemma_stanza.training.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, training: rate (%)",91.89
+S10.13.pedalion.lemma_stanza.development.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, development: agreements",224
+S10.13.pedalion.lemma_stanza.development.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, development: eligible words",257
+S10.13.pedalion.lemma_stanza.development.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, development: rate (%)",87.16
+S10.13.pedalion.lemma_stanza.test.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, test: agreements",102
+S10.13.pedalion.lemma_stanza.test.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, test: eligible words",119
+S10.13.pedalion.lemma_stanza.test.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, test: rate (%)",85.71
+S10.13.pedalion.lemma_stanza.no_overlap.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, no overlap: agreements",203446
+S10.13.pedalion.lemma_stanza.no_overlap.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, no overlap: eligible words",236731
+S10.13.pedalion.lemma_stanza.no_overlap.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, no overlap: rate (%)",85.94
+S10.13.pedalion.lemma_stanza.all_words.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, all words: agreements",204950
+S10.13.pedalion.lemma_stanza.all_words.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, all words: eligible words",238389
+S10.13.pedalion.lemma_stanza.all_words.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, all words: rate (%)",85.97
+S10.13.pedalion.lemma_stanza.without_training_overlap.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, without training overlap: agreements",203772
+S10.13.pedalion.lemma_stanza.without_training_overlap.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, without training overlap: eligible words",237107
+S10.13.pedalion.lemma_stanza.without_training_overlap.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, Stanza, without training overlap: rate (%)",85.94
+S10.13.pedalion.lemma_udpipe.training.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, training: agreements",1131
+S10.13.pedalion.lemma_udpipe.training.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, training: eligible words",1282
+S10.13.pedalion.lemma_udpipe.training.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, training: rate (%)",88.22
+S10.13.pedalion.lemma_udpipe.development.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, development: agreements",215
+S10.13.pedalion.lemma_udpipe.development.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, development: eligible words",257
+S10.13.pedalion.lemma_udpipe.development.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, development: rate (%)",83.66
+S10.13.pedalion.lemma_udpipe.test.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, test: agreements",100
+S10.13.pedalion.lemma_udpipe.test.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, test: eligible words",119
+S10.13.pedalion.lemma_udpipe.test.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, test: rate (%)",84.03
+S10.13.pedalion.lemma_udpipe.no_overlap.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, no overlap: agreements",186075
+S10.13.pedalion.lemma_udpipe.no_overlap.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, no overlap: eligible words",236731
+S10.13.pedalion.lemma_udpipe.no_overlap.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, no overlap: rate (%)",78.6
+S10.13.pedalion.lemma_udpipe.all_words.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, all words: agreements",187521
+S10.13.pedalion.lemma_udpipe.all_words.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, all words: eligible words",238389
+S10.13.pedalion.lemma_udpipe.all_words.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, all words: rate (%)",78.66
+S10.13.pedalion.lemma_udpipe.without_training_overlap.agreements,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, without training overlap: agreements",186390
+S10.13.pedalion.lemma_udpipe.without_training_overlap.eligible,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, without training overlap: eligible words",237107
+S10.13.pedalion.lemma_udpipe.without_training_overlap.rate,S10.13,pedalion,"Table S10.13, Pedalion, lemma, UDPipe, without training overlap: rate (%)",78.61
+S10.13.pedalion.tag_stanza.training.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, training: agreements",939
+S10.13.pedalion.tag_stanza.training.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, training: eligible words",1282
+S10.13.pedalion.tag_stanza.training.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, training: rate (%)",73.24
+S10.13.pedalion.tag_stanza.development.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, development: agreements",180
+S10.13.pedalion.tag_stanza.development.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, development: eligible words",257
+S10.13.pedalion.tag_stanza.development.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, development: rate (%)",70.04
+S10.13.pedalion.tag_stanza.test.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, test: agreements",97
+S10.13.pedalion.tag_stanza.test.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, test: eligible words",119
+S10.13.pedalion.tag_stanza.test.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, test: rate (%)",81.51
+S10.13.pedalion.tag_stanza.no_overlap.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, no overlap: agreements",168833
+S10.13.pedalion.tag_stanza.no_overlap.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, no overlap: eligible words",236653
+S10.13.pedalion.tag_stanza.no_overlap.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, no overlap: rate (%)",71.34
+S10.13.pedalion.tag_stanza.all_words.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, all words: agreements",170049
+S10.13.pedalion.tag_stanza.all_words.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, all words: eligible words",238311
+S10.13.pedalion.tag_stanza.all_words.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, all words: rate (%)",71.36
+S10.13.pedalion.tag_stanza.without_training_overlap.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, without training overlap: agreements",169110
+S10.13.pedalion.tag_stanza.without_training_overlap.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, without training overlap: eligible words",237029
+S10.13.pedalion.tag_stanza.without_training_overlap.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, Stanza, without training overlap: rate (%)",71.35
+S10.13.pedalion.tag_udpipe.training.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, training: agreements",892
+S10.13.pedalion.tag_udpipe.training.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, training: eligible words",1282
+S10.13.pedalion.tag_udpipe.training.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, training: rate (%)",69.58
+S10.13.pedalion.tag_udpipe.development.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, development: agreements",135
+S10.13.pedalion.tag_udpipe.development.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, development: eligible words",257
+S10.13.pedalion.tag_udpipe.development.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, development: rate (%)",52.53
+S10.13.pedalion.tag_udpipe.test.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, test: agreements",84
+S10.13.pedalion.tag_udpipe.test.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, test: eligible words",119
+S10.13.pedalion.tag_udpipe.test.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, test: rate (%)",70.59
+S10.13.pedalion.tag_udpipe.no_overlap.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, no overlap: agreements",137474
+S10.13.pedalion.tag_udpipe.no_overlap.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, no overlap: eligible words",236653
+S10.13.pedalion.tag_udpipe.no_overlap.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, no overlap: rate (%)",58.09
+S10.13.pedalion.tag_udpipe.all_words.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, all words: agreements",138585
+S10.13.pedalion.tag_udpipe.all_words.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, all words: eligible words",238311
+S10.13.pedalion.tag_udpipe.all_words.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, all words: rate (%)",58.15
+S10.13.pedalion.tag_udpipe.without_training_overlap.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, without training overlap: agreements",137693
+S10.13.pedalion.tag_udpipe.without_training_overlap.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, without training overlap: eligible words",237029
+S10.13.pedalion.tag_udpipe.without_training_overlap.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, UDPipe, without training overlap: rate (%)",58.09
+S10.13.pedalion.tag_both_against.training.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, training: agreements",202
+S10.13.pedalion.tag_both_against.training.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, training: eligible words",1282
+S10.13.pedalion.tag_both_against.training.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, training: rate (%)",15.76
+S10.13.pedalion.tag_both_against.development.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, development: agreements",54
+S10.13.pedalion.tag_both_against.development.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, development: eligible words",257
+S10.13.pedalion.tag_both_against.development.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, development: rate (%)",21.01
+S10.13.pedalion.tag_both_against.test.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, test: agreements",10
+S10.13.pedalion.tag_both_against.test.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, test: eligible words",119
+S10.13.pedalion.tag_both_against.test.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, test: rate (%)",8.4
+S10.13.pedalion.tag_both_against.no_overlap.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, no overlap: agreements",33488
+S10.13.pedalion.tag_both_against.no_overlap.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, no overlap: eligible words",236653
+S10.13.pedalion.tag_both_against.no_overlap.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, no overlap: rate (%)",14.15
+S10.13.pedalion.tag_both_against.all_words.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, all words: agreements",33754
+S10.13.pedalion.tag_both_against.all_words.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, all words: eligible words",238311
+S10.13.pedalion.tag_both_against.all_words.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, all words: rate (%)",14.16
+S10.13.pedalion.tag_both_against.without_training_overlap.agreements,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, without training overlap: agreements",33552
+S10.13.pedalion.tag_both_against.without_training_overlap.eligible,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, without training overlap: eligible words",237029
+S10.13.pedalion.tag_both_against.without_training_overlap.rate,S10.13,pedalion,"Table S10.13, Pedalion, tag, both models against the corpus, without training overlap: rate (%)",14.16
+S10.14.ud_sentences.train,S10.14,ud,UD_Ancient_Greek-Perseus training set: sentences,11476
+S10.14.ud_sentences.dev,S10.14,ud,UD_Ancient_Greek-Perseus development set: sentences,1137
+S10.14.ud_sentences.test,S10.14,ud,UD_Ancient_Greek-Perseus test set: sentences,1306
+S10.14.gorman.exact_train_words,S10.14,gorman,Gorman: words whose whole sentence coincides with a sentence of the training set,36632
+S10.14.gorman.exact_train_tag_identical,S10.14,gorman,"Gorman: of those words, tag identical to the XPOS of UD Perseus",35960
+S10.14.gorman.exact_train_tag_identical_pct,S10.14,gorman,"Gorman: the same, per cent (rounded to one decimal)",98.2
+S10.14.gorman.exact_train_lemma_identical_pct,S10.14,gorman,"Gorman: of those words, lemma identical without the Perseus numbering, per cent (one decimal)",99.7
+S10.14.gorman.train_pct,S10.14,gorman,"Gorman: share of words that overlap with the training set, per cent (one decimal)",7.1
+S10.14.gorman.no_overlap_pct,S10.14,gorman,"Gorman: share of words without overlap, per cent (one decimal)",82.9
+S10.14.pedalion.exact_train_words,S10.14,pedalion,Pedalion: words in sentences that coincide with sentences of the training set,1097
+S10.14.pedalion.train_pct,S10.14,pedalion,"Pedalion: share of words that overlap with the training set, per cent (one decimal)",0.5

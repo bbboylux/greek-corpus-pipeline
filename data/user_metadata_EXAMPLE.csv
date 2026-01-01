@@ -1,0 +1,3 @@
+﻿filename,corpus,author_it,author_en,tlg_author_id,work_it,work_en,date_start,date_end,date_label,century,period,dialect,genre,origin
+plato-respublica-1.xml,MyCorpus,Plato,Plato,0059,Republic,Republic,-380,-370,4th c. BCE,4th c. BCE,Classical,Attic,Philosophy,Athens
+herodotus-1.xml,MyCorpus,Herodotus,Herodotus,0016,Histories,Histories,-450,-420,5th c. BCE,5th c. BCE,Classical,Ionic,Historiography,Halicarnassus

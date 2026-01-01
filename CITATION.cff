@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Greek Corpus Pipeline
+message: If you use this software in your research, please cite it as below.
+type: software
+authors:
+  - name: Anonymous authors (withheld for double-blind review)
+version: 3.1.0
+license: MIT
+abstract: >-
+  Free desktop application for the diagnosis, assisted correction, search and
+  statistics of Ancient Greek treebanks in AGDT format. Seventy-seven
+  diagnostic checks classified on two axes - what kind of finding it is, and
+  what can be done with it - with the original never modified.
+keywords:
+  - ancient greek
+  - treebank
+  - AGDT
+  - annotation error detection
+  - digital classics
+  - corpus linguistics

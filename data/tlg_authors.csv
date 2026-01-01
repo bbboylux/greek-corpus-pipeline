@@ -1,0 +1,44 @@
+﻿tlg_author,author_it,author_en,date_start,date_end,date_label,century,period,dialect,origin
+tlg0003,Tucidide,Thucydides,-460,-400,ca. 460 – ca. 400 BCE,5th c. BCE,Classical,Literary Attic,Athens
+tlg0005,Teocrito,Theocritus,-315,-260,ca. 315 – ca. 260 BCE,3rd c. BCE,Hellenistic,Literary Doric,Syracuse
+tlg0006,Euripide,Euripides,-480,-406,ca. 480 – 406 BCE,5th c. BCE,Classical,Literary Attic,Athens (Salamis)
+tlg0007,Plutarco,Plutarchus,45,120,ca. 45/50 – after 120 CE,1st–2nd c. CE,Imperial,Literary Koine,Chaeronea (Boeotia)
+tlg0008,Ateneo di Naucrati,Athenaeus,180,230,fl. ca. 200 CE,2nd–3rd c. CE,Imperial,Atticism,Naucratis (Egypt)
+tlg0009,Saffo,Sappho,-630,-570,ca. 630 – ca. 570 BCE,7th–6th c. BCE,Archaic,Aeolic,Mytilene (Lesbos)
+tlg0010,Isocrate,Isocrates,-436,-338,436 – 338 BCE,5th–4th c. BCE,Classical,Attic,Athens
+tlg0014,Demostene,Demosthenes,-384,-322,384 – 322 BCE,4th c. BCE,Classical,Attic,Athens
+tlg0016,Erodoto,Herodotus,-484,-425,ca. 484 – ca. 425 BCE,5th c. BCE,Classical,Ionic,Halicarnassus (Caria)
+tlg0019,Aristofane,Aristophanes,-446,-386,ca. 446 – ca. 386 BCE,5th–4th c. BCE,Classical,Attic,Athens
+tlg0026,Eschine,Aeschines,-389,-314,389 – ca. 314 BCE,4th c. BCE,Classical,Attic,Athens
+tlg0028,Antifonte,Antipho,-480,-411,ca. 480 – 411 BCE,5th c. BCE,Classical,Attic,Rhamnus (Attica)
+tlg0032,Senofonte,Xenophon,-430,-354,ca. 430 – 355/354 BCE,5th–4th c. BCE,Classical,Attic,Athens
+tlg0041,Chione di Eraclea (pseudepigrafo),Chion Epistolographus,1,100,1st c. CE (pseudepigraphic epistolary novel),1st c. CE,Imperial,Literary Attic,setting: Heraclea Pontica; author unknown
+tlg0058,Enea Tattico,Aeneas Tacticus,-400,-340,mid-4th c. BCE,4th c. BCE,Classical,Attic,Stymphalus (Arcadia)
+tlg0059,Platone,Plato,-428,-348,ca. 428 – ca. 348 BCE,5th–4th c. BCE,Classical,Attic,Athens
+tlg0060,Diodoro Siculo,Diodorus Siculus,-60,-30,active ca. 60 – 30 BCE,1st c. BCE,Hellenistic,Literary Koine,Agyrium (Sicily)
+tlg0061,Pseudo-Luciano,Pseudo-Lucianus,100,200,2nd c. CE,2nd c. CE,Imperial,Atticism,unknown (Lucianic milieu)
+tlg0062,Luciano di Samosata,Lucianus,125,180,ca. 125 – after 180 CE,2nd c. CE,Imperial,Atticism,Samosata (Commagene)
+tlg0081,Dionigi di Alicarnasso,Dionysius Halicarnassensis,-60,-7,ca. 60 BCE – after 7 BCE,1st c. BCE,Imperial,Atticism,Halicarnassus (Caria)
+tlg0085,Eschilo,Aeschylus,-525,-456,ca. 525 – 456 BCE,6th–5th c. BCE,Classical,Literary Attic,Eleusis (Attica)
+tlg0086,Aristotele,Aristoteles,-384,-322,384 – 322 BCE,4th c. BCE,Classical,Attic,Stagira (Chalcidice)
+tlg0093,Teofrasto,Theophrastus,-371,-287,ca. 371 – ca. 287 BCE,4th–3rd c. BCE,Hellenistic,Attic,Eresus (Lesbos) / Athens
+tlg0096,Esopo (Aesopica),Aesopus,1,200,"recensio Augustana, 1st–2nd c. CE (legendary author, 6th c. BCE)",1st–2nd c. CE,Imperial,Koine,collection of the imperial age
+tlg0255,Mimnermo,Mimnermus,-630,-600,7th c. BCE,7th c. BCE,Archaic,Ionic,Colophon (Ionia)
+tlg0260,Semonide di Amorgo,Semonides,-650,-600,7th c. BCE,7th c. BCE,Archaic,Ionic,Amorgos (settler from Samos)
+tlg0526,Flavio Giuseppe,Flavius Josephus,37,100,ca. 37 – ca. 100 CE,1st c. CE,Imperial,Literary Koine,Jerusalem
+tlg0527,Settanta (Anonimo),Septuaginta,-300,-200,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Alexandria in Egypt
+tlg0537,Epicuro,Epicurus,-341,-270,341 – 270 BCE,4th–3rd c. BCE,Hellenistic,Koine,Samos / Athens
+tlg0540,Lisia,Lysias,-445,-380,ca. 445 – ca. 380 BCE,5th–4th c. BCE,Classical,Attic,Athens
+tlg0541,Menandro,Menander,-342,-291,ca. 342/341 – ca. 291/290 BCE,4th–3rd c. BCE,Hellenistic,Attic,Athens
+tlg0543,Polibio,Polybius,-200,-118,ca. 200 – ca. 118 BCE,2nd c. BCE,Hellenistic,Koine,Megalopolis (Arcadia)
+tlg0544,Sesto Empirico,Sextus Empiricus,160,220,fl. late 2nd – early 3rd c. CE,2nd–3rd c. CE,Imperial,Literary Koine,unknown (Alexandria/Rome/Athens)
+tlg0551,Appiano,Appianus,95,165,ca. 95 – ca. 165 CE,2nd c. CE,Imperial,Literary Koine,Alexandria in Egypt
+tlg0554,Caritone di Afrodisia,Chariton,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Aphrodisias (Caria)
+tlg0557,Epitteto (via Arriano),Epictetus,100,135,early 2nd c. CE,2nd c. CE,Imperial,Koine,Hierapolis (Phrygia) / Nicopolis (Epirus)
+tlg0559,Erone di Alessandria,Hero,10,80,1st c. CE,1st c. CE,Imperial,Koine,Alexandria in Egypt
+tlg0561,Longo Sofista,Longus,150,200,2nd c. CE,2nd c. CE,Imperial,Atticism,Lesbos
+tlg0585,Flegonte di Tralle,Phlegon Trallianus,100,150,2nd c. CE,2nd c. CE,Imperial,Koine,Tralles (Lydia/Caria)
+tlg1220,Anonimo (Batracomiomachia),Batrachomyomachia,-200,-100,2nd–1st c. BCE (pseudo-Homeric),2nd–1st c. BCE,Hellenistic,Ionic/Epic,unknown
+tlg2003,Giuliano imperatore,Julianus Imperator,331,363,331/332 – 363 CE,4th c. CE,Late antique,Atticism,Constantinople
+tlg2236,Peanio (versione greca di Eutropio),Paeanius,370,400,late 4th c. CE,4th c. CE,Late antique,Literary Koine,Antioch (Syria)
+tlg4029,Procopio di Cesarea,Procopius,500,565,ca. 500 – ca. 565 CE,6th c. CE,Late antique,Atticism,Caesarea Maritima (Palestine)

@@ -1,0 +1,301 @@
+author_key,corpus,author_it,author_en,tlg_author_id,date_start,date_end,date_label,century,period,dialect,genre,origin
+galenus,GLAUx,Galeno,Galen,tlg0057,129,216,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Literary Koine,Medicine,Pergamon (Mysia)
+plutarchus,GLAUx,Plutarco,Plutarch,tlg0007,46,120,1st–2nd c. CE,1st–2nd c. CE,Imperial,Atticism,Biography,Chaeronea (Boeotia)
+aristoteles,GLAUx,Aristotele e Corpus Aristotelicum,Aristotle and Corpus Aristotelicum,tlg0086,-384,-322,4th c. BCE,4th c. BCE,Classical,Attic,Philosophy,Stagira (Chalcidice) / Athens
+origenes,GLAUx,Origene,Origen,tlg2042,185,254,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Koine,Religious,Alexandria in Egypt / Caesarea
+septuaginta,GLAUx,Settanta (LXX),Septuagint,tlg0527,-300,-100,3rd–1st c. BCE,3rd–1st c. BCE,Hellenistic,Koine,Religious,Alexandria in Egypt
+plato,GLAUx,Platone,Plato,tlg0059,-427,-347,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Philosophy,Athens
+flaviusjosephus,GLAUx,Flavio Giuseppe,Flavius Josephus,tlg0526,37,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Historiography,Jerusalem / Rome
+hippocrates,GLAUx,Ippocrate e Corpus Hippocraticum,Hippocrates and Corpus Hippocraticum,tlg0627,-460,-301,5th–4th c. BCE,5th–4th c. BCE,Classical,Ionic,Medicine,Cos
+dionysiushalicarnassensis,GLAUx,Dionigi di Alicarnasso,Dionysius of Halicarnassus,tlg0081,-60,-7,1st c. BCE,1st c. BCE,Hellenistic,Atticism,Historiography,Halicarnassus (Caria) / Rome
+diodorussiculus,GLAUx,Diodoro Siculo,Diodorus Siculus,tlg0060,-90,-30,1st c. BCE,1st c. BCE,Hellenistic,Literary Koine,Historiography,Agyrium (Sicily)
+xenophon,GLAUx,Senofonte,Xenophon,tlg0032,-430,-354,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Historiography,Athens
+aeliusaristides,GLAUx,Elio Aristide,Aelius Aristides,tlg0284,117,181,2nd c. CE,2nd c. CE,Imperial,Atticism,Oratory,Hadriani (Mysia) / Smyrna
+polybius,GLAUx,Polibio,Polybius,tlg0543,-200,-118,2nd c. BCE,2nd c. BCE,Hellenistic,Literary Koine,Historiography,Megalopolis (Arcadia)
+philojudaeus,GLAUx,Filone di Alessandria,Philo of Alexandria,tlg0018,-20,50,1st c. BCE – 1st c. CE,1st c. BCE – 1st c. CE,Imperial,Literary Koine,Philosophy,Alexandria in Egypt
+demosthenes,GLAUx,Demostene,Demosthenes,tlg0014,-384,-322,4th c. BCE,4th c. BCE,Classical,Attic,Oratory,Athens
+lucianus,GLAUx,Luciano di Samosata,Lucian of Samosata,tlg0062,125,180,2nd c. CE,2nd c. CE,Imperial,Atticism,Oratory,Samosata (Commagene)
+strabo,GLAUx,Strabone,Strabo,tlg0099,-64,24,1st c. BCE – 1st c. CE,1st c. BCE – 1st c. CE,Imperial,Literary Koine,Treatise,Amaseia (Pontus)
+athenaeus,GLAUx,Ateneo di Naucrati,Athenaeus of Naucratis,tlg0008,170,230,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Atticism,Treatise,Naucratis (Egypt)
+clemensalexandrinus,GLAUx,Clemente Alessandrino,Clement of Alexandria,tlg0555,150,215,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Literary Koine,Religious,Athens / Alexandria in Egypt
+appianus,GLAUx,Appiano,Appian,tlg0551,95,165,1st–2nd c. CE,1st–2nd c. CE,Imperial,Literary Koine,Historiography,Alexandria in Egypt / Rome
+procopius,GLAUx,Procopio di Cesarea,Procopius of Caesarea,tlg4029,500,565,5th–6th c. CE,5th–6th c. CE,Late antique,Atticism,Historiography,Caesarea Maritima (Palestine)
+plotinus,GLAUx,Plotino,Plotinus,tlg2000,205,270,3rd c. CE,3rd c. CE,Imperial,Literary Koine,Philosophy,Lycopolis (Egypt) / Rome
+pausanias,GLAUx,Pausania,Pausanias,tlg0525,110,180,2nd c. CE,2nd c. CE,Imperial,Atticism,Treatise,Magnesia ad Sipylum (Lydia)
+homerus,GLAUx,Omero,Homer,tlg0012,-800,-701,8th c. BCE,8th c. BCE,Archaic,Ionic,Epic poetry,Ionia (Smyrna/Chios)
+cassiusdio,GLAUx,Cassio Dione,Cassius Dio,tlg0385,155,235,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Atticism,Historiography,Nicaea (Bithynia)
+euclides,GLAUx,Euclide,Euclid,tlg1799,-325,-265,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Koine,Mathematics,Alexandria in Egypt
+herodotus,GLAUx,Erodoto,Herodotus,tlg0016,-484,-425,5th c. BCE,5th c. BCE,Classical,Ionic,Historiography,Halicarnassus (Caria)
+diochrysostomus,GLAUx,Dione Crisostomo,Dio Chrysostom,tlg0612,40,115,1st–2nd c. CE,1st–2nd c. CE,Imperial,Atticism,Oratory,Prusa (Bithynia)
+euripides,GLAUx,Euripide,Euripides,tlg0006,-480,-406,5th c. BCE,5th c. BCE,Classical,Literary Attic,Tragedy,Athens (Salamis)
+flaviusphilostratus,GLAUx,Filostrato,Philostratus,tlg0638,170,250,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Atticism,Biography,Lemnos / Athens
+thucydides,GLAUx,Tucidide,Thucydides,tlg0003,-460,-400,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Historiography,Athens
+claudiusaelianus,GLAUx,Claudio Eliano,Claudius Aelianus,tlg0545,175,235,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Atticism,Technical and scientific,Praeneste (Italy)
+novumtestamentum,GLAUx,Nuovo Testamento,New Testament,tlg0031,50,110,1st–2nd c. CE,1st–2nd c. CE,Imperial,Koine,Religious,eastern Mediterranean
+apolloniusdyscolus,GLAUx,Apollonio Discolo,Apollonius Dyscolus,tlg0082,110,175,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Language,Alexandria in Egypt
+juliuspollux,GLAUx,Giulio Polluce,Julius Pollux,tlg0542,135,188,2nd c. CE,2nd c. CE,Imperial,Atticism,Language,Naucratis (Egypt)
+isocrates,GLAUx,Isocrate,Isocrates,tlg0010,-436,-338,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Oratory,Athens
+diogeneslaertius,GLAUx,Diogene Laerzio,Diogenes Laertius,tlg0004,180,240,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Literary Koine,Biography,Laertes (Cilicia)
+aesopusetaesopica,GLAUx,Esopo e corpus esopico,Aesop and Aesopica,tlg0096,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Koine,Didactic,Phrygia / Samos
+flaviusarrianus,GLAUx,Arriano,Arrian,tlg0074,86,160,1st–2nd c. CE,1st–2nd c. CE,Imperial,Atticism,Historiography,Nicomedia (Bithynia)
+heron,GLAUx,Erone di Alessandria,Hero of Alexandria,tlg0559,10,70,1st c. CE,1st c. CE,Imperial,Koine,Technical and scientific,Alexandria in Egypt
+aristophanes,GLAUx,Aristofane,Aristophanes,tlg0019,-446,-386,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Comedy,Athens
+archimedes,GLAUx,Archimede,Archimedes,tlg0552,-287,-212,3rd c. BCE,3rd c. BCE,Hellenistic,Doric,Mathematics,Syracuse (Sicily)
+dioscoridespedanius,GLAUx,Dioscoride Pedanio,Pedanius Dioscorides,tlg0656,40,90,1st c. CE,1st c. CE,Imperial,Koine,Medicine,Anazarbus (Cilicia)
+epictetus,GLAUx,Epitteto,Epictetus,tlg0557,50,135,1st–2nd c. CE,1st–2nd c. CE,Imperial,Koine,Philosophy,Hierapolis (Phrygia) / Nicopolis (Epirus)
+alexander,GLAUx,Alessandro di Afrodisia,Alexander of Aphrodisias,tlg0732,175,215,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Atticism,Philosophy,Aphrodisias (Caria)
+hermogenes,GLAUx,Ermogene di Tarso,Hermogenes of Tarsus,tlg0592,160,225,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Atticism,Oratory,Tarsus (Cilicia)
+porphyrius,GLAUx,Porfirio,Porphyry,tlg2034,234,305,3rd–4th c. CE,3rd–4th c. CE,Imperial,Literary Koine,Philosophy,Tyre (Phoenicia) / Rome
+heliodorus,GLAUx,Eliodoro di Emesa,Heliodorus of Emesa,tlg0658,201,350,3rd–4th c. CE,3rd–4th c. CE,Imperial,Atticism,Novel,Emesa (Syria)
+hippolytus,GLAUx,Ippolito di Roma,Hippolytus of Rome,tlg2115,170,235,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Koine,Religious,Rome
+maximus,GLAUx,Massimo di Tiro,Maximus of Tyre,tlg0563,125,185,2nd c. CE,2nd c. CE,Imperial,Atticism,Oratory,Tyre (Phoenicia)
+sophocles,GLAUx,Sofocle,Sophocles,tlg0011,-497,-406,5th c. BCE,5th c. BCE,Classical,Literary Attic,Tragedy,Colonus (Athens)
+artemidorus,GLAUx,Artemidoro di Daldi,Artemidorus of Daldis,tlg0553,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Treatise,Ephesus / Daldis (Lydia)
+quintus,GLAUx,Quinto Smirneo,Quintus of Smyrna,tlg2046,201,300,3rd c. CE,3rd c. CE,Imperial,Ionic,Epic poetry,Smyrna (Ionia)
+polyaenus,GLAUx,Polieno,Polyaenus,tlg0616,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Treatise,Macedonia
+lysias,GLAUx,Lisia,Lysias,tlg0540,-445,-380,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Oratory,Athens
+aretaeus,GLAUx,Areteo di Cappadocia,Aretaeus of Cappadocia,tlg0719,101,200,2nd c. CE,2nd c. CE,Imperial,Ionic,Medicine,Cappadocia
+apollonius,GLAUx,Apollonio paradossografo,Apollonius Paradoxographus,tlg0569,-200,200,2nd c. BCE – 2nd c. CE,2nd c. BCE – 2nd c. CE,Imperial,Literary Koine,Treatise,Unknown
+sextusempiricus,GLAUx,Sesto Empirico,Sextus Empiricus,tlg0544,150,210,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Literary Koine,Philosophy,Unknown (Alexandria/Rome/Athens)
+aeschines,GLAUx,Eschine,Aeschines,tlg0026,-389,-314,4th c. BCE,4th c. BCE,Classical,Attic,Oratory,Athens
+herodianus,GLAUx,Erodiano,Herodian,tlg0015,170,240,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Atticism,Historiography,Syria / Rome
+achillestatius,GLAUx,Achille Tazio,Achilles Tatius,tlg0532,101,200,2nd c. CE,2nd c. CE,Imperial,Atticism,Novel,Alexandria in Egypt
+aeschylus,GLAUx,Eschilo,Aeschylus,tlg0085,-525,-456,6th–5th c. BCE,6th–5th c. BCE,Classical,Literary Attic,Tragedy,Eleusis (Attica)
+apolloniusrhodius,GLAUx,Apollonio Rodio,Apollonius of Rhodes,tlg0001,-295,-215,3rd c. BCE,3rd c. BCE,Hellenistic,Ionic,Epic poetry,Alexandria in Egypt / Rhodes
+harpocration,GLAUx,Arpocrazione,Harpocration,tlg1389,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Literary Koine,Language,Alexandria in Egypt
+methodiusepiscopus,GLAUx,Metodio di Olimpo,Methodius of Olympus,tlg2959,250,311,3rd–4th c. CE,3rd–4th c. CE,Imperial,Literary Koine,Religious,Olympus (Lycia)
+oppianus,GLAUx,Oppiano,Oppian,tlg0023,101,300,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Ionic,Didactic,Anazarbus (Cilicia) / Apamea (Syria)
+theon,GLAUx,Teone di Smirne,Theon of Smyrna,tlg1724,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Mathematics,Smyrna (Ionia)
+chariton,GLAUx,Caritone di Afrodisia,Chariton of Aphrodisias,tlg0554,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Novel,Aphrodisias (Caria)
+pseudoapollodorus,GLAUx,Pseudo-Apollodoro,Pseudo-Apollodorus,tlg0548,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Literary Koine,Treatise,Athens (?)
+historiaalexandrimagni,GLAUx,Romanzo di Alessandro,Alexander Romance,tlg1386,201,400,3rd–4th c. CE,3rd–4th c. CE,Late antique,Koine,Novel,Alexandria in Egypt
+isaeus,GLAUx,Iseo,Isaeus,tlg0017,-420,-340,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Oratory,Chalcis (?) / Athens
+nicomachus,GLAUx,Nicomaco di Gerasa,Nicomachus of Gerasa,tlg0358,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Mathematics,Gerasa (Arabia)
+menander,GLAUx,Menandro,Menander,tlg0541,-342,-291,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Attic,Comedy,Athens
+vitaeaesopi,GLAUx,Vite di Esopo,Lives of Aesop,tlg1765,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Novel,Egypt / Greece
+marcusaureliusantoninusimperator,GLAUx,Marco Aurelio,Marcus Aurelius,tlg0562,121,180,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Philosophy,Rome
+pseudoplutarchus,GLAUx,Pseudo-Plutarco,Pseudo-Plutarch,tlg0094,101,400,2nd–4th c. CE,2nd–4th c. CE,Imperial,Literary Koine,Technical and scientific,Unknown
+hermas,GLAUx,Erma,Hermas,tlg1419,101,200,2nd c. CE,2nd c. CE,Imperial,Koine,Religious,Rome
+hipparchus,GLAUx,Ipparco di Nicea,Hipparchus of Nicaea,tlg1433,-190,-120,2nd c. BCE,2nd c. BCE,Hellenistic,Koine,Technical and scientific,Nicaea (Bithynia) / Rhodes
+iamblichus,GLAUx,Giamblico,Iamblichus,tlg2023,245,325,3rd–4th c. CE,3rd–4th c. CE,Late antique,Literary Koine,Philosophy,Chalcis (Coele-Syria)
+hesiodus,GLAUx,Esiodo,Hesiod,tlg0020,-750,-650,8th–7th c. BCE,8th–7th c. BCE,Archaic,Ionic,Epic poetry,Ascra (Boeotia)
+phrynichus,GLAUx,Frinico Arabio,Phrynichus Arabius,tlg1608,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Language,Bithynia
+agatharchides,GLAUx,Agatarchide di Cnido,Agatharchides of Cnidus,tlg0067,-200,-101,2nd c. BCE,2nd c. BCE,Hellenistic,Koine,Treatise,Cnidus (Caria)
+cleomedes,GLAUx,Cleomede,Cleomedes,tlg1272,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Technical and scientific,Unknown
+philostratusmajor,GLAUx,Filostrato Maggiore,Philostratus the Elder,tlg1600,101,300,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Literary Koine,Treatise,Lemnos
+paeanius,GLAUx,Peanio,Paeanius,tlg2236,375,390,4th c. CE,4th c. CE,Late antique,Literary Koine,Historiography,Antioch (Syria)
+theocritus,GLAUx,Teocrito,Theocritus,tlg0005,-300,-260,3rd c. BCE,3rd c. BCE,Hellenistic,Doric,Lyric poetry,Syracuse (Sicily)
+theophilus,GLAUx,Teofilo di Antiochia,Theophilus of Antioch,tlg1725,101,200,2nd c. CE,2nd c. CE,Imperial,Koine,Oratory,Antioch (Syria)
+pindarus,GLAUx,Pindaro,Pindar,tlg0033,-518,-438,6th–5th c. BCE,6th–5th c. BCE,Archaic,Doric,Lyric poetry,"Cynoscephalae (Thebes, Boeotia)"
+zenobiussophista,GLAUx,Zenobio Sofista,Zenobius Sophista,tlg0098,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Language,Rome
+valeriusapsines,GLAUx,Apsine di Gadara,Apsines of Gadara,tlg2027,201,300,3rd c. CE,3rd c. CE,Imperial,Literary Koine,Oratory,Gadara (Syria)
+athenagoras,GLAUx,Atenagora,Athenagoras,tlg1205,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Oratory,Athens
+manetho,GLAUx,Manetone astrologo,Manetho Astrologus,tlg2583,201,300,3rd c. CE,3rd c. CE,Imperial,Ionic,Didactic,Egypt
+longus,GLAUx,Longo Sofista,Longus,tlg0561,101,200,2nd c. CE,2nd c. CE,Imperial,Atticism,Novel,Lesbos
+geminus,GLAUx,Gemino,Geminus,tlg1383,-100,-1,1st c. BCE,1st c. BCE,Hellenistic,Koine,Technical and scientific,Rhodes (?)
+antiphon,GLAUx,Antifonte,Antiphon,tlg0028,-480,-411,5th c. BCE,5th c. BCE,Classical,Attic,Oratory,Rhamnus (Attica)
+anaximenes,GLAUx,Anassimene di Lampsaco,Anaximenes of Lampsacus,tlg0547,-380,-320,4th c. BCE,4th c. BCE,Classical,Attic,Oratory,Lampsacus (Troad)
+andocides,GLAUx,Andocide,Andocides,tlg0027,-440,-390,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Oratory,Athens
+ammonius,GLAUx,Ammonio grammatico,Ammonius Grammaticus,tlg0708,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Literary Koine,Language,Alexandria in Egypt
+corpushermeticum,GLAUx,Corpus Hermeticum,Corpus Hermeticum,tlg1286,101,300,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Literary Koine,Philosophy,Alexandria in Egypt
+hymnihomerici,GLAUx,Inni omerici,Homeric Hymns,tlg0013,-700,-401,7th–5th c. BCE,7th–5th c. BCE,Archaic,Ionic,Lyric poetry,Ionia / Greece
+callimachus,GLAUx,Callimaco,Callimachus,tlg0533,-310,-240,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Ionic,Lyric poetry,Cyrene (Libya) / Alexandria in Egypt
+pseudodemetrius,GLAUx,Pseudo-Demetrio (Sullo stile),Pseudo-Demetrius (On Style),tlg0613,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Oratory,Unknown
+theophrastus,GLAUx,Teofrasto,Theophrastus,tlg0093,-371,-287,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Attic,Treatise,Eresus (Lesbos) / Athens
+autolycus,GLAUx,Autolico di Pitane,Autolycus of Pitane,tlg1210,-360,-290,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Attic,Technical and scientific,Pitane (Aeolis)
+aeneas,GLAUx,Enea Tattico,Aeneas Tacticus,tlg0058,-360,-350,4th c. BCE,4th c. BCE,Classical,Attic,Treatise,Stymphalus (Arcadia)
+aristeaeepistula,GLAUx,Lettera di Aristea,Letter of Aristeas,tlg1183,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Epistolography,Alexandria in Egypt
+longinus,GLAUx,Anonimo Del Sublime (Pseudo-Longino),"Pseudo-Longinus, On the Sublime",tlg0560,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Oratory,Unknown
+josephusetaseneth,GLAUx,Giuseppe e Asenet,Joseph and Aseneth,tlg1451,101,200,2nd c. CE,2nd c. CE,Imperial,Koine,Religious,Egypt
+valeriusbabrius,GLAUx,Babrio,Babrius,tlg0614,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Lyric poetry,Syria
+hyperides,GLAUx,Iperide,Hyperides,tlg0030,-390,-322,4th c. BCE,4th c. BCE,Classical,Attic,Oratory,Athens
+onasander,GLAUx,Onasandro,Onasander,tlg0648,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Treatise,Unknown
+flaviusclaudiusjulianusimperator,GLAUx,Giuliano imperatore,Julian the Apostate,tlg2003,331,363,4th c. CE,4th c. CE,Late antique,Atticism,Oratory,Constantinople
+lycurgus,GLAUx,Licurgo oratore,Lycurgus of Athens,tlg0034,-390,-324,4th c. BCE,4th c. BCE,Classical,Attic,Oratory,Athens
+pseudolucianus,GLAUx,Pseudo-Luciano,Pseudo-Lucian,tlg0061,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Lyric poetry,Unknown (Lucianic milieu)
+dinarchus,GLAUx,Dinarco,Dinarchus,tlg0029,-361,-291,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Attic,Oratory,Corinth / Athens
+tatianus,GLAUx,Taziano,Tatian,tlg1766,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Oratory,Syria / Rome
+testamentumabrahae,GLAUx,Testamento di Abramo,Testament of Abraham,tlg1701,1,100,1st c. CE,1st c. CE,Imperial,Koine,Religious,Egypt
+theognis,GLAUx,Teognide,Theognis,tlg0002,-570,-485,6th–5th c. BCE,6th–5th c. BCE,Archaic,Ionic,Lyric poetry,Megara
+clemensromanusetclementina,GLAUx,Clemente Romano e Clementina,Clement of Rome and Clementina,tlg1271,1,100,1st c. CE,1st c. CE,Imperial,Koine,Epistolography,Rome
+rufus,GLAUx,Rufo di Efeso,Rufus of Ephesus,tlg0564,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Literary Koine,Medicine,Ephesus (Ionia)
+philumenus,GLAUx,Filumeno,Philumenus,tlg0671,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Medicine,Alexandria in Egypt (?)
+scylax,GLAUx,Pseudo-Scilace,Pseudo-Scylax,tlg0065,-350,-330,4th c. BCE,4th c. BCE,Classical,Attic,Treatise,Caryanda (Caria)
+testamentumsalomonis,GLAUx,Testamento di Salomone,Testament of Solomon,tlg2679,201,300,3rd c. CE,3rd c. CE,Imperial,Koine,Religious,Egypt / Palestine
+ignatius,GLAUx,Ignazio di Antiochia,Ignatius of Antioch,tlg1443,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Literary Koine,Epistolography,Antioch (Syria)
+aratus,GLAUx,Arato di Soli,Aratus of Soli,tlg0653,-315,-240,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Ionic,Didactic,Soli (Cilicia)
+lycophron,GLAUx,Licofrone,Lycophron,tlg0341,-330,-250,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Literary Attic,Tragedy,Chalcis (Euboea)
+palaephatus,GLAUx,Palefato,Palaephatus,tlg1553,-400,-301,4th c. BCE,4th c. BCE,Classical,Attic,Treatise,Unknown
+pseudoscymnus,GLAUx,Pseudo-Scimno,Pseudo-Scymnus,tlg0068,-100,-1,1st c. BCE,1st c. BCE,Hellenistic,Koine,Didactic,Unknown
+philostratusjunior,GLAUx,Filostrato Minore,Philostratus the Younger,tlg0652,201,300,3rd c. CE,3rd c. CE,Imperial,Literary Koine,Treatise,Lemnos
+barnabaeepistula,GLAUx,Lettera di Barnaba,Epistle of Barnabas,tlg1216,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Literary Koine,Epistolography,Alexandria in Egypt
+aristarchus,GLAUx,Aristarco di Samo,Aristarchus of Samos,tlg1181,-310,-230,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Attic,Technical and scientific,Samos
+testamentumjobi,GLAUx,Testamento di Giobbe,Testament of Job,tlg1702,101,300,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Koine,Religious,Egypt
+antigonus,GLAUx,Antigono di Caristo,Antigonus of Carystus,tlg0568,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Treatise,Carystus (Euboea)
+asclepiodotus,GLAUx,Asclepiodoto,Asclepiodotus,tlg0556,-100,-1,1st c. BCE,1st c. BCE,Hellenistic,Koine,Treatise,Unknown
+parthenius,GLAUx,Partenio di Nicea,Parthenius of Nicaea,tlg0655,-100,-1,1st c. BCE,1st c. BCE,Hellenistic,Koine,Treatise,Nicaea (Bithynia)
+cassiuslonginus,GLAUx,Cassio Longino,Cassius Longinus,tlg2178,201,300,3rd c. CE,3rd c. CE,Imperial,Literary Koine,Oratory,Emesa (Syria) / Athens
+maximusastrologus,GLAUx,Massimo astrologo,Maximus Astrologus,tlg1487,101,200,2nd c. CE,2nd c. CE,Imperial,Ionic,Didactic,Ephesus (?)
+periplusmariserythraei,GLAUx,Periplo del Mare Eritreo,Periplus of the Erythraean Sea,tlg0071,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Literary Koine,Treatise,Egypt
+periplusmarismagni,GLAUx,Periplo del Mare Magno,Periplus Maris Magni,tlg0077,201,300,3rd c. CE,3rd c. CE,Imperial,Literary Koine,Treatise,Unknown
+actapauli,GLAUx,Atti di Paolo,Acts of Paul,tlg0388,101,200,2nd c. CE,2nd c. CE,Imperial,Koine,Religious,Asia Minor
+teucer,GLAUx,Teucro di Babilonia,Teucer of Babylon,tlg1703,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Technical and scientific,Babylon in Egypt
+pseudocebes,GLAUx,Pseudo-Cebete (Tabula),Pseudo-Cebes (Tabula),tlg1247,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Philosophy,Unknown
+bacchylides,GLAUx,Bacchilide,Bacchylides,tlg0199,-518,-451,6th–5th c. BCE,6th–5th c. BCE,Classical,Doric,Lyric poetry,Iulis (Ceos)
+gaudentius,GLAUx,Gaudenzio musicografo,Gaudentius,tlg2137,201,400,3rd–4th c. CE,3rd–4th c. CE,Late antique,Literary Koine,Technical and scientific,Unknown
+vitaeadametevae,GLAUx,Vita di Adamo ed Eva,Life of Adam and Eve,tlg1747,1,100,1st c. CE,1st c. CE,Imperial,Koine,Religious,Palestine / Egypt
+bolus,GLAUx,Bolo di Mende,Bolus of Mendes,tlg1306,-300,-101,3rd–2nd c. BCE,3rd–2nd c. BCE,Hellenistic,Koine,Technical and scientific,Mendes (Egypt)
+alypius,GLAUx,Alipio musicografo,Alypius,tlg2135,201,400,3rd–4th c. CE,3rd–4th c. CE,Late antique,Literary Koine,Technical and scientific,Unknown
+paraleipomenajeremiou,GLAUx,Paralipomeni di Geremia,Paraleipomena Jeremiou,tlg1772,101,200,2nd c. CE,2nd c. CE,Imperial,Koine,Religious,Palestine
+aeliusherodianus,GLAUx,Elio Erodiano e Pseudo-Erodiano,Aelius Herodianus and Pseudo-Herodianus,tlg0087,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Language,Alexandria in Egypt / Rome
+triphiodorus,GLAUx,Trifiodoro,Triphiodorus,tlg0647,201,400,3rd–4th c. CE,3rd–4th c. CE,Late antique,Ionic,Epic poetry,Panopolis (Egypt)
+protevangeliumjacobi,GLAUx,Protovangelo di Giacomo,Protevangelium of James,tlg1637,101,200,2nd c. CE,2nd c. CE,Imperial,Koine,Religious,Egypt / Syria
+vitaesanctorumperpetuaeetfelicitatis,GLAUx,Passione di Perpetua e Felicita,Passion of Perpetua and Felicity,tlg2016,201,300,3rd c. CE,3rd c. CE,Imperial,Koine,Religious,Carthage
+moschus,GLAUx,Mosco di Siracusa,Moschus of Syracuse,tlg0035,-160,-100,2nd–1st c. BCE,2nd–1st c. BCE,Hellenistic,Doric,Lyric poetry,Syracuse (Sicily)
+gorgias,GLAUx,Gorgia,Gorgias,tlg0593,-485,-380,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Oratory,Leontini (Sicily)
+sententiaesexti,GLAUx,Sentenze di Sesto,Sentences of Sextus,tlg1666,101,300,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Literary Koine,Philosophy,Egypt
+cleonides,GLAUx,Cleonide,Cleonides,tlg0361,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Technical and scientific,Unknown
+heraclitus,GLAUx,Eraclito,Heraclitus,tlg0626,-540,-480,6th–5th c. BCE,6th–5th c. BCE,Archaic,Ionic,Philosophy,Ephesus (Ionia)
+bacchiusgeron,GLAUx,Bacchio il Vecchio,Bacchius Geron,tlg2136,201,400,3rd–4th c. CE,3rd–4th c. CE,Late antique,Literary Koine,Technical and scientific,Unknown
+dionysiusthrax,GLAUx,Dionisio Trace,Dionysius Thrax,tlg0063,-200,-101,2nd c. BCE,2nd c. BCE,Hellenistic,Koine,Language,Alexandria in Egypt / Rhodes
+marcuscorneliusfronto,GLAUx,Frontone,Marcus Cornelius Fronto,tlg0186,100,170,1st–2nd c. CE,1st–2nd c. CE,Imperial,Atticism,Epistolography,Cirta (Numidia) / Rome
+pythagoras,GLAUx,Pitagora e pitagorici,Pythagoras and Pythagoreans,tlg0632,-570,-495,6th–5th c. BCE,6th–5th c. BCE,Archaic,Doric,Philosophy,Samos / Croton
+pseudoxenophon,GLAUx,Pseudo-Senofonte (Vecchio Oligarca),Pseudo-Xenophon (Old Oligarch),tlg0032,-431,-410,5th c. BCE,5th c. BCE,Classical,Attic,Philosophy,Athens
+pseudoclemens,GLAUx,Pseudo-Clemente,Pseudo-Clement,tlg1271,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Epistolography,Rome / Syria
+aristodemus,GLAUx,Aristodemo storico,Aristodemus,tlg2148,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Historiography,Unknown
+liberjubilaeorum,GLAUx,Libro dei Giubilei,Book of Jubilees,tlg1464,-200,-1,2nd–1st c. BCE,2nd–1st c. BCE,Hellenistic,Koine,Religious,Palestine
+heraclidescriticus,GLAUx,Eraclide Critico,Heraclides Criticus,tlg1405,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Treatise,Crete (?)
+apocalypsisesdrae,GLAUx,Apocalisse di Esdra,Apocalypse of Ezra,tlg1157,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Koine,Religious,Egypt / Palestine
+epistulaaddiognetum,GLAUx,A Diogneto,Epistle to Diognetus,tlg1350,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Epistolography,Unknown
+resgestaediviaugusti,GLAUx,Res Gestae Divi Augusti,Res Gestae Divi Augusti,tlg1068,1,30,1st c. CE,1st c. CE,Imperial,Koine,Historiography,Rome / Ancyra
+vitaesanctipolycarpi,GLAUx,Martirio di Policarpo,Martyrdom of Polycarp,tlg1484,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Epistolography,Smyrna (Ionia)
+oraculachaldaica,GLAUx,Oracoli caldaici,Chaldean Oracles,tlg1550,150,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Religious,Syria / Rome
+apocalypsissedrach,GLAUx,Apocalisse di Sedrach,Apocalypse of Sedrach,tlg2243,201,400,3rd–4th c. CE,3rd–4th c. CE,Late antique,Koine,Religious,Egypt
+certamenhomeriethesiodi,GLAUx,Certamen di Omero ed Esiodo,Contest of Homer and Hesiod,tlg1252,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Novel,Greece
+tryphonii,GLAUx,Trifone grammatico,Trypho,tlg1763,-100,-1,1st c. BCE,1st c. BCE,Hellenistic,Koine,Language,Alexandria in Egypt
+comarius,GLAUx,Comario alchimista,Comarius,tlg2632,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Technical and scientific,Alexandria in Egypt
+didachexiiapostolorum,GLAUx,Didache,Didache,tlg1311,101,200,2nd c. CE,2nd c. CE,Imperial,Koine,Religious,Syria / Egypt
+anacreontea,GLAUx,Anacreontee,Anacreontea,tlg4150,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Lyric poetry,Greece / Egypt
+aristoxenus,GLAUx,Aristosseno di Selinunte,Aristoxenus of Selinus,tlg0241,-500,-401,5th c. BCE,5th c. BCE,Classical,Doric,Comedy,Selinus (Sicily)
+agathemerus,GLAUx,Agatemero,Agathemerus,tlg0090,201,300,3rd c. CE,3rd c. CE,Imperial,Literary Koine,Treatise,Unknown
+demades,GLAUx,Demade,Demades,tlg0535,-380,-319,4th c. BCE,4th c. BCE,Classical,Attic,Oratory,Athens
+batrachomyomachia,GLAUx,Batracomiomachia,Batrachomyomachia,tlg1220,-200,-1,2nd–1st c. BCE,2nd–1st c. BCE,Hellenistic,Ionic,Epic poetry,Greece
+bion,GLAUx,Bione di Smirne,Bion of Smyrna,tlg0036,-125,-80,2nd–1st c. BCE,2nd–1st c. BCE,Hellenistic,Doric,Lyric poetry,Smyrna (Ionia)
+brutiepistulae,GLAUx,Lettere di Bruto,Letters of Brutus,tlg1803,-100,-1,1st c. BCE,1st c. BCE,Hellenistic,Koine,Epistolography,Rome / Asia Minor
+pseudoplato,GLAUx,Pseudo-Platone,Pseudo-Plato,tlg0059,-400,-201,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Koine,Philosophy,Athens
+simonides,GLAUx,Simonide di Ceo,Simonides of Ceos,tlg0261,-556,-468,6th–5th c. BCE,6th–5th c. BCE,Classical,Doric,Lyric poetry,Iulis (Ceos)
+antisthenes,GLAUx,Antistene,Antisthenes,tlg0591,-445,-365,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Philosophy,Athens
+didymus,GLAUx,Didimo (De mensuris),Didymus (De mensuris),tlg0357,-100,-1,1st c. BCE,1st c. BCE,Hellenistic,Koine,Mathematics,Alexandria in Egypt
+asclepiades,GLAUx,Asclepiade di Samo,Asclepiades of Samos,tlg0137,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Lyric poetry,Samos
+ninus,GLAUx,Romanzo di Nino,Ninus Romance,tlg1804,-100,-1,1st c. BCE,1st c. BCE,Hellenistic,Koine,Novel,Egypt
+polycarpus,GLAUx,Policarpo di Smirne,Polycarp of Smyrna,tlg1622,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Literary Koine,Epistolography,Smyrna (Ionia)
+anonymusadavirciummarcellumcontracataphrygas,GLAUx,Anonimo Contro i Catafrigi,Anonymous Against the Cataphrygians,tlg1131,101,300,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Koine,Religious,Asia Minor
+septemsapientes,GLAUx,Sette Sapienti,Seven Sages,tlg1667,-650,-540,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Lyric poetry,Greece
+gregoriusthaumaturgus,GLAUx,Gregorio Taumaturgo,Gregory Thaumaturgus,tlg2063,201,300,3rd c. CE,3rd c. CE,Imperial,Literary Koine,Epistolography,Neocaesarea (Pontus)
+actajustinietseptemsodalium,GLAUx,Atti di Giustino e compagni,Acts of Justin and Companions,tlg0384,101,300,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Koine,Religious,Rome
+posidippus,GLAUx,Posidippo di Pella,Posidippus of Pella,tlg1632,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Lyric poetry,Pella (Macedonia)
+dorotheus,GLAUx,Doroteo di Sidone,Dorotheus of Sidon,tlg1337,-100,100,1st c. BCE – 1st c. CE,1st c. BCE – 1st c. CE,Imperial,Ionic,Technical and scientific,Sidon (Phoenicia)
+actascillitanorummartyrum,GLAUx,Atti dei martiri Scillitani,Acts of the Scillitan Martyrs,tlg0391,101,300,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Koine,Religious,Carthage
+phileas,GLAUx,Fileas di Thmuis,Phileas of Thmuis,tlg2966,201,400,3rd–4th c. CE,3rd–4th c. CE,Late antique,Literary Koine,Epistolography,Thmuis (Egypt)
+periplushannonis,GLAUx,Periplo di Annone,Periplus of Hanno,tlg0064,-400,-301,4th c. BCE,4th c. BCE,Classical,Attic,Treatise,Carthage
+paradoxographuspalatinus,GLAUx,Paradossografo Palatino,Paradoxographus Palatinus,tlg0581,201,300,3rd c. CE,3rd c. CE,Imperial,Literary Koine,Treatise,Unknown
+simon,GLAUx,Simone Ateniese (De re equestri),Simon of Athens,tlg2600,-430,-400,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Treatise,Athens
+theodoridas,GLAUx,Teodorida di Siracusa,Theodoridas of Syracuse,tlg1715,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Doric,Lyric poetry,Syracuse (Sicily)
+lysis,GLAUx,Liside di Taranto,Lysis of Tarentum,tlg0633,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Doric,Philosophy,Tarentum (Magna Graecia)
+antiochiregisepistulae,GLAUx,Lettere di re Antioco,Letters of King Antiochus,tlg0044,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Epistolography,Syria
+apocalypsisadam,GLAUx,Apocalisse di Adamo,Apocalypse of Adam,tlg1153,1,100,1st c. CE,1st c. CE,Imperial,Koine,Religious,Egypt
+simias,GLAUx,Simia di Rodi,Simias of Rhodes,tlg0211,-400,-201,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Doric,Lyric poetry,Rhodes
+anacreon,GLAUx,Anacreonte,Anacreon,tlg0237,-570,-485,6th–5th c. BCE,6th–5th c. BCE,Archaic,Ionic,Lyric poetry,Teos (Ionia)
+xenophanes,GLAUx,Senofane,Xenophanes,tlg0267,-570,-475,6th–5th c. BCE,6th–5th c. BCE,Archaic,Ionic,Philosophy,Colophon (Ionia)
+vitaesanctorumpotamiaenaeetbasilidis,GLAUx,Martirio di Potamiena e Basilide,Martyrdom of Potamiaena and Basilides,tlg2007,201,300,3rd c. CE,3rd c. CE,Imperial,Koine,Religious,Alexandria in Egypt
+cypria,GLAUx,Cypria,Cypria,tlg1296,-700,-601,7th c. BCE,7th c. BCE,Archaic,Ionic,Epic poetry,Cyprus / Greece
+rhianus,GLAUx,Riano di Creta,Rhianus of Crete,tlg0219,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Lyric poetry,Bene (Crete)
+iliasparva,GLAUx,Piccola Iliade,Little Iliad,tlg1444,-700,-601,7th c. BCE,7th c. BCE,Archaic,Ionic,Epic poetry,Greece
+brutimithridatisepistulae,GLAUx,Lettere di Bruto e Mitridate,Letters of Brutus and Mithridates,tlg0039,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Epistolography,Asia Minor
+senioresapudirenaeum,GLAUx,Presbiteri citati da Ireneo,Elders in Irenaeus,tlg1665,101,300,2nd–3rd c. CE,2nd–3rd c. CE,Imperial,Koine,Religious,Asia Minor / Gaul
+archilochus,GLAUx,Archiloco,Archilochus,tlg0232,-680,-645,7th c. BCE,7th c. BCE,Archaic,Ionic,Lyric poetry,Paros
+myia,GLAUx,Mia pitagorica,Myia,tlg0509,-300,-101,3rd–2nd c. BCE,3rd–2nd c. BCE,Hellenistic,Doric,Philosophy,Croton (Magna Graecia)
+phocylides,GLAUx,Focilide,Phocylides,tlg1604,-600,-501,6th c. BCE,6th c. BCE,Archaic,Ionic,Lyric poetry,Miletus (Ionia)
+diotimus,GLAUx,Diotimo epigrammatista,Diotimus,tlg0174,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Lyric poetry,Athens / Adramyttium
+vitaesanctimarini,GLAUx,Martirio di san Marino,Martyrdom of St Marinus,tlg2009,201,300,3rd c. CE,3rd c. CE,Imperial,Koine,Religious,Caesarea (Palestine)
+anonymiaulodia,GLAUx,Aulodia anonima,Anonymous Aulodia,tlg1836,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Lyric poetry,Egypt
+anonymicuretumhymnus,GLAUx,Inno dei Cureti,Hymn of the Curetes,tlg0227,-400,-301,4th c. BCE,4th c. BCE,Classical,Doric,Lyric poetry,Palaikastro (Crete)
+melissa,GLAUx,Melissa pitagorica,Melissa,tlg0051,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Doric,Philosophy,Magna Graecia
+diodorus,GLAUx,Diodoro epigrammatista,Diodorus Epigrammaticus,tlg0165,-100,-1,1st c. BCE,1st c. BCE,Hellenistic,Koine,Lyric poetry,Sardis (?)
+demodocus,GLAUx,Demodoco di Leros,Demodocus of Leros,tlg0245,-600,-501,6th c. BCE,6th c. BCE,Archaic,Ionic,Lyric poetry,Leros
+nicias,GLAUx,Nicia di Mileto,Nicias of Miletus,tlg1533,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Doric,Lyric poetry,Miletus (Ionia)
+aglais,GLAUx,Aglaide,Aglais,tlg0676,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Didactic,Unknown
+antoniusdiogenes,GLAUx,Antonio Diogene,Antonius Diogenes,tlg1148,1,200,1st–2nd c. CE,1st–2nd c. CE,Imperial,Literary Koine,Novel,Unknown
+hedylus,GLAUx,Edilo,Hedylus,tlg0198,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Lyric poetry,Samos / Athens
+phaedimus,GLAUx,Fedimo,Phaedimus,tlg1577,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Lyric poetry,Byzantium / Amastris
+epitaphiumabercii,GLAUx,Epitaffio di Abercio,Epitaph of Abercius,tlg1353,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Lyric poetry,Hierapolis (Phrygia)
+erinna,GLAUx,Erinna,Erinna,tlg1355,-360,-340,4th c. BCE,4th c. BCE,Classical,Doric,Lyric poetry,Telos (?)
+thebais,GLAUx,Tebaide ciclica,Cyclic Thebaid,tlg1712,-800,-701,8th c. BCE,8th c. BCE,Archaic,Ionic,Epic poetry,Greece
+pratinas,GLAUx,Pratina di Fliunte,Pratinas of Phlius,tlg1833,-540,-467,6th–5th c. BCE,6th–5th c. BCE,Classical,Doric,Tragedy,Phlius (Peloponnese)
+anonymusdeplantisaegyptiis,GLAUx,Anonimo sulle piante egiziane,Anonymous On Egyptian Plants,tlg1813,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Didactic,Egypt
+nicaenetus,GLAUx,Niceneto di Samo,Nicaenetus of Samos,tlg0218,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Lyric poetry,Samos
+antagoras,GLAUx,Antagora di Rodi,Antagoras of Rhodes,tlg0215,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Lyric poetry,Rhodes
+mesomedes,GLAUx,Mesomede di Creta,Mesomedes of Crete,tlg0268,101,200,2nd c. CE,2nd c. CE,Imperial,Literary Koine,Lyric poetry,Crete
+titanomachia,GLAUx,Titanomachia,Titanomachy,tlg1737,-700,-601,7th c. BCE,7th c. BCE,Archaic,Ionic,Epic poetry,Greece
+periander,GLAUx,Periandro,Periander,tlg0629,-627,-585,7th–6th c. BCE,7th–6th c. BCE,Archaic,Doric,Epistolography,Corinth
+antigoniepistula,GLAUx,Lettera di Antigono,Letter of Antigonus,tlg0618,-400,-201,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Koine,Epistolography,Macedonia
+asius,GLAUx,Asio di Samo,Asius of Samos,tlg0242,-700,-501,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Lyric poetry,Samos
+melinno,GLAUx,Melinno,Melinno,tlg1493,-200,-101,2nd c. BCE,2nd c. BCE,Hellenistic,Doric,Lyric poetry,Locri (Magna Graecia)
+iliupersis,GLAUx,Iliupersis,Iliu Persis,tlg1445,-700,-601,7th c. BCE,7th c. BCE,Archaic,Ionic,Epic poetry,Greece
+platocomicus,GLAUx,Platone comico,Plato Comicus,tlg0497,-450,-385,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Comedy,Athens
+phoronis,GLAUx,Foronide,Phoronis,tlg1607,-700,-501,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Epic poetry,Argos
+aegimius,GLAUx,Egimio,Aegimius,tlg0668,-600,-501,6th c. BCE,6th c. BCE,Archaic,Ionic,Epic poetry,Greece
+pancrates,GLAUx,Pancrate,Pancrates,tlg1556,-300,-101,3rd–2nd c. BCE,3rd–2nd c. BCE,Hellenistic,Koine,Lyric poetry,Alexandria in Egypt
+aristeas,GLAUx,Aristea di Proconneso,Aristeas of Proconnesus,tlg1182,-700,-501,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Epic poetry,Proconnesus (Propontis)
+dosiadas,GLAUx,Dosiada,Dosiadas,tlg0208,-300,-101,3rd–2nd c. BCE,3rd–2nd c. BCE,Hellenistic,Koine,Lyric poetry,Crete / Rhodes
+anubion,GLAUx,Anubione,Anubion,tlg1126,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Technical and scientific,Diospolis (Egypt)
+sappho,GLAUx,Saffo,Sappho,tlg0009,-630,-570,7th–6th c. BCE,7th–6th c. BCE,Archaic,Aeolic,Lyric poetry,Mytilene (Lesbos)
+nicander,GLAUx,Nicandro di Colofone,Nicander of Colophon,tlg0022,-197,-130,2nd c. BCE,2nd c. BCE,Hellenistic,Ionic,Didactic,Colophon (Ionia)
+parrhasius,GLAUx,Parrasio,Parrhasius,tlg1567,-500,-301,5th–4th c. BCE,5th–4th c. BCE,Classical,Ionic,Lyric poetry,Ephesus (Ionia)
+epitaphiumsicili,GLAUx,Epitaffio di Sicilo,Epitaph of Seikilos,tlg2139,1,100,1st c. CE,1st c. CE,Imperial,Literary Koine,Lyric poetry,Tralles (Lydia)
+thespis,GLAUx,Tespi,Thespis,tlg0301,-560,-500,6th–5th c. BCE,6th–5th c. BCE,Archaic,Literary Attic,Tragedy,Icaria (Attica)
+aeschrion,GLAUx,Eschrione di Samo,Aeschrion of Samos,tlg0679,-400,-301,4th c. BCE,4th c. BCE,Classical,Ionic,Lyric poetry,Samos
+cleobulus,GLAUx,Cleobulo di Lindo,Cleobulus of Lindus,tlg1274,-620,-550,7th–6th c. BCE,7th–6th c. BCE,Archaic,Doric,Lyric poetry,Lindus (Rhodes)
+euphorion,GLAUx,Euforione di Calcide,Euphorion of Chalcis,tlg0221,-275,-200,3rd–2nd c. BCE,3rd–2nd c. BCE,Hellenistic,Ionic,Lyric poetry,Chalcis (Euboea)
+terpander,GLAUx,Terpandro,Terpander,tlg0299,-712,-645,8th–7th c. BCE,8th–7th c. BCE,Archaic,Aeolic,Lyric poetry,Antissa (Lesbos)
+pisander,GLAUx,Pisandro di Camiro,Pisander of Camirus,tlg0288,-700,-501,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Epic poetry,Cameirus (Rhodes)
+carmennaupactium,GLAUx,Carme Naupattio,Naupactia,tlg1241,-600,-501,6th c. BCE,6th c. BCE,Archaic,Ionic,Epic poetry,Naupactus
+crates,GLAUx,Cratete di Tebe,Crates of Thebes,tlg0336,-365,-285,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Ionic,Lyric poetry,Thebes (Boeotia)
+empedocles,GLAUx,Empedocle,Empedocles,tlg1342,-494,-434,5th c. BCE,5th c. BCE,Classical,Doric,Philosophy,Acragas (Sicily)
+dorieuspoeta,GLAUx,Dorieo poeta,Dorieus,tlg2622,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Lyric poetry,Rhodes
+moero,GLAUx,Moiro di Bisanzio,Moero of Byzantium,tlg0220,-400,-201,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Koine,Lyric poetry,Byzantium
+epigoni,GLAUx,Epigoni,Epigoni,tlg1351,-800,-701,8th c. BCE,8th c. BCE,Archaic,Ionic,Epic poetry,Greece
+alcmaeonis,GLAUx,Alcmeonide,Alcmaeonis,tlg0696,-700,-501,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Epic poetry,Greece
+antimachus,GLAUx,Antimaco di Colofone,Antimachus of Colophon,tlg0239,-500,-301,5th–4th c. BCE,5th–4th c. BCE,Classical,Ionic,Lyric poetry,Colophon (Ionia)
+archimelus,GLAUx,Archimelo,Archimelus,tlg0131,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Koine,Lyric poetry,Unknown
+boethus,GLAUx,Boeto di Tarso,Boethus of Tarsus,tlg0146,-100,100,1st c. BCE – 1st c. CE,1st c. BCE – 1st c. CE,Imperial,Literary Koine,Lyric poetry,Tarsus (Cilicia)
+cleobuliepistula,GLAUx,Lettera di Cleobulo,Letter of Cleobulus,tlg0622,-600,-501,6th c. BCE,6th c. BCE,Archaic,Doric,Epistolography,Lindus (Rhodes)
+thales,GLAUx,Talete,Thales,tlg1705,-624,-546,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Philosophy,Miletus (Ionia)
+nostoi,GLAUx,Nostoi,Nostoi,tlg1541,-700,-501,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Epic poetry,Greece
+archelaus,GLAUx,Archelao d'Egitto,Archelaus of Egypt,tlg0570,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Doric,Lyric poetry,Egypt
+cleobulina,GLAUx,Cleobulina,Cleobulina,tlg0244,-600,-501,6th c. BCE,6th c. BCE,Archaic,Ionic,Lyric poetry,Lindus (Rhodes)
+pittacus,GLAUx,Pittaco,Pittacus,tlg0631,-640,-568,7th–6th c. BCE,7th–6th c. BCE,Archaic,Aeolic,Lyric poetry,Mytilene (Lesbos)
+canticumeuripidis,GLAUx,Canto di Euripide (frammento musicale),Song of Euripides,tlg2138,-500,-401,5th c. BCE,5th c. BCE,Classical,Attic,Lyric poetry,Athens
+aulusliciniusarchias,GLAUx,Aulo Licinio Archia,Aulus Licinius Archias,tlg0127,-200,-1,2nd–1st c. BCE,2nd–1st c. BCE,Hellenistic,Koine,Lyric poetry,Antioch (Syria)
+hegemon,GLAUx,Egemone,Hegemon,tlg1391,-300,-201,3rd c. BCE,3rd c. BCE,Hellenistic,Doric,Lyric poetry,Alexandria (Troad)
+bias,GLAUx,Biante di Priene,Bias of Priene,tlg1223,-620,-540,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Lyric poetry,Priene (Ionia)
+pherecydes,GLAUx,Ferecide di Siro,Pherecydes of Syros,tlg0630,-580,-520,6th c. BCE,6th c. BCE,Archaic,Ionic,Philosophy,Syros (Cyclades)
+philemon,GLAUx,Filemone comico,Philemon Comicus,tlg0487,-362,-262,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Attic,Comedy,Soli (Cilicia) / Athens
+seleucus,GLAUx,Seleuco poeta,Seleucus,tlg0209,-200,-101,2nd c. BCE,2nd c. BCE,Hellenistic,Koine,Lyric poetry,Unknown
+echembrotus,GLAUx,Echembroto,Echembrotus,tlg0249,-600,-501,6th c. BCE,6th c. BCE,Archaic,Ionic,Lyric poetry,Arcadia
+timon,GLAUx,Timone di Fliunte,Timon of Phlius,tlg1735,-320,-230,4th–3rd c. BCE,4th–3rd c. BCE,Hellenistic,Ionic,Lyric poetry,Phlius (Peloponnese)
+mimnermus,GLAUx,Mimnermo,Mimnermus,tlg0255,-630,-600,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Lyric poetry,Colophon (Ionia)
+speusippus,GLAUx,Speusippo,Speusippus,tlg1692,-408,-339,5th–4th c. BCE,5th–4th c. BCE,Classical,Attic,Philosophy,Athens
+oedipodea,GLAUx,Edipodia,Oedipodea,tlg1547,-800,-701,8th c. BCE,8th c. BCE,Archaic,Ionic,Epic poetry,Greece
+cleostratus,GLAUx,Cleostrato di Tenedo,Cleostratus of Tenedos,tlg1275,-600,-501,6th c. BCE,6th c. BCE,Archaic,Ionic,Didactic,Tenedos
+lasus,GLAUx,Laso di Ermione,Lasus of Hermione,tlg0366,-600,-501,6th c. BCE,6th c. BCE,Archaic,Doric,Lyric poetry,Hermione (Argolis)
+pigres,GLAUx,Pigrete di Alicarnasso,Pigres of Halicarnassus,tlg0258,-600,-401,6th–5th c. BCE,6th–5th c. BCE,Archaic,Ionic,Lyric poetry,Halicarnassus (Caria)
+eumelus,GLAUx,Eumelo di Corinto,Eumelus of Corinth,tlg0298,-800,-601,8th–7th c. BCE,8th–7th c. BCE,Archaic,Ionic,Lyric poetry,Corinth
+timocreon,GLAUx,Timocreonte di Rodi,Timocreon of Rhodes,tlg0265,-500,-401,5th c. BCE,5th c. BCE,Classical,Doric,Lyric poetry,Ialysus (Rhodes)
+danaisveldanaides,GLAUx,Danaide,Danais,tlg0364,-700,-501,7th–6th c. BCE,7th–6th c. BCE,Archaic,Ionic,Epic poetry,Argos
+chersias,GLAUx,Chersia di Orcomeno,Chersias of Orchomenus,tlg1260,-500,-401,5th c. BCE,5th c. BCE,Classical,Ionic,Epic poetry,Orchomenus (Boeotia)
+cydias,GLAUx,Cidia,Cydias,tlg0368,-600,-401,6th–5th c. BCE,6th–5th c. BCE,Archaic,Doric,Lyric poetry,Hermione (?)
+apollodorus,GLAUx,Apollodoro lirico,Apollodorus,tlg0365,-600,-501,6th c. BCE,6th c. BCE,Archaic,Ionic,Lyric poetry,Unknown
+telegonia,GLAUx,Telegonia,Telegony,tlg4163,-600,-501,6th c. BCE,6th c. BCE,Archaic,Ionic,Epic poetry,Cyrene / Greece
+tynnichus,GLAUx,Tinnico di Calcide,Tynnichus of Chalcis,tlg0367,-600,-401,6th–5th c. BCE,6th–5th c. BCE,Archaic,Doric,Lyric poetry,Chalcis (Euboea)
+papyri_documentari,GLAUx,Papiri documentari (DDbDP/Trismegistos),Documentary papyri (DDbDP/Trismegistos),,-300,700,3rd c. BCE – 7th c. CE,3rd c. BCE – 7th c. CE,Imperial,Koine,Papyri,Egypt

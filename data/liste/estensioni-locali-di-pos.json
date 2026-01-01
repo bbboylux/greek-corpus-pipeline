@@ -1,0 +1,19 @@
+{
+ "id": "estensioni-locali-di-pos",
+ "nome": "Estensioni locali della parte del discorso",
+ "name_en": "Local part-of-speech extensions",
+ "versione": "1.0.0",
+ "funzione": "The values of the first position of the tag that the AGDT inventory does not document but that a resource declares as its own convention. They count as a linguistic category: the records that carry them are words, and the syntactic relation has no say on them.",
+ "usata_da": [
+  "no part of the program reads this file: the value b is written directly in the code (units._LOCAL_POS and the check pedalion-b-pos); the file documents it"
+ ],
+ "fonte": "Pedalion README for b. The value z does not appear in it, because it marks a technical token and not a category of words, and units.is_technical_record intercepts it first. There is no per-resource profile mechanism: the list is fixed, and this line says so.",
+ "voci": {
+  "b": {
+   "risorsa": "Pedalion",
+   "stato": "documentata",
+   "conversione": null,
+   "nota": "The documentation speaks of a correspondence “in most cases” and therefore does not provide a one-to-one equivalence: no automatic conversion is proposed."
+  }
+ }
+}

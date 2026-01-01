@@ -1,0 +1,1422 @@
+document_id,tlg_author,tlg_work,author_it,author_en,work_en,genre,dialect,date_start,date_end,date_label,century,period,tokens_declared
+0012-001,tlg0012,tlg001,Homerus,Homerus,Ilias,Epic poetry,Ionic/Epic,-800,-701,800 – 701 BCE,8th c. BCE,Archaic,129604
+0012-002,tlg0012,tlg002,Homerus,Homerus,Odyssea,Epic poetry,Ionic/Epic,-800,-701,800 – 701 BCE,8th c. BCE,Archaic,104364
+0012-003,tlg0012,tlg003,Homerus,Homerus,Epigrammata,Lyric poetry,Ionic/Epic,-800,-701,800 – 701 BCE,8th c. BCE,Archaic,26
+1351-001,tlg1351,tlg001,Epigoni,Epigoni,Epigoni,Epic poetry,Ionic/Epic,-800,-701,800 – 701 BCE,8th c. BCE,Archaic,60
+1547-001,tlg1547,tlg001,Oedipodea,Oedipodea,Oedipodea,Epic poetry,Ionic/Epic,-800,-701,800 – 701 BCE,8th c. BCE,Archaic,15
+1712-001,tlg1712,tlg001,Thebaïs,Thebaïs,Thebaïs,Epic poetry,Ionic/Epic,-800,-701,800 – 701 BCE,8th c. BCE,Archaic,157
+0298-001,tlg0298,tlg001,Eumelus,Eumelus,Fragmentum,Lyric poetry,Ionic/Epic,-800,-601,800 – 601 BCE,8th–7th c. BCE,Archaic,14
+0020-001,tlg0020,tlg001,Hesiodus,Hesiodus,Theogonia,Epic poetry,Ionic/Epic,-800,-601,800 – 601 BCE,8th–7th c. BCE,Archaic,8101
+0020-002,tlg0020,tlg002,Hesiodus,Hesiodus,Opera et dies,Epic poetry,Ionic/Epic,-800,-601,800 – 601 BCE,8th–7th c. BCE,Archaic,6954
+0020-003,tlg0020,tlg003,Hesiodus,Hesiodus,Scutum,Epic poetry,Ionic/Epic,-800,-601,800 – 601 BCE,8th–7th c. BCE,Archaic,3834
+0020-004,tlg0020,tlg004,Hesiodus,Hesiodus,Fragmenta,Epic poetry,Ionic/Epic,-800,-601,800 – 601 BCE,8th–7th c. BCE,Archaic,9107
+0020-006,tlg0020,tlg006,Hesiodus,Hesiodus,Fragmenta astronomica,Didactic poetry,Ionic/Epic,-800,-601,800 – 601 BCE,8th–7th c. BCE,Archaic,38
+0020-007,tlg0020,tlg007,Hesiodus,Hesiodus,Fragmenta,Epic poetry,Ionic/Epic,-800,-601,800 – 601 BCE,8th–7th c. BCE,Archaic,513
+0020-008,tlg0020,tlg008,Hesiodus,Hesiodus,Fragmentum,Lyric poetry,Ionic/Epic,-800,-601,800 – 601 BCE,8th–7th c. BCE,Archaic,7
+0232-002,tlg0232,tlg002,Archilochus,Archilochus,Fragmenta lyrica,Lyric poetry,Ionic/Epic,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,319
+0232-003,tlg0232,tlg003,Archilochus,Archilochus,Epigrammata,Lyric poetry,Ionic/Epic,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,26
+1296-001,tlg1296,tlg001,Cypria,Cypria,Cypria,Epic poetry,Ionic/Epic,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,412
+1444-001,tlg1444,tlg001,Ilias Parva,Ilias Parva,Ilias parva,Epic poetry,Ionic/Epic,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,390
+1445-001,tlg1445,tlg001,Iliu Persis,Iliu Persis,Iliu persis,Epic poetry,Ionic/Epic,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,96
+0013-001,tlg0013,tlg001,Hymni Homerici,Hymni Homerici,Fragmenta hymni in Bacchum,Lyric poetry,Ionic/Epic,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,180
+0013-005,tlg0013,tlg005,Hymni Homerici,Hymni Homerici,In Venerem,Lyric poetry,Ionic/Epic,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,2393
+0013-009,tlg0013,tlg009,Hymni Homerici,Hymni Homerici,In Dianam,Lyric poetry,Ionic/Epic,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,67
+0255-002,tlg0255,tlg002,Mimnermo,Mimnermus,Epigramma,Lyric poetry,Ionic/Epic,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,17
+0299-001,tlg0299,tlg001,Terpander,Terpander,Fragmenta,Lyric poetry,Doric,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,70
+1737-001,tlg1737,tlg001,Titanomachia,Titanomachia,Titanomachia,Epic poetry,Ionic/Epic,-700,-601,700 – 601 BCE,7th c. BCE,Archaic,125
+0696-002,tlg0696,tlg002,Alcmaeonis,Alcmaeonis,Alcmaeonis,Epic poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,51
+1182-004,tlg1182,tlg004,Aristeas,Aristeas,Fragmenta epica,Epic poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,91
+0241-003,tlg0241,tlg003,Aristoxenus,Aristoxenus,Fragmentum,Comedy,Doric,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,10
+0242-003,tlg0242,tlg003,Asius,Asius,Fragmenta epica,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,98
+1274-002,tlg1274,tlg002,Cleobulus,Cleobulus,Epigrammata,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,72
+0364-001,tlg0364,tlg001,Danaïs vel Danaïdes,Danaïs vel Danaïdes,Danaïs vel Danaïdes,Epic poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,13
+1541-001,tlg1541,tlg001,Nostoi,Nostoi,Nostoi,Epic poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,38
+0013-006,tlg0013,tlg006,Hymni Homerici,Hymni Homerici,In Venerem,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,153
+0013-007,tlg0013,tlg007,Hymni Homerici,Hymni Homerici,In Bacchum,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,508
+0013-010,tlg0013,tlg010,Hymni Homerici,Hymni Homerici,In Venerem,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,47
+0013-011,tlg0013,tlg011,Hymni Homerici,Hymni Homerici,In Minervam,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,42
+0013-012,tlg0013,tlg012,Hymni Homerici,Hymni Homerici,In Junonem,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,35
+0013-013,tlg0013,tlg013,Hymni Homerici,Hymni Homerici,In Cererem,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,29
+0013-014,tlg0013,tlg014,Hymni Homerici,Hymni Homerici,In matrem deorum,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,51
+0013-016,tlg0013,tlg016,Hymni Homerici,Hymni Homerici,In Aesculapium,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,42
+0013-017,tlg0013,tlg017,Hymni Homerici,Hymni Homerici,In Dioscuros,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,35
+0013-021,tlg0013,tlg021,Hymni Homerici,Hymni Homerici,In Apollinem,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,46
+0013-022,tlg0013,tlg022,Hymni Homerici,Hymni Homerici,In Neptunum,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,58
+0013-023,tlg0013,tlg023,Hymni Homerici,Hymni Homerici,In Jovem,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,30
+0013-024,tlg0013,tlg024,Hymni Homerici,Hymni Homerici,In Vestam,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,39
+0013-025,tlg0013,tlg025,Hymni Homerici,Hymni Homerici,In Musas et Apollinem,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,61
+0013-026,tlg0013,tlg026,Hymni Homerici,Hymni Homerici,In Bacchum,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,103
+0013-027,tlg0013,tlg027,Hymni Homerici,Hymni Homerici,In Dianam,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,156
+0013-028,tlg0013,tlg028,Hymni Homerici,Hymni Homerici,In Minervam,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,138
+0013-029,tlg0013,tlg029,Hymni Homerici,Hymni Homerici,In Vestam,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,116
+0013-030,tlg0013,tlg030,Hymni Homerici,Hymni Homerici,In Tellurem matrem omnium,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,158
+1607-002,tlg1607,tlg002,Phoronis,Phoronis,Phoronis,Epic poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,92
+0288-001,tlg0288,tlg001,Pisander,Pisander,Heraclea,Epic poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,30
+0288-003,tlg0288,tlg003,Pisander,Pisander,Epigramma,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,37
+0631-001,tlg0631,tlg001,Pittacus,Pittacus,Fragmentum,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,24
+0631-002,tlg0631,tlg002,Pittacus,Pittacus,Epigramma,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,9
+0253-001,tlg0253,tlg001,Homerus,Homerus,Margites,Lyric poetry,Ionic/Epic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,143
+0009-002,tlg0009,tlg002,Saffo,Sappho,Epigrammata,Lyric poetry,Aeolic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,83
+1667-004,tlg1667,tlg004,Septem Sapientes,Septem Sapientes,Sententiae,Lyric poetry,Attic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,673
+1667-005,tlg1667,tlg005,Septem Sapientes,Septem Sapientes,Praecepta,Lyric poetry,Attic,-700,-501,700 – 501 BCE,7th–6th c. BCE,Archaic,535
+0668-001,tlg0668,tlg001,Aegimius,Aegimius,Aegimius,Epic poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,92
+0237-003,tlg0237,tlg003,Anacreon,Anacreon,Fragmenta,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,11
+0237-004,tlg0237,tlg004,Anacreon,Anacreon,Epigrammata,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,454
+0365-001,tlg0365,tlg001,Apollodorus,Apollodorus,Fragmentum,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,9
+1223-001,tlg1223,tlg001,Bias,Bias,Fragmentum,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,23
+0622-001,tlg0622,tlg001,Cleobuli Epistula,Cleobuli Epistula,Epistula,Epistolography,Doric,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,43
+0244-001,tlg0244,tlg001,Cleobulina Scriptor Aenigmatum,Cleobulina Scriptor Aenigmatum,Fragmenta,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,35
+1275-003,tlg1275,tlg003,Cleostratus,Cleostratus,Astrologia,Didactic poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,15
+0245-001,tlg0245,tlg001,Demodocus,Demodocus,Fragmenta,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,120
+0245-002,tlg0245,tlg002,Demodocus,Demodocus,Epigrammata,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,105
+0249-001,tlg0249,tlg001,Echembrotus,Echembrotus,Fragmentum,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,19
+4163-001,tlg4163,tlg001,Telegonia,Telegonia,Telegonia,Epic poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,9
+1433-001,tlg1433,tlg001,Hipparchus,Hipparchus,Fragmenta,Lyric poetry,Unknown,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,8
+0013-002,tlg0013,tlg002,Hymni Homerici,Hymni Homerici,In Cererem,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,3946
+0013-003,tlg0013,tlg003,Hymni Homerici,Hymni Homerici,In Apollinem,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,4488
+0013-004,tlg0013,tlg004,Hymni Homerici,Hymni Homerici,In Mercurium,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,4779
+0013-015,tlg0013,tlg015,Hymni Homerici,Hymni Homerici,In Herculem,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,72
+0013-018,tlg0013,tlg018,Hymni Homerici,Hymni Homerici,In Mercurium,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,95
+0366-001,tlg0366,tlg001,Lasus,Lasus,Fragmentum,Lyric poetry,Doric,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,15
+1241-002,tlg1241,tlg002,Carmen Naupactium,Carmen Naupactium,Carmen Naupactium,Epic poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,67
+0630-002,tlg0630,tlg002,Pherecydes,Pherecydes,Fragmenta,Philosophy,Ionic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,22
+1604-001,tlg1604,tlg001,Phocylides,Phocylides,Sententiae,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,261
+1604-002,tlg1604,tlg002,Phocylides,Phocylides,Epigramma,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,35
+0629-001,tlg0629,tlg001,Periander,Periander,Epistulae,Epistolography,Doric,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,123
+1705-003,tlg1705,tlg003,Thales,Thales,Fragmenta,Philosophy,Unknown,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,41
+0002-001,tlg0002,tlg001,Theognis,Theognis,Elegiae,Lyric poetry,Ionic/Epic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,11484
+0301-001,tlg0301,tlg001,Thespis,Thespis,Fragmenta,Tragedy,Attic,-600,-501,600 – 501 BCE,6th c. BCE,Archaic,74
+0085-001,tlg0085,tlg001,Eschilo,Aeschylus,Supplices,Tragedy,Attic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,5955
+0085-002,tlg0085,tlg002,Eschilo,Aeschylus,Persae,Tragedy,Attic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,6256
+0085-003,tlg0085,tlg003,Eschilo,Aeschylus,Prometheus vinctus,Tragedy,Attic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,7084
+0085-004,tlg0085,tlg004,Eschilo,Aeschylus,Septem contra Thebas,Tragedy,Attic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,6215
+0085-005,tlg0085,tlg005,Eschilo,Aeschylus,Agamemnon,Tragedy,Attic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,9760
+0085-006,tlg0085,tlg006,Eschilo,Aeschylus,Choephoroe,Tragedy,Attic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,6589
+0085-007,tlg0085,tlg007,Eschilo,Aeschylus,Eumenides,Tragedy,Attic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,6389
+0085-010,tlg0085,tlg010,Eschilo,Aeschylus,Epigrammata,Lyric poetry,Ionic/Epic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,49
+0368-001,tlg0368,tlg001,Cydias,Cydias,Fragmentum,Lyric poetry,Doric,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,11
+0626-002,tlg0626,tlg002,Heraclitus,Heraclitus,Fragmenta,Philosophy,Ionic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,2091
+0258-001,tlg0258,tlg001,Pigres,Pigres,Fragmentum,Lyric poetry,Ionic/Epic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,15
+0033-001,tlg0033,tlg001,Pindarus,Pindarus,Olympia,Lyric poetry,Doric,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,6867
+0033-002,tlg0033,tlg002,Pindarus,Pindarus,Pythia,Lyric poetry,Doric,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,8852
+0033-003,tlg0033,tlg003,Pindarus,Pindarus,Nemea,Lyric poetry,Doric,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,5736
+0033-004,tlg0033,tlg004,Pindarus,Pindarus,Isthmia,Lyric poetry,Doric,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,3402
+1833-001,tlg1833,tlg001,Pratinas,Pratinas,Fragmenta,Tragedy,Doric,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,154
+0632-001,tlg0632,tlg001,Pythagoras,Pythagoras,Carmen aureum,Didactic poetry,Ionic/Epic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,652
+0632-002a,tlg0632,tlg002a,Pythagoras,Pythagoras,Fragmenta,Philosophy,Unknown,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,9
+0632-002b,tlg0632,tlg002b,Pythagoras,Pythagoras,Fragmenta,Theology,Unknown,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,43
+0632-002c,tlg0632,tlg002c,Pythagoras,Pythagoras,Fragmenta,Epistolography,Ionic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,250
+0632-002d,tlg0632,tlg002d,Pythagoras,Pythagoras,Fragmenta,Theology,Ionic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,62
+0632-004,tlg0632,tlg004,Pythagoras,Pythagoras,Fragmenta astrologica,Astronomy/Astrology,Unknown,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,38
+0632-005,tlg0632,tlg005,Pythagoras,Pythagoras,Epigramma,Lyric poetry,Ionic/Epic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,8
+0632-007,tlg0632,tlg007,Pythagoras,Pythagoras,Fragmenta astrologica,Astronomy/Astrology,Attic/Koine,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,2654
+0261-003,tlg0261,tlg003,Simonides,Simonides,Epigrammata,Lyric poetry,Ionic/Epic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,1882
+0367-001,tlg0367,tlg001,Tynnichus,Tynnichus,Fragmentum,Lyric poetry,Doric,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,4
+0267-002,tlg0267,tlg002,Xenophanes,Xenophanes,Fragmenta,Lyric poetry,Ionic/Epic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,426
+0267-003,tlg0267,tlg003,Xenophanes,Xenophanes,Epigramma,Lyric poetry,Ionic/Epic,-600,-401,600 – 401 BCE,6th–5th c. BCE,Archaic,34
+0028-001,tlg0028,tlg001,Antifonte,Antiphon,In novercam,Oratory,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,2014
+0028-002,tlg0028,tlg002,Antifonte,Antiphon,Tetralogia 1,Oratory,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,2879
+0028-003,tlg0028,tlg003,Antifonte,Antiphon,Tetralogia 2,Oratory,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,2473
+0028-004,tlg0028,tlg004,Antifonte,Antiphon,Tetralogia 3,Oratory,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,2208
+0028-005,tlg0028,tlg005,Antifonte,Antiphon,De caede Herodis,Oratory,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,7311
+0028-006,tlg0028,tlg006,Antifonte,Antiphon,De choreuta,Oratory,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,3918
+0199-001,tlg0199,tlg001,Bacchylides,Bacchylides,Epinicia,Lyric poetry,Doric,-500,-401,500 – 401 BCE,5th c. BCE,Classical,4064
+0199-002,tlg0199,tlg002,Bacchylides,Bacchylides,Dithyrambi,Lyric poetry,Doric,-500,-401,500 – 401 BCE,5th c. BCE,Classical,1434
+0199-009,tlg0199,tlg009,Bacchylides,Bacchylides,Epigrammata,Lyric poetry,Ionic/Epic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,51
+2138-001,tlg2138,tlg001,Canticum Euripidis,Canticum Euripidis,Ex Orestis stasimo i,Lyric poetry,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,33
+1342-002,tlg1342,tlg002,Empedocles,Empedocles,Epigramma,Lyric poetry,Ionic/Epic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,65
+0006-001,tlg0006,tlg001,Euripide,Euripides,Cyclops,Comedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,5124
+0006-002,tlg0006,tlg002,Euripide,Euripides,Alcestis,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,8106
+0006-003,tlg0006,tlg003,Euripide,Euripides,Medea,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,9728
+0006-004,tlg0006,tlg004,Euripide,Euripides,Heraclidae,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,7550
+0006-005,tlg0006,tlg005,Euripide,Euripides,Hippolytus,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,10040
+0006-006,tlg0006,tlg006,Euripide,Euripides,Andromacha,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,8882
+0006-007,tlg0006,tlg007,Euripide,Euripides,Hecuba,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,8917
+0006-008,tlg0006,tlg008,Euripide,Euripides,Supplices,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,8570
+0006-009,tlg0006,tlg009,Euripide,Euripides,Hercules,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,9632
+0006-010,tlg0006,tlg010,Euripide,Euripides,Ion,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,11371
+0006-011,tlg0006,tlg011,Euripide,Euripides,Troiades,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,8768
+0006-012,tlg0006,tlg012,Euripide,Euripides,Electra,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,9428
+0006-013,tlg0006,tlg013,Euripide,Euripides,Iphigenia Taurica,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,10250
+0006-014,tlg0006,tlg014,Euripide,Euripides,Helena,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,11997
+0006-015,tlg0006,tlg015,Euripide,Euripides,Phoenisae,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,12029
+0006-016,tlg0006,tlg016,Euripide,Euripides,Orestes,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,12354
+0006-017,tlg0006,tlg017,Euripide,Euripides,Bacchae,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,9244
+0006-018,tlg0006,tlg018,Euripide,Euripides,Iphigenia Aulidensis,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,11582
+0006-019,tlg0006,tlg019,Euripide,Euripides,Rhesus,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,6606
+0006-031,tlg0006,tlg031,Euripide,Euripides,Epigrammata,Lyric poetry,Ionic/Epic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,29
+0016-001,tlg0016,tlg001,Erodoto,Herodotus,Historiae,Historiography,Ionic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,209843
+0013-019,tlg0013,tlg019,Hymni Homerici,Hymni Homerici,In Pana,Lyric poetry,Ionic/Epic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,396
+0013-020,tlg0013,tlg020,Hymni Homerici,Hymni Homerici,In Volcanum,Lyric poetry,Ionic/Epic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,60
+0013-031,tlg0013,tlg031,Hymni Homerici,Hymni Homerici,In Solem,Lyric poetry,Ionic/Epic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,154
+0013-032,tlg0013,tlg032,Hymni Homerici,Hymni Homerici,In Lunam,Lyric poetry,Ionic/Epic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,153
+0013-033,tlg0013,tlg033,Hymni Homerici,Hymni Homerici,In Dioscuros,Lyric poetry,Ionic/Epic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,137
+1260-002,tlg1260,tlg002,Chersias,Chersias,Fragmentum epicum,Epic poetry,Ionic/Epic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,13
+0032-015,tlg0032,tlg015,Senofonte,Pseudo-Xenophon,Atheniensium respublica,Philosophy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,3609
+2600-001,tlg2600,tlg001,Simon (Scriptor De Re Equestri),Simon (Scriptor De Re Equestri),De forma et delectu equorum,Biology,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,618
+0011-001,tlg0011,tlg001,Sophocles,Sophocles,Trachiniae,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,8940
+0011-002,tlg0011,tlg002,Sophocles,Sophocles,Antigone,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,8866
+0011-003,tlg0011,tlg003,Sophocles,Sophocles,Ajax,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,9601
+0011-004,tlg0011,tlg004,Sophocles,Sophocles,Oedipus tyrannus,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,11374
+0011-005,tlg0011,tlg005,Sophocles,Sophocles,Electra,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,10625
+0011-006,tlg0011,tlg006,Sophocles,Sophocles,Philoctetes,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,10928
+0011-007,tlg0011,tlg007,Sophocles,Sophocles,Oedipus Coloneus,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,12802
+0011-008,tlg0011,tlg008,Sophocles,Sophocles,Fragmenta,Tragedy,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,2310
+0003-001,tlg0003,tlg001,Tucidide,Thucydides,Historiae,Historiography,Attic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,168407
+0003-002,tlg0003,tlg002,Tucidide,Thucydides,Epigramma,Lyric poetry,Ionic/Epic,-500,-401,500 – 401 BCE,5th c. BCE,Classical,36
+0265-003,tlg0265,tlg003,Timocreon,Timocreon,Epigramma,Lyric poetry,Doric,-500,-401,500 – 401 BCE,5th c. BCE,Classical,14
+0027-001,tlg0027,tlg001,Andocides,Andocides,De mysteriis,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,11797
+0027-002,tlg0027,tlg002,Andocides,Andocides,De reditu suo,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2208
+0027-003,tlg0027,tlg003,Andocides,Andocides,De pace,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3077
+0027-004,tlg0027,tlg004,Andocides,Andocides,In Alcibiadem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3148
+0239-003,tlg0239,tlg003,Antimachus,Antimachus,Epigramma,Lyric poetry,Ionic/Epic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,50
+0591-001,tlg0591,tlg001,Antisthenes,Antisthenes,Declamationes,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,577
+0591-002,tlg0591,tlg002,Antisthenes,Antisthenes,Fragmenta varia,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1076
+0019-001,tlg0019,tlg001,Aristofane,Aristophanes,Acharnenses,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,8795
+0019-002,tlg0019,tlg002,Aristofane,Aristophanes,Equites,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,10732
+0019-003,tlg0019,tlg003,Aristofane,Aristophanes,Nubes,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,11718
+0019-004,tlg0019,tlg004,Aristofane,Aristophanes,Vespae,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,11883
+0019-005,tlg0019,tlg005,Aristofane,Aristophanes,Pax,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,9717
+0019-006,tlg0019,tlg006,Aristofane,Aristophanes,Aves,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,12894
+0019-007,tlg0019,tlg007,Aristofane,Aristophanes,Lysistrata,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,9886
+0019-008,tlg0019,tlg008,Aristofane,Aristophanes,Thesmophoriazusae,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,8856
+0019-009,tlg0019,tlg009,Aristofane,Aristophanes,Ranae,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,11287
+0019-010,tlg0019,tlg010,Aristofane,Aristophanes,Ecclesiazusae,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,9268
+0019-011,tlg0019,tlg011,Aristofane,Aristophanes,Plutus,Comedy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,9673
+0593-001,tlg0593,tlg001,Gorgias,Gorgias,Testimonium,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1499
+0593-002,tlg0593,tlg002,Gorgias,Gorgias,Testimonia,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2895
+0627-001,tlg0627,tlg001,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De prisca medicina,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,6499
+0627-002,tlg0627,tlg002,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De aëre aquis et locis,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,8659
+0627-003,tlg0627,tlg003,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,Prognosticon,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,6087
+0627-004,tlg0627,tlg004,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De diaeta in morbis acutis,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,7143
+0627-005,tlg0627,tlg005,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De diaeta acutorum,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,6447
+0627-006,tlg0627,tlg006,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De morbis popularibus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,53855
+0627-007,tlg0627,tlg007,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De capitis vulneribus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5821
+0627-008,tlg0627,tlg008,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De officina medici,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2819
+0627-009,tlg0627,tlg009,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De fracturis,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,13226
+0627-010,tlg0627,tlg010,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De articulis,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,25227
+0627-011,tlg0627,tlg011,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,Vectiarius,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,6295
+0627-012,tlg0627,tlg012,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,Aphorismi,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,8886
+0627-013,tlg0627,tlg013,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,Jusjurandum,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,297
+0627-014,tlg0627,tlg014,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,Lex,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,395
+0627-015,tlg0627,tlg015,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De humoribus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2968
+0627-016,tlg0627,tlg016,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,Prorrheticon,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,12061
+0627-017,tlg0627,tlg017,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,Coa praesagia,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,15206
+0627-018,tlg0627,tlg018,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De arte,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3139
+0627-019,tlg0627,tlg019,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De natura hominis,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4450
+0627-020,tlg0627,tlg020,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De diaeta salubri,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1645
+0627-021,tlg0627,tlg021,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De flatibus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3302
+0627-022,tlg0627,tlg022,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De humidorum usu,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1865
+0627-023,tlg0627,tlg023,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De morbis i-iii,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,41526
+0627-024a,tlg0627,tlg024a,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,"De semine, de natura pueri, de morbis iv",Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2234
+0627-024b,tlg0627,tlg024b,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,"De semine, de natura pueri, de morbis iv",Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,8301
+0627-025,tlg0627,tlg025,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De affectionibus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,8734
+0627-026,tlg0627,tlg026,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De locis in homine,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,9991
+0627-027,tlg0627,tlg027,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De morbo sacro,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5429
+0627-028,tlg0627,tlg028,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De ulceribus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4081
+0627-029,tlg0627,tlg029,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De haemorrhoidibus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1086
+0627-030,tlg0627,tlg030,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De fistulis,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1854
+0627-031,tlg0627,tlg031,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De diaeta i-iv,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,23271
+0627-032,tlg0627,tlg032,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De affectionibus interioribus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,19088
+0627-033,tlg0627,tlg033,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De natura muliebri,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,14529
+0627-034,tlg0627,tlg034,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De septimestri partu,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1876
+0627-035,tlg0627,tlg035,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De octimestri partu,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,878
+0627-036,tlg0627,tlg036,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De mulierum affectibus i-iii,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,58522
+0627-037,tlg0627,tlg037,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De virginum morbis,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,523
+0627-038,tlg0627,tlg038,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De superfetatione,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4047
+0627-039,tlg0627,tlg039,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De exsectione foetus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,556
+0627-040,tlg0627,tlg040,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De anatome,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,291
+0627-041,tlg0627,tlg041,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De dentitione,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,451
+0627-042,tlg0627,tlg042,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De glandulis,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2072
+0627-043,tlg0627,tlg043,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De carnibus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3885
+0627-045,tlg0627,tlg045,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De corde,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1208
+0627-046,tlg0627,tlg046,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De alimento,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1639
+0627-047,tlg0627,tlg047,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De visu,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,940
+0627-048,tlg0627,tlg048,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De ossium natura,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3780
+0627-049,tlg0627,tlg049,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De medico,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1738
+0627-050,tlg0627,tlg050,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De decente habitu,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1775
+0627-051,tlg0627,tlg051,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,Praeceptiones,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1577
+0627-052,tlg0627,tlg052,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De judicationibus,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2338
+0627-053,tlg0627,tlg053,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,De diebus judicatoriis,Medicine,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1522
+0627-055,tlg0627,tlg055,Hippocrates et Corpus Hippocraticum,Hippocrates et Corpus Hippocraticum,Epistulae,Epistolography,Ionic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,14017
+0017-001,tlg0017,tlg001,Isaeus,Isaeus,De Cleonymo,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3117
+0017-002,tlg0017,tlg002,Isaeus,Isaeus,De Menecle,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3180
+0017-003,tlg0017,tlg003,Isaeus,Isaeus,De Pyrrho,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5012
+0017-004,tlg0017,tlg004,Isaeus,Isaeus,De Nicostrato,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2086
+0017-005,tlg0017,tlg005,Isaeus,Isaeus,De Dicaeogene,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3549
+0017-006,tlg0017,tlg006,Isaeus,Isaeus,De Philoctemone,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4190
+0017-007,tlg0017,tlg007,Isaeus,Isaeus,De Apollodoro,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3235
+0017-008,tlg0017,tlg008,Isaeus,Isaeus,De Cirone,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3682
+0017-009,tlg0017,tlg009,Isaeus,Isaeus,De Astyphilo,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2618
+0017-010,tlg0017,tlg010,Isaeus,Isaeus,De Aristarcho,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2359
+0017-011,tlg0017,tlg011,Isaeus,Isaeus,De Hagnia,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4174
+0017-012,tlg0017,tlg012,Isaeus,Isaeus,Pro Euphileto,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1079
+0010-001,tlg0010,tlg001,Isocrate,Isocrates,In Euthynum,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1279
+0010-002,tlg0010,tlg002,Isocrate,Isocrates,In Callimachum,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4063
+0010-003,tlg0010,tlg003,Isocrate,Isocrates,In Lochitem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1256
+0010-004,tlg0010,tlg004,Isocrate,Isocrates,De bigis,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3245
+0010-005,tlg0010,tlg005,Isocrate,Isocrates,Trapeziticus,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3846
+0010-006,tlg0010,tlg006,Isocrate,Isocrates,Aegineticus,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3284
+0010-007,tlg0010,tlg007,Isocrate,Isocrates,Ad Demonicum,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3339
+0010-008,tlg0010,tlg008,Isocrate,Isocrates,In sophistas,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1478
+0010-009,tlg0010,tlg009,Isocrate,Isocrates,Helenae encomium,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4134
+0010-010,tlg0010,tlg010,Isocrate,Isocrates,Busiris,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3066
+0010-011,tlg0010,tlg011,Isocrate,Isocrates,Panegyricus,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,12046
+0010-012,tlg0010,tlg012,Isocrate,Isocrates,Plataicus,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3573
+0010-013,tlg0010,tlg013,Isocrate,Isocrates,Ad Nicoclem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3396
+0010-014,tlg0010,tlg014,Isocrate,Isocrates,Nicocles,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4200
+0010-015,tlg0010,tlg015,Isocrate,Isocrates,Evagoras,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5148
+0010-016,tlg0010,tlg016,Isocrate,Isocrates,Archidamus,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,6895
+0010-017,tlg0010,tlg017,Isocrate,Isocrates,De pace,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,8889
+0010-018,tlg0010,tlg018,Isocrate,Isocrates,Areopagiticus,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5141
+0010-019,tlg0010,tlg019,Isocrate,Isocrates,Antidosis,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,19724
+0010-020,tlg0010,tlg020,Isocrate,Isocrates,Philippus,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,9827
+0010-021,tlg0010,tlg021,Isocrate,Isocrates,Panathenaicus,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,17713
+0010-022,tlg0010,tlg022,Isocrate,Isocrates,Ad Dionysium,Epistolography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,661
+0010-023,tlg0010,tlg023,Isocrate,Isocrates,Ad filios Jasonis,Epistolography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,995
+0010-024,tlg0010,tlg024,Isocrate,Isocrates,Ad Archidamum,Epistolography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1280
+0010-025,tlg0010,tlg025,Isocrate,Isocrates,Ad reges Mytilenaeos,Epistolography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,746
+0010-026,tlg0010,tlg026,Isocrate,Isocrates,Ad Timotheum,Epistolography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,864
+0010-027,tlg0010,tlg027,Isocrate,Isocrates,Ad Philippum,Epistolography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1429
+0010-028,tlg0010,tlg028,Isocrate,Isocrates,Ad Alexandrum,Epistolography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,321
+0010-029,tlg0010,tlg029,Isocrate,Isocrates,Ad Antipatrum,Epistolography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,915
+0010-030,tlg0010,tlg030,Isocrate,Isocrates,Ad Philippum,Epistolography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,466
+0540-001,tlg0540,tlg001,Lisia,Lysias,De caede Eratosthenis,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2829
+0540-002,tlg0540,tlg002,Lisia,Lysias,Epitaphius,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4599
+0540-003,tlg0540,tlg003,Lisia,Lysias,Contra Simonem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2532
+0540-004,tlg0540,tlg004,Lisia,Lysias,Περὶ τραύματος ἐκ προνοίας ὑπὲρ οὗ καὶ πρὸς ὃν <ἄδηλον>,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1095
+0540-005,tlg0540,tlg005,Lisia,Lysias,Pro Callia,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,317
+0540-006,tlg0540,tlg006,Lisia,Lysias,In Andocidem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3023
+0540-007,tlg0540,tlg007,Lisia,Lysias,Areopagiticus,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2351
+0540-008,tlg0540,tlg008,Lisia,Lysias,Κατηγορία πρὸς τοὺς συνουσιαστὰς κακολογιῶν,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1206
+0540-009,tlg0540,tlg009,Lisia,Lysias,Pro milite,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1015
+0540-010,tlg0540,tlg010,Lisia,Lysias,In Theomnestum 1,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1757
+0540-011,tlg0540,tlg011,Lisia,Lysias,In Theomnestum 2,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,651
+0540-012,tlg0540,tlg012,Lisia,Lysias,In Eratosthenem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5609
+0540-013,tlg0540,tlg013,Lisia,Lysias,In Agoratum,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5602
+0540-014,tlg0540,tlg014,Lisia,Lysias,In Alcibiadem 1,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2772
+0540-015,tlg0540,tlg015,Lisia,Lysias,In Alcibiadem 2,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,683
+0540-016,tlg0540,tlg016,Lisia,Lysias,Pro Mantitheo,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1315
+0540-017,tlg0540,tlg017,Lisia,Lysias,Πρὸς τὸ δημόσιον περὶ τῶν Ἐράτωνος χρημάτων,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,673
+0540-018,tlg0540,tlg018,Lisia,Lysias,Περὶ τῆς δημεύσεως <τῶν> τοῦ Νικίου ἀδελφοῦ ἐπίλογος,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1527
+0540-019,tlg0540,tlg019,Lisia,Lysias,"Ὑπὲρ τῶν Ἀριστοφάνους χρημάτων, πρὸς τὸ δημόσιον",Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3579
+0540-020,tlg0540,tlg020,Lisia,Lysias,Pro Polystrato,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2235
+0540-021,tlg0540,tlg021,Lisia,Lysias,Ἀπολογία δωροδοκίας ἀπαράσημος,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1490
+0540-022,tlg0540,tlg022,Lisia,Lysias,Κατὰ τῶν σιτοπωλῶν,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1317
+0540-023,tlg0540,tlg023,Lisia,Lysias,In Pancleonem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,889
+0540-024,tlg0540,tlg024,Lisia,Lysias,Ὑπὲρ τοῦ ἀδυνάτου,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1668
+0540-025,tlg0540,tlg025,Lisia,Lysias,Δήμου καταλύσεως ἀπολογία,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2334
+0540-026,tlg0540,tlg026,Lisia,Lysias,Περὶ τῆς Εὐάνδρου δοκιμασίας,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1585
+0540-027,tlg0540,tlg027,Lisia,Lysias,In Epicratem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,874
+0540-028,tlg0540,tlg028,Lisia,Lysias,In Ergoclem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1041
+0540-029,tlg0540,tlg029,Lisia,Lysias,In Philocratem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,756
+0540-030,tlg0540,tlg030,Lisia,Lysias,In Nicomachum,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2149
+0540-031,tlg0540,tlg031,Lisia,Lysias,In Philonem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2069
+0540-032,tlg0540,tlg032,Lisia,Lysias,In Diogitonem,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1959
+0540-033,tlg0540,tlg033,Lisia,Lysias,Olympiacus,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,490
+0540-034,tlg0540,tlg034,Lisia,Lysias,Περὶ τοῦ μὴ καταλῦσαι τὴν πάτριον πολιτείαν Ἀθήνησι,Oratory,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,661
+1567-001,tlg1567,tlg001,Parrhasius,Parrhasius,Epigrammata,Lyric poetry,Ionic/Epic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,76
+0059-001,tlg0059,tlg001,Platone,Plato,Euthyphro,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,6151
+0059-002,tlg0059,tlg002,Platone,Plato,Apologia Socratis,Philosophy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,10313
+0059-003,tlg0059,tlg003,Platone,Plato,Crito,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4977
+0059-004,tlg0059,tlg004,Platone,Plato,Phaedo,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,26306
+0059-005,tlg0059,tlg005,Platone,Plato,Cratylus,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,22246
+0059-006,tlg0059,tlg006,Platone,Plato,Theaetetus,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,26803
+0059-007,tlg0059,tlg007,Platone,Plato,Sophista,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,19002
+0059-008,tlg0059,tlg008,Platone,Plato,Politicus,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,19601
+0059-009,tlg0059,tlg009,Platone,Plato,Parmenides,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,18507
+0059-010,tlg0059,tlg010,Platone,Plato,Philebus,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,20853
+0059-011,tlg0059,tlg011,Platone,Plato,Symposium,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,20519
+0059-012,tlg0059,tlg012,Platone,Plato,Phaedrus,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,19352
+0059-013,tlg0059,tlg013,Platone,Plato,Alcibiades i,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,12405
+0059-014,tlg0059,tlg014,Platone,Plato,Alcibiades ii,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4945
+0059-015,tlg0059,tlg015,Platone,Plato,Hipparchus,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2667
+0059-016,tlg0059,tlg016,Platone,Plato,Amatores,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2900
+0059-017,tlg0059,tlg017,Platone,Plato,Theages,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4173
+0059-018,tlg0059,tlg018,Platone,Plato,Charmides,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,10068
+0059-019,tlg0059,tlg019,Platone,Plato,Laches,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,9038
+0059-020,tlg0059,tlg020,Platone,Plato,Lysis,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,8866
+0059-021,tlg0059,tlg021,Platone,Plato,Euthydemus,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,15745
+0059-022,tlg0059,tlg022,Platone,Plato,Protagoras,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,21367
+0059-023,tlg0059,tlg023,Platone,Plato,Gorgias,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,31263
+0059-024,tlg0059,tlg024,Platone,Plato,Meno,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,11715
+0059-025,tlg0059,tlg025,Platone,Plato,Hippias major,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,10374
+0059-026,tlg0059,tlg026,Platone,Plato,Hippias minor,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5012
+0059-027,tlg0059,tlg027,Platone,Plato,Ion,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4573
+0059-028,tlg0059,tlg028,Platone,Plato,Menexenus,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5487
+0059-029,tlg0059,tlg029,Platone,Plato,Clitophon,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,1839
+0059-030,tlg0059,tlg030,Platone,Plato,Respublica,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,105851
+0059-031,tlg0059,tlg031,Platone,Plato,Timaeus,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,26813
+0059-032,tlg0059,tlg032,Platone,Plato,Critias,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5563
+0059-033,tlg0059,tlg033,Platone,Plato,Minos,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,3377
+0059-034,tlg0059,tlg034,Platone,Plato,Leges,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,118263
+0059-035,tlg0059,tlg035,Platone,Plato,Epinomis,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,7244
+0059-036,tlg0059,tlg036,Platone,Plato,Epistulae,Epistolography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,19483
+0497-005,tlg0497,tlg005,Plato Comicus,Plato Comicus,Epigramma,Lyric poetry,Ionic/Epic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,95
+0065-001,tlg0065,tlg001,Scylax,Scylax,Periplus Scylacis,Geography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,9978
+0032-001,tlg0032,tlg001,Senofonte,Xenophon,Hellenica,Historiography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,75656
+0032-002,tlg0032,tlg002,Senofonte,Xenophon,Memorabilia,Biography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,42236
+0032-003,tlg0032,tlg003,Senofonte,Xenophon,Oeconomicus,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,20938
+0032-004,tlg0032,tlg004,Senofonte,Xenophon,Symposium,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,11210
+0032-005,tlg0032,tlg005,Senofonte,Xenophon,Apologia Socratis,Philosophy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,2276
+0032-006,tlg0032,tlg006,Senofonte,Xenophon,Anabasis,Historiography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,65201
+0032-007,tlg0032,tlg007,Senofonte,Xenophon,Cyropaedia,Biography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,91685
+0032-008,tlg0032,tlg008,Senofonte,Xenophon,Hiero,Philosophical dialogue,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,6825
+0032-009,tlg0032,tlg009,Senofonte,Xenophon,Agesilaus,Biography,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,8299
+0032-010,tlg0032,tlg010,Senofonte,Xenophon,De republica Lacedaemoniorum,Philosophy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,5588
+0032-011,tlg0032,tlg011,Senofonte,Xenophon,De vectigalibus,Philosophy,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,4324
+0032-012,tlg0032,tlg012,Senofonte,Xenophon,Hipparchicus,Military,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,6452
+0032-013,tlg0032,tlg013,Senofonte,Xenophon,De re equestri,Biology,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,7867
+0032-014,tlg0032,tlg014,Senofonte,Xenophon,Cynegeticus,Biology,Attic,-500,-301,500 – 301 BCE,5th–4th c. BCE,Classical,10685
+0058-001,tlg0058,tlg001,Enea Tattico,Aeneas,Poliorcetica,Military,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,15698
+0026-001,tlg0026,tlg001,Eschine,Aeschines,In Timarchum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,15918
+0026-002,tlg0026,tlg002,Eschine,Aeschines,De falsa legatione,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,14338
+0026-003,tlg0026,tlg003,Eschine,Aeschines,In Ctesiphontem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,21577
+0026-004,tlg0026,tlg004,Eschine,Aeschines,Epistulae,Epistolography,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4916
+0679-001,tlg0679,tlg001,Aeschrion,Aeschrion,Epigramma,Lyric poetry,Ionic/Epic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,73
+0547-001,tlg0547,tlg001,Anaximenes,Anaximenes,Ars rhetorica vulgo Rhetorica ad Alexandrum,Rhetoric,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,20803
+0227-001,tlg0227,tlg001,Anonymi Curetum Hymnus,Anonymi Curetum Hymnus,Hymnus Curetum,Lyric poetry,Doric,-400,-301,400 – 301 BCE,4th c. BCE,Classical,255
+0086-001,tlg0086,tlg001,Aristotele,Aristoteles et Corpus Aristotelicum,Analytica priora et posteriora,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,69733
+0086-002,tlg0086,tlg002,Aristotele,Aristoteles et Corpus Aristotelicum,De anima,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,24214
+0086-003,tlg0086,tlg003,Aristotele,Aristoteles et Corpus Aristotelicum,Ἀθηναίων πολιτεία,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,18897
+0086-005,tlg0086,tlg005,Aristotele,Aristoteles et Corpus Aristotelicum,De caelo,Physics,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,34147
+0086-006,tlg0086,tlg006,Aristotele,Aristoteles et Corpus Aristotelicum,Categoriae,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,11826
+0086-007,tlg0086,tlg007,Aristotele,Aristoteles et Corpus Aristotelicum,De coloribus,Physics,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,5628
+0086-008,tlg0086,tlg008,Aristotele,Aristoteles et Corpus Aristotelicum,De divinatione per somnum,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1362
+0086-009,tlg0086,tlg009,Aristotele,Aristoteles et Corpus Aristotelicum,Ethica Eudemia,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,30664
+0086-010,tlg0086,tlg010,Aristotele,Aristoteles et Corpus Aristotelicum,Ethica Nicomachea,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,65656
+0086-011,tlg0086,tlg011,Aristotele,Aristoteles et Corpus Aristotelicum,Epistulae,Epistolography,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,893
+0086-012,tlg0086,tlg012,Aristotele,Aristoteles et Corpus Aristotelicum,De generatione animalium,Biology,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,56256
+0086-013,tlg0086,tlg013,Aristotele,Aristoteles et Corpus Aristotelicum,De generatione et corruptione,Physics,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,19237
+0086-014,tlg0086,tlg014,Aristotele,Aristoteles et Corpus Aristotelicum,Historia animalium,Biology,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,108459
+0086-015,tlg0086,tlg015,Aristotele,Aristoteles et Corpus Aristotelicum,De incessu animalium,Biology,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4711
+0086-016,tlg0086,tlg016,Aristotele,Aristoteles et Corpus Aristotelicum,De insomniis,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2776
+0086-017,tlg0086,tlg017,Aristotele,Aristoteles et Corpus Aristotelicum,De interpretatione,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,7223
+0086-018,tlg0086,tlg018,Aristotele,Aristoteles et Corpus Aristotelicum,De juventute et senectute et De vita et morte,Medicine,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2086
+0086-020,tlg0086,tlg020,Aristotele,Aristoteles et Corpus Aristotelicum,De longitudine et brevitate vitae,Medicine,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2063
+0086-021,tlg0086,tlg021,Aristotele,Aristoteles et Corpus Aristotelicum,De motu animalium,Biology,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,7173
+0086-022,tlg0086,tlg022,Aristotele,Aristoteles et Corpus Aristotelicum,Magna moralia,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,26993
+0086-023,tlg0086,tlg023,Aristotele,Aristoteles et Corpus Aristotelicum,Mechanica,Mechanics,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,9661
+0086-024,tlg0086,tlg024,Aristotele,Aristoteles et Corpus Aristotelicum,De memoria et reminiscentia,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2926
+0086-025,tlg0086,tlg025,Aristotele,Aristoteles et Corpus Aristotelicum,Metaphysica,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,91065
+0086-026,tlg0086,tlg026,Aristotele,Aristoteles et Corpus Aristotelicum,Meteorologica,Physics,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,38584
+0086-027,tlg0086,tlg027,Aristotele,Aristoteles et Corpus Aristotelicum,Mirabilium auscultationes,Paradoxography,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,10499
+0086-028,tlg0086,tlg028,Aristotele,Aristoteles et Corpus Aristotelicum,De mundo,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,7329
+0086-029,tlg0086,tlg029,Aristotele,Aristoteles et Corpus Aristotelicum,Oeconomica,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,7144
+0086-030,tlg0086,tlg030,Aristotele,Aristoteles et Corpus Aristotelicum,De partibus animalium,Biology,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,43829
+0086-031,tlg0086,tlg031,Aristotele,Aristoteles et Corpus Aristotelicum,Physica,Physics,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,64458
+0086-032,tlg0086,tlg032,Aristotele,Aristoteles et Corpus Aristotelicum,Physiognomonica,Medicine,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,6801
+0086-033,tlg0086,tlg033,Aristotele,Aristoteles et Corpus Aristotelicum,Protrepticus,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,6878
+0086-034,tlg0086,tlg034,Aristotele,Aristoteles et Corpus Aristotelicum,Poetica,Rhetoric,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,11769
+0086-035,tlg0086,tlg035,Aristotele,Aristoteles et Corpus Aristotelicum,Politica,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,74647
+0086-036,tlg0086,tlg036,Aristotele,Aristoteles et Corpus Aristotelicum,Problemata,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,85070
+0086-037,tlg0086,tlg037,Aristotele,Aristoteles et Corpus Aristotelicum,De respiratione,Medicine,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,6983
+0086-038,tlg0086,tlg038,Aristotele,Aristoteles et Corpus Aristotelicum,Rhetorica,Rhetoric,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,50872
+0086-039,tlg0086,tlg039,Aristotele,Aristoteles et Corpus Aristotelicum,De plantis [Dub.],Biology,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,12921
+0086-040,tlg0086,tlg040,Aristotele,Aristoteles et Corpus Aristotelicum,Sophistici elenchi,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,16393
+0086-041,tlg0086,tlg041,Aristotele,Aristoteles et Corpus Aristotelicum,De sensu et sensibilibus,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,9018
+0086-042,tlg0086,tlg042,Aristotele,Aristoteles et Corpus Aristotelicum,De somno et vigilia,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,3435
+0086-043,tlg0086,tlg043,Aristotele,Aristoteles et Corpus Aristotelicum,De spiritu,Physics,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4044
+0086-044,tlg0086,tlg044,Aristotele,Aristoteles et Corpus Aristotelicum,Topica,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,50641
+0086-045,tlg0086,tlg045,Aristotele,Aristoteles et Corpus Aristotelicum,De virtutibus et vitiis,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1742
+0086-047,tlg0086,tlg047,Aristotele,Aristoteles et Corpus Aristotelicum,"De Xenophane, de Zenone, de Gorgia",Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,5828
+0086-048,tlg0086,tlg048,Aristotele,Aristoteles et Corpus Aristotelicum,Divisiones Aristoteleae,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2098
+0086-052,tlg0086,tlg052,Aristotele,Aristoteles et Corpus Aristotelicum,De anima,Philosophy,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2790
+0086-054,tlg0086,tlg054,Aristotele,Aristoteles et Corpus Aristotelicum,Physicorum libri septimi textus alter,Physics,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2624
+0088-003,tlg0088,tlg003,Aristoxenus,Aristoxenus,Elementa rhythmica,Music,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2496
+1210-001,tlg1210,tlg001,Autolycus,Autolycus,De sphaera quae movetur,Astronomy/Astrology,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4433
+1210-002,tlg1210,tlg002,Autolycus,Autolycus,De ortibus et occasibus,Astronomy/Astrology,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,11370
+0535-001,tlg0535,tlg001,Demades,Demades,Fragmenta,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2286
+0014-001,tlg0014,tlg001,Demostene,Demosthenes,Olynthiaca 1,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2158
+0014-002,tlg0014,tlg002,Demostene,Demosthenes,Olynthiaca 2,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2387
+0014-003,tlg0014,tlg003,Demostene,Demosthenes,Olynthiaca 3,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2774
+0014-004,tlg0014,tlg004,Demostene,Demosthenes,Philippica 1,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,3890
+0014-005,tlg0014,tlg005,Demostene,Demosthenes,De pace,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1715
+0014-006,tlg0014,tlg006,Demostene,Demosthenes,Philippica 2,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2375
+0014-007,tlg0014,tlg007,Demostene,Demosthenes,De Halonneso,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2865
+0014-008,tlg0014,tlg008,Demostene,Demosthenes,De Chersoneso,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,5026
+0014-009,tlg0014,tlg009,Demostene,Demosthenes,Philippica 3,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,5055
+0014-010,tlg0014,tlg010,Demostene,Demosthenes,Philippica 4,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,5218
+0014-011,tlg0014,tlg011,Demostene,Demosthenes,In epistulam Philippi,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1485
+0014-012,tlg0014,tlg012,Demostene,Demosthenes,[Philippi] epistula,Epistolography,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1607
+0014-013,tlg0014,tlg013,Demostene,Demosthenes,Περὶ συντάξεως,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2726
+0014-014,tlg0014,tlg014,Demostene,Demosthenes,Περὶ τῶν συμμοριῶν,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,3007
+0014-015,tlg0014,tlg015,Demostene,Demosthenes,De Rhodiorum libertate,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2560
+0014-016,tlg0014,tlg016,Demostene,Demosthenes,Pro Megalopolitanis,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2170
+0014-017,tlg0014,tlg017,Demostene,Demosthenes,Περὶ τῶν πρὸς Ἀλέξανδρον συνθηκῶν,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2052
+0014-018,tlg0014,tlg018,Demostene,Demosthenes,De corona,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,26137
+0014-019,tlg0014,tlg019,Demostene,Demosthenes,De falsa legatione,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,27303
+0014-020,tlg0014,tlg020,Demostene,Demosthenes,Adversus Leptinem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,13294
+0014-021,tlg0014,tlg021,Demostene,Demosthenes,In Midiam,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,18602
+0014-022,tlg0014,tlg022,Demostene,Demosthenes,Adversus Androtionem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,6604
+0014-023,tlg0014,tlg023,Demostene,Demosthenes,In Aristocratem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,18173
+0014-024,tlg0014,tlg024,Demostene,Demosthenes,In Timocratem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,17158
+0014-025,tlg0014,tlg025,Demostene,Demosthenes,In Aristogitonem 1,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,7899
+0014-026,tlg0014,tlg026,Demostene,Demosthenes,In Aristogitonem 2,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1917
+0014-027,tlg0014,tlg027,Demostene,Demosthenes,In Aphobum 1,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,5288
+0014-028,tlg0014,tlg028,Demostene,Demosthenes,In Aphobum 2,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1773
+0014-029,tlg0014,tlg029,Demostene,Demosthenes,Contra Aphobum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4528
+0014-030,tlg0014,tlg030,Demostene,Demosthenes,Contra Onetorem 1,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2718
+0014-031,tlg0014,tlg031,Demostene,Demosthenes,Contra Onetorem 2,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1115
+0014-032,tlg0014,tlg032,Demostene,Demosthenes,Contra Zenothemin,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2273
+0014-033,tlg0014,tlg033,Demostene,Demosthenes,Contra Apatourium,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2908
+0014-034,tlg0014,tlg034,Demostene,Demosthenes,Contra Phormionem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,3773
+0014-035,tlg0014,tlg035,Demostene,Demosthenes,Contra Lacritum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4194
+0014-036,tlg0014,tlg036,Demostene,Demosthenes,Pro Phormione,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4612
+0014-037,tlg0014,tlg037,Demostene,Demosthenes,Contra Pantaenetum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4479
+0014-038,tlg0014,tlg038,Demostene,Demosthenes,Contra Nausimachum et Xenopeithea,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2158
+0014-039,tlg0014,tlg039,Demostene,Demosthenes,Contra Boeotum 1,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,3292
+0014-040,tlg0014,tlg040,Demostene,Demosthenes,Contra Boeotum 2,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4505
+0014-041,tlg0014,tlg041,Demostene,Demosthenes,Contra Spudiam,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2306
+0014-042,tlg0014,tlg042,Demostene,Demosthenes,Contra Phaenippum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2597
+0014-043,tlg0014,tlg043,Demostene,Demosthenes,Contra Macartatum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,7298
+0014-044,tlg0014,tlg044,Demostene,Demosthenes,Contra Leocharem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4849
+0014-045,tlg0014,tlg045,Demostene,Demosthenes,In Stephanum 1,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,6771
+0014-046,tlg0014,tlg046,Demostene,Demosthenes,In Stephanum 2,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2153
+0014-047,tlg0014,tlg047,Demostene,Demosthenes,In Evergum et Mnesibulum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,6194
+0014-048,tlg0014,tlg048,Demostene,Demosthenes,In Olympiodorum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4067
+0014-049,tlg0014,tlg049,Demostene,Demosthenes,Contra Timotheum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4969
+0014-050,tlg0014,tlg050,Demostene,Demosthenes,Contra Polyclem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,5312
+0014-051,tlg0014,tlg051,Demostene,Demosthenes,De corona trierarchiae,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1563
+0014-052,tlg0014,tlg052,Demostene,Demosthenes,Contra Callippum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2483
+0014-053,tlg0014,tlg053,Demostene,Demosthenes,Contra Nicostratum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2339
+0014-054,tlg0014,tlg054,Demostene,Demosthenes,In Cononem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,3722
+0014-055,tlg0014,tlg055,Demostene,Demosthenes,Contra Calliclem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2482
+0014-056,tlg0014,tlg056,Demostene,Demosthenes,In Dionysodorum,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,3848
+0014-057,tlg0014,tlg057,Demostene,Demosthenes,Contra Eubulidem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,5397
+0014-058,tlg0014,tlg058,Demostene,Demosthenes,In Theocrinem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,5425
+0014-059,tlg0014,tlg059,Demostene,Demosthenes,In Neaeram,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,10473
+0014-060,tlg0014,tlg060,Demostene,Demosthenes,Epitaphius,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2884
+0014-061,tlg0014,tlg061,Demostene,Demosthenes,Eroticus,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,4131
+0014-062,tlg0014,tlg062,Demostene,Demosthenes,Exordia,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,11149
+0014-063,tlg0014,tlg063,Demostene,Demosthenes,Epistulae,Epistolography,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,7059
+1355-002,tlg1355,tlg002,Erinna,Erinna,Epigrammata,Lyric poetry,Doric,-400,-301,400 – 301 BCE,4th c. BCE,Classical,170
+0030-001,tlg0030,tlg001,Hyperides,Hyperides,In Demosthenem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1597
+0030-002,tlg0030,tlg002,Hyperides,Hyperides,Pro Lycophrone,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,1051
+0030-003,tlg0030,tlg003,Hyperides,Hyperides,Pro Euxenippo,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2709
+0030-004,tlg0030,tlg004,Hyperides,Hyperides,In Philippidem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,3051
+0030-005,tlg0030,tlg005,Hyperides,Hyperides,In Athenogenem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2479
+0030-006,tlg0030,tlg006,Hyperides,Hyperides,Epitaphius,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,2324
+0034-001,tlg0034,tlg001,Lycurgus,Lycurgus,Oratio in Leocratem,Oratory,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,12421
+1553-001,tlg1553,tlg001,Palaephatus,Palaephatus,De incredibilibus,Mythography,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,8616
+0064-001,tlg0064,tlg001,Periplus Hannonis,Periplus Hannonis,Periplus Hannonis,Geography,Attic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,737
+1692-004,tlg1692,tlg004,Speusippus,Speusippus,Epigramma,Lyric poetry,Ionic/Epic,-400,-301,400 – 301 BCE,4th c. BCE,Classical,16
+0336-003,tlg0336,tlg003,Crates,Crates,Epigrammata,Lyric poetry,Ionic/Epic,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,66
+0216-002,tlg0216,tlg002,Alexander,Alexander,Epigrammata,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,113
+0618-001,tlg0618,tlg001,Antigoni Epistula,Antigoni Epistula,Epistula,Epistolography,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,110
+0653-001,tlg0653,tlg001,Aratus,Aratus,Phaenomena,Didactic poetry,Ionic/Epic,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,9019
+0653-002,tlg0653,tlg002,Aratus,Aratus,Fragmentum,Didactic poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,61
+1181-001,tlg1181,tlg001,Aristarchus,Aristarchus,De magnitudinibus et distantiis solis et lunae,Astronomy/Astrology,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,7900
+0533-003,tlg0533,tlg003,Callimachus,Callimachus,Epigrammata,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,2422
+0533-004,tlg0533,tlg004,Callimachus,Callimachus,Epigrammata,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,2494
+0533-006,tlg0533,tlg006,Callimachus,Callimachus,Aetia,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,4972
+0533-015,tlg0533,tlg015,Callimachus,Callimachus,In Jovem,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,849
+0533-016,tlg0533,tlg016,Callimachus,Callimachus,In Apollinem,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,943
+0533-017,tlg0533,tlg017,Callimachus,Callimachus,In Dianam,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,2195
+0533-018,tlg0533,tlg018,Callimachus,Callimachus,In Delum,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,2571
+0533-019,tlg0533,tlg019,Callimachus,Callimachus,In lavacrum Palladis,Lyric poetry,Doric,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,1100
+0533-020,tlg0533,tlg020,Callimachus,Callimachus,In Cererem,Lyric poetry,Doric,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,1188
+0029-004,tlg0029,tlg004,Dinarchus,Dinarchus,In Demosthenem,Oratory,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,8577
+0029-005,tlg0029,tlg005,Dinarchus,Dinarchus,In Aristogitonem,Oratory,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,2028
+0029-006,tlg0029,tlg006,Dinarchus,Dinarchus,In Philoclem,Oratory,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,1561
+0341-002,tlg0341,tlg002,Lycophron,Lycophron,Alexandra,Tragedy,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,8659
+0541-042a,tlg0541,tlg042a,Menandro,Menander,Sententiae e codicibus Byzantinis,Lyric poetry,Attic/Koine,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,1906
+0541-042b,tlg0541,tlg042b,Menandro,Menander,Sententiae e codicibus Byzantinis,Lyric poetry,Attic/Koine,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,452
+0541-042c,tlg0541,tlg042c,Menandro,Menander,Sententiae e codicibus Byzantinis,Lyric poetry,Attic/Koine,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,180
+0541-044,tlg0541,tlg044,Menandro,Menander,Epigrammata,Lyric poetry,Ionic/Epic,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,27
+0220-002,tlg0220,tlg002,Moero,Moero,Epigrammata,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,61
+0487-008,tlg0487,tlg008,Philemon,Philemon,Epigramma,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,20
+0059-037,tlg0059,tlg037,Platone,Pseudo-Plato,Definitiones,Philosophy,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,2045
+0211-002,tlg0211,tlg002,Simias,Simias,Epigrammata,Lyric poetry,Doric,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,476
+0005-001,tlg0005,tlg001,Teocrito,Theocritus,Idyllia,Lyric poetry,Doric,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,23325
+0005-002,tlg0005,tlg002,Teocrito,Theocritus,Epigrammata,Lyric poetry,Doric,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,2055
+0005-005,tlg0005,tlg005,Teocrito,Theocritus,Epigrammata,Lyric poetry,Doric,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,847
+0093-009,tlg0093,tlg009,Teofrasto,Theophrastus,Characteres,Rhetoric,Attic/Koine,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,7868
+0093-010a,tlg0093,tlg010a,Teofrasto,Theophrastus,Fragmenta,Biology,Attic/Koine,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,6153
+0093-010b,tlg0093,tlg010b,Teofrasto,Theophrastus,Fragmenta,Biology,Attic/Koine,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,4315
+1735-002,tlg1735,tlg002,Timon,Timon,Epigrammata,Lyric poetry,Unknown,-400,-201,400 – 201 BCE,4th–3rd c. BCE,Hellenistic,18
+0215-001,tlg0215,tlg001,Antagoras,Antagoras,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,65
+0215-002,tlg0215,tlg002,Antagoras,Antagoras,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,69
+0568-001,tlg0568,tlg001,Antigonus,Antigonus,Historiarum mirabilium collectio,Paradoxography,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,7428
+0568-002,tlg0568,tlg002,Antigonus,Antigonus,Epigramma,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,47
+0044-001,tlg0044,tlg001,Antiochi Regis Epistulae,Antiochi Regis Epistulae,Epistulae,Epistolography,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,508
+0001-001,tlg0001,tlg001,Apollonius Rhodius,Apollonius Rhodius,Argonautica,Epic poetry,Ionic/Epic,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,45941
+0570-002,tlg0570,tlg002,Archelaus,Archelaus,Epigramma,Lyric poetry,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,37
+0552-001,tlg0552,tlg001,Archimedes,Archimedes,De sphaera et cylindro,Mathematics,Koine,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,28728
+0552-002,tlg0552,tlg002,Archimedes,Archimedes,Dimensio circuli,Mathematics,Koine,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,1218
+0552-003,tlg0552,tlg003,Archimedes,Archimedes,De conoidibus et sphaeroidibus,Mathematics,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,25189
+0552-004,tlg0552,tlg004,Archimedes,Archimedes,De lineis spiralibus,Mathematics,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,15871
+0552-005,tlg0552,tlg005,Archimedes,Archimedes,De planorum aequilibriis,Mathematics,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,10058
+0552-006,tlg0552,tlg006,Archimedes,Archimedes,Arenarius,Mathematics,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,5513
+0552-007,tlg0552,tlg007,Archimedes,Archimedes,Quadratura parabolae,Mathematics,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,6521
+0552-009,tlg0552,tlg009,Archimedes,Archimedes,Stomachion,Mathematics,Koine,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,502
+0552-010,tlg0552,tlg010,Archimedes,Archimedes,Ad Eratosthenem methodus,Mathematics,Koine,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,10942
+0552-011,tlg0552,tlg011,Archimedes,Archimedes,Liber assumptorum,Mathematics,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,4201
+0552-012,tlg0552,tlg012,Archimedes,Archimedes,Problema bovinum,Didactic poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,764
+0552-013,tlg0552,tlg013,Archimedes,Archimedes,Fragmenta,Mathematics,Koine,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,1336
+0131-001,tlg0131,tlg001,Archimelus,Archimelus,Epigramma,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,48
+1183-001,tlg1183,tlg001,Aristeae Epistula,Aristeae Epistula,Aristeae epistula ad Philocratem,Epistolography,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,15131
+0137-001,tlg0137,tlg001,Asclepiades,Asclepiades,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,1516
+0174-001,tlg0174,tlg001,Diotimus,Diotimus,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,295
+2622-001,tlg2622,tlg001,Dorieus Poeta,Dorieus Poeta,Epigramma,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,63
+1799-001,tlg1799,tlg001,Euclides,Euclides,Elementa,Mathematics,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,176472
+1799-008,tlg1799,tlg008,Euclides,Euclides,Data,Mathematics,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,4741
+1799-010,tlg1799,tlg010,Euclides,Euclides,Opticorum recensio Theonis,Mathematics,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,11629
+1799-011,tlg1799,tlg011,Euclides,Euclides,Catoptrica,Mathematics,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,6122
+1799-012,tlg1799,tlg012,Euclides,Euclides,Phaenomena,Astronomy/Astrology,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,9197
+1799-013,tlg1799,tlg013,Euclides,Euclides,Phaenomena,Astronomy/Astrology,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,761
+1799-014,tlg1799,tlg014,Euclides,Euclides,Phaenomena,Astronomy/Astrology,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,2730
+1799-015,tlg1799,tlg015,Euclides,Euclides,Sectio canonis,Music,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,2854
+1799-017,tlg1799,tlg017,Euclides,Euclides,Epigramma,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,57
+0221-004,tlg0221,tlg004,Euphorion,Euphorion,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,71
+0198-001,tlg0198,tlg001,Hedylus,Hedylus,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,185
+1391-001,tlg1391,tlg001,Hegemon,Hegemon,Epigramma,Lyric poetry,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,30
+1405-001,tlg1405,tlg001,Heraclides Criticus,Heraclides Criticus,Descriptio Graeciae,Geography,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,3123
+0051-001,tlg0051,tlg001,Melissa,Melissa,Fragmentum epistulae ad Clearetam,Philosophy,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,239
+0218-002,tlg0218,tlg002,Nicaenetus,Nicaenetus,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,147
+1533-001,tlg1533,tlg001,Nicias,Nicias,Epigrammata,Lyric poetry,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,208
+1577-001,tlg1577,tlg001,Phaedimus,Phaedimus,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,176
+1632-001,tlg1632,tlg001,Posidippus,Posidippus,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,896
+0633-001,tlg0633,tlg001,Lysis,Lysis,Epistula ad Hipparchum,Philosophy,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,590
+0059-039,tlg0059,tlg039,Platone,Plato,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,660
+0219-002,tlg0219,tlg002,Rhianus,Rhianus,Epigrammata,Lyric poetry,Unknown,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,407
+0527-001,tlg0527,tlg001,Settanta (Anonimo),Septuaginta,Genesis,Religious History,Koine,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,37516
+0527-002,tlg0527,tlg002,Settanta (Anonimo),Septuaginta,Exodus,Religious History,Koine,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,28129
+0527-003,tlg0527,tlg003,Settanta (Anonimo),Septuaginta,Leviticus,Religious History,Koine,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,21787
+0527-004,tlg0527,tlg004,Settanta (Anonimo),Septuaginta,Numeri,Religious History,Koine,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,28488
+0527-005,tlg0527,tlg005,Settanta (Anonimo),Septuaginta,Deuteronomium,Religious History,Koine,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,25946
+1715-001,tlg1715,tlg001,Theodoridas,Theodoridas,Epigrammata,Lyric poetry,Doric,-300,-201,300 – 201 BCE,3rd c. BCE,Hellenistic,601
+1306-001,tlg1306,tlg001,Bolus,Bolus,Περὶ συμπαθειῶν καὶ ἀντιπαθειῶν,Medicine,Unknown,-300,-101,300 – 101 BCE,3rd–2nd c. BCE,Hellenistic,879
+1306-002,tlg1306,tlg002,Bolus,Bolus,Physica et mystica,Alchemy,Unknown,-300,-101,300 – 101 BCE,3rd–2nd c. BCE,Hellenistic,3348
+1306-003,tlg1306,tlg003,Bolus,Bolus,Ad Leucippem,Alchemy,Unknown,-300,-101,300 – 101 BCE,3rd–2nd c. BCE,Hellenistic,808
+0208-001,tlg0208,tlg001,Dosiadas,Dosiadas,Βωμός,Lyric poetry,Unknown,-300,-101,300 – 101 BCE,3rd–2nd c. BCE,Hellenistic,84
+0509-001,tlg0509,tlg001,Myia,Myia,Epistula ad Phyllidem,Philosophy,Doric,-300,-101,300 – 101 BCE,3rd–2nd c. BCE,Hellenistic,341
+0022-006,tlg0022,tlg006,Nicander,Nicander,Epigrammata,Lyric poetry,Doric,-300,-101,300 – 101 BCE,3rd–2nd c. BCE,Hellenistic,83
+1556-002,tlg1556,tlg002,Pancrates,Pancrates,Epigrammata,Lyric poetry,Unknown,-300,-101,300 – 101 BCE,3rd–2nd c. BCE,Hellenistic,92
+0543-001,tlg0543,tlg001,Polibio,Polybius,Historiae,Historiography,Attic/Koine,-300,-101,300 – 101 BCE,3rd–2nd c. BCE,Hellenistic,346310
+0067-001,tlg0067,tlg001,Agatharchides,Agatharchides,De mari Erythraeo,Geography,Unknown,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,26890
+0569-001,tlg0569,tlg001,Apollonius,Apollonius,Historiae mirabiles,Paradoxography,Unknown,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,2643
+0036-001,tlg0036,tlg001,Bion,Bion,Epitaphius Adonis,Lyric poetry,Doric,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,887
+0036-002,tlg0036,tlg002,Bion,Bion,Epithalamium Achillis et Deidameiae,Lyric poetry,Doric,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,276
+0036-003,tlg0036,tlg003,Bion,Bion,Fragmenta,Lyric poetry,Doric,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1038
+0063-001,tlg0063,tlg001,Dionysius Thrax,Dionysius Thrax,Ars grammatica,Language,Unknown,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,3991
+1431-003,tlg1431,tlg003,Hipparchus,Hipparchus,In Arati et Eudoxi phaenomena commentariorum libri iii,Philosophy,Unknown,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,31722
+1493-001,tlg1493,tlg001,Melinno,Melinno,Εἰς Ῥώμην,Lyric poetry,Doric,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,98
+0035-001,tlg0035,tlg001,Moschus,Moschus,Eros drapeta,Lyric poetry,Doric,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,306
+0035-002,tlg0035,tlg002,Moschus,Moschus,Europa,Lyric poetry,Ionic/Epic,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1329
+0035-003,tlg0035,tlg003,Moschus,Moschus,Epitaphius Bionis,Lyric poetry,Doric,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1072
+0035-004,tlg0035,tlg004,Moschus,Moschus,Megara,Lyric poetry,Ionic/Epic,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1029
+0035-005,tlg0035,tlg005,Moschus,Moschus,Fragmenta,Lyric poetry,Doric,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,314
+0035-006,tlg0035,tlg006,Moschus,Moschus,Epigrammata,Lyric poetry,Doric,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,351
+0209-001,tlg0209,tlg001,Seleucus,Seleucus,Ἱλαρὰ ᾄσματα,Lyric poetry,Unknown,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,20
+0527-006,tlg0527,tlg006,Settanta (Anonimo),Septuaginta,Josue,Religious History,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,16657
+0527-009,tlg0527,tlg009,Settanta (Anonimo),Septuaginta,Judices,Religious History,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,17560
+0527-010,tlg0527,tlg010,Settanta (Anonimo),Septuaginta,Ruth,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,2427
+0527-011,tlg0527,tlg011,Settanta (Anonimo),Septuaginta,Regnorum i,Religious History,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,23968
+0527-012,tlg0527,tlg012,Settanta (Anonimo),Septuaginta,Regnorum ii,Religious History,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,20238
+0527-013,tlg0527,tlg013,Settanta (Anonimo),Septuaginta,Regnorum iii,Religious History,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,24387
+0527-014,tlg0527,tlg014,Settanta (Anonimo),Septuaginta,Regnorum iv,Religious History,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,21036
+0527-015,tlg0527,tlg015,Settanta (Anonimo),Septuaginta,Paralipomenon i sive Chronicon i,Religious History,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,18857
+0527-016,tlg0527,tlg016,Settanta (Anonimo),Septuaginta,Paralipomenon ii sive Chronicon ii,Religious History,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,23611
+0527-019,tlg0527,tlg019,Settanta (Anonimo),Septuaginta,Esther,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,6572
+0527-020,tlg0527,tlg020,Settanta (Anonimo),Septuaginta,Judith,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,10173
+0527-021,tlg0527,tlg021,Settanta (Anonimo),Septuaginta,Tobias,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,6371
+0527-022,tlg0527,tlg022,Settanta (Anonimo),Septuaginta,Tobias,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,8157
+0527-023,tlg0527,tlg023,Settanta (Anonimo),Septuaginta,Machabaeorum i,Religious History,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,20371
+0527-024,tlg0527,tlg024,Settanta (Anonimo),Septuaginta,Machabaeorum ii,Religious History,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,13327
+0527-027,tlg0527,tlg027,Settanta (Anonimo),Septuaginta,Psalmi,Religious poetry,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,41362
+0527-028,tlg0527,tlg028,Settanta (Anonimo),Septuaginta,Odae,Religious poetry,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,4965
+0527-029,tlg0527,tlg029,Settanta (Anonimo),Septuaginta,Proverbia,Wisdom literature,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,13273
+0527-030,tlg0527,tlg030,Settanta (Anonimo),Septuaginta,Ecclesiastes,Religious poetry,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,5219
+0527-031,tlg0527,tlg031,Settanta (Anonimo),Septuaginta,Canticum,Religious poetry,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,2436
+0527-032,tlg0527,tlg032,Settanta (Anonimo),Septuaginta,Job,Religious poetry,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,16013
+0527-034,tlg0527,tlg034,Settanta (Anonimo),Septuaginta,Ecclesiasticus sive Siracides,Wisdom literature,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,22085
+0527-035,tlg0527,tlg035,Settanta (Anonimo),Septuaginta,Psalmi Salomonis,Religious poetry,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,5628
+0527-036,tlg0527,tlg036,Settanta (Anonimo),Septuaginta,Osee,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,4570
+0527-037,tlg0527,tlg037,Settanta (Anonimo),Septuaginta,Amos,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,3707
+0527-038,tlg0527,tlg038,Settanta (Anonimo),Septuaginta,Michaeas,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,2693
+0527-039,tlg0527,tlg039,Settanta (Anonimo),Septuaginta,Joel,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1818
+0527-040,tlg0527,tlg040,Settanta (Anonimo),Septuaginta,Abdias,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,535
+0527-041,tlg0527,tlg041,Settanta (Anonimo),Septuaginta,Jonas,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1245
+0527-042,tlg0527,tlg042,Settanta (Anonimo),Septuaginta,Nahum,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1083
+0527-043,tlg0527,tlg043,Settanta (Anonimo),Septuaginta,Habacuc,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1286
+0527-044,tlg0527,tlg044,Settanta (Anonimo),Septuaginta,Sophonias,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1408
+0527-045,tlg0527,tlg045,Settanta (Anonimo),Septuaginta,Aggaeus,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1078
+0527-046,tlg0527,tlg046,Settanta (Anonimo),Septuaginta,Zacharias,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,5641
+0527-047,tlg0527,tlg047,Settanta (Anonimo),Septuaginta,Malachias,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1632
+0527-048,tlg0527,tlg048,Settanta (Anonimo),Septuaginta,Isaias,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,31653
+0527-049,tlg0527,tlg049,Settanta (Anonimo),Septuaginta,Jeremias,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,33200
+0527-050,tlg0527,tlg050,Settanta (Anonimo),Septuaginta,Baruch,Religious poetry,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,2980
+0527-051,tlg0527,tlg051,Settanta (Anonimo),Septuaginta,Threni seu Lamentationes,Religious poetry,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,2925
+0527-052,tlg0527,tlg052,Settanta (Anonimo),Septuaginta,Epistula Jeremiae,Religious Epistle,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1494
+0527-053,tlg0527,tlg053,Settanta (Anonimo),Septuaginta,Ezechiel,Religious Prophecy,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,33509
+0527-054,tlg0527,tlg054,Settanta (Anonimo),Septuaginta,Susanna,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,898
+0527-055,tlg0527,tlg055,Settanta (Anonimo),Septuaginta,Susanna,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1294
+0527-056,tlg0527,tlg056,Settanta (Anonimo),Septuaginta,Daniel,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,12086
+0527-057,tlg0527,tlg057,Settanta (Anonimo),Septuaginta,Daniel,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,11910
+0527-058,tlg0527,tlg058,Settanta (Anonimo),Septuaginta,Bel et Draco,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1009
+0527-059,tlg0527,tlg059,Settanta (Anonimo),Septuaginta,Bel et Draco,Religious Narrative,Koine,-200,-101,200 – 101 BCE,2nd c. BCE,Hellenistic,1023
+0127-001,tlg0127,tlg001,Aulus Licinius Archias,Aulus Licinius Archias,Epigramma,Lyric poetry,Unknown,-200,-1,200 – 1 BCE,2nd–1st c. BCE,Hellenistic,31
+1220-001,tlg1220,tlg001,Anonimo (Batracomiomachia),Batrachomyomachia,Batrachomyomachia,Epic poetry,Ionic/Epic,-200,-1,200 – 1 BCE,2nd–1st c. BCE,Hellenistic,2205
+1464-001,tlg1464,tlg001,Liber Jubilaeorum,Liber Jubilaeorum,Fragmenta,Religious History,Koine,-200,-1,200 – 1 BCE,2nd–1st c. BCE,Hellenistic,3170
+0556-001,tlg0556,tlg001,Asclepiodotus,Asclepiodotus,Tactica,Military,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,7414
+1803-001a,tlg1803,tlg001a,Bruti Epistulae,Bruti Epistulae,Epistulae,Epistolography,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,2097
+0357-001,tlg0357,tlg001,Didymus Scriptor De Mensuris,Didymus Scriptor De Mensuris,Mensurae marmorum ac lignorum,Mathematics,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,1557
+0165-001,tlg0165,tlg001,Diodorus,Diodorus,Epigrammata,Lyric poetry,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,239
+0060-001,tlg0060,tlg001,Diodoro Siculo,Diodorus Siculus,Bibliotheca historica,Historiography,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,419079
+0081-001,tlg0081,tlg001,Dionigi di Alicarnasso,Dionysius Halicarnassensis,Antiquitates Romanae,Historiography,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,317135
+0081-002,tlg0081,tlg002,Dionigi di Alicarnasso,Dionysius Halicarnassensis,De antiquis oratoribus,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,972
+0081-003,tlg0081,tlg003,Dionigi di Alicarnasso,Dionysius Halicarnassensis,De Lysia,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,8803
+0081-004,tlg0081,tlg004,Dionigi di Alicarnasso,Dionysius Halicarnassensis,De Isocrate,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,7181
+0081-005,tlg0081,tlg005,Dionigi di Alicarnasso,Dionysius Halicarnassensis,De Isaeo,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,6134
+0081-006,tlg0081,tlg006,Dionigi di Alicarnasso,Dionysius Halicarnassensis,De Demosthenis dictione,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,25235
+0081-008,tlg0081,tlg008,Dionigi di Alicarnasso,Dionysius Halicarnassensis,Ad Ammaeum,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,3883
+0081-009,tlg0081,tlg009,Dionigi di Alicarnasso,Dionysius Halicarnassensis,De Dinarcho,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,5140
+0081-010,tlg0081,tlg010,Dionigi di Alicarnasso,Dionysius Halicarnassensis,De Thucydide,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,19289
+0081-011,tlg0081,tlg011,Dionigi di Alicarnasso,Dionysius Halicarnassensis,De Thucydidis idiomatibus,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,3007
+0081-012,tlg0081,tlg012,Dionigi di Alicarnasso,Dionysius Halicarnassensis,De compositione verborum,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,23402
+0081-015,tlg0081,tlg015,Dionigi di Alicarnasso,Dionysius Halicarnassensis,Epistula ad Pompeium Geminum,Rhetoric,Attic/Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,4911
+1383-001,tlg1383,tlg001,Geminus,Geminus,Elementa astronomiae,Astronomy/Astrology,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,22551
+1804-001,tlg1804,tlg001,Ninus,Ninus,Ninus,Narrative,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,1339
+1804-004,tlg1804,tlg004,Ninus,Ninus,Ninus,Narrative,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,169
+0655-001,tlg0655,tlg001,Parthenius,Parthenius,Narrationes amatoriae,Mythography,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,7337
+0068-001,tlg0068,tlg001,Pseudo-Scymnus,Pseudo-Scymnus,"Ad Nicomedem regem, vv. 1-980",Didactic poetry,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,6400
+0068-002,tlg0068,tlg002,Pseudo-Scymnus,Pseudo-Scymnus,"Ad Nicomedem regem, vv. 722-1026",Didactic poetry,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,1930
+0527-017,tlg0527,tlg017,Settanta (Anonimo),Septuaginta,Esdras i,Religious History,Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,10055
+0527-025,tlg0527,tlg025,Settanta (Anonimo),Septuaginta,Machabaeorum iii,Religious Narrative,Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,5702
+0527-033,tlg0527,tlg033,Settanta (Anonimo),Septuaginta,Sapientia Salomonis,Wisdom literature,Koine,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,7937
+1763-001,tlg1763,tlg001,Tryphon II,Tryphon II,De tropis,Language,Unknown,-100,-1,100 – 1 BCE,1st c. BCE,Hellenistic,2702
+0146-001,tlg0146,tlg001,Boethus,Boethus,Epigramma,Lyric poetry,Unknown,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,47
+1337-003,tlg1337,tlg003,Dorotheus,Dorotheus,Fragmenta alia antiqua,Astronomy/Astrology,Ionic/Epic,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,825
+0018-001,tlg0018,tlg001,Philo Judaeus,Philo Judaeus,De opificio mundi,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,15045
+0018-003,tlg0018,tlg003,Philo Judaeus,Philo Judaeus,De cherubim,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,8718
+0018-004,tlg0018,tlg004,Philo Judaeus,Philo Judaeus,De sacrificiis Abelis et Caini,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,10917
+0018-005,tlg0018,tlg005,Philo Judaeus,Philo Judaeus,Quod deterius potiori insidiari soleat,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,12959
+0018-006,tlg0018,tlg006,Philo Judaeus,Philo Judaeus,De posteritate Caini,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,12633
+0018-007,tlg0018,tlg007,Philo Judaeus,Philo Judaeus,De gigantibus,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,3725
+0018-008,tlg0018,tlg008,Philo Judaeus,Philo Judaeus,Quod deus sit immutabilis,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,10252
+0018-009,tlg0018,tlg009,Philo Judaeus,Philo Judaeus,De agricultura,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,10259
+0018-011,tlg0018,tlg011,Philo Judaeus,Philo Judaeus,De ebrietate,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,13234
+0018-012,tlg0018,tlg012,Philo Judaeus,Philo Judaeus,De sobrietate,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,4137
+0018-013,tlg0018,tlg013,Philo Judaeus,Philo Judaeus,De confusione linguarum,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,11914
+0018-015,tlg0018,tlg015,Philo Judaeus,Philo Judaeus,Quis rerum divinarum heres sit,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,18439
+0018-016,tlg0018,tlg016,Philo Judaeus,Philo Judaeus,De congressu eruditionis gratia,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,10380
+0018-017,tlg0018,tlg017,Philo Judaeus,Philo Judaeus,De fuga et inventione,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,12884
+0018-018,tlg0018,tlg018,Philo Judaeus,Philo Judaeus,De mutatione nominum,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,15358
+0018-019,tlg0018,tlg019,Philo Judaeus,Philo Judaeus,De somniis,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,29716
+0018-020,tlg0018,tlg020,Philo Judaeus,Philo Judaeus,De Abrahamo,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,15099
+0018-021,tlg0018,tlg021,Philo Judaeus,Philo Judaeus,De Josepho,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,14708
+0018-022,tlg0018,tlg022,Philo Judaeus,Philo Judaeus,De vita Mosis,Biography,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,35631
+0018-023,tlg0018,tlg023,Philo Judaeus,Philo Judaeus,De decalogo,Theology,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,9646
+0018-025,tlg0018,tlg025,Philo Judaeus,Philo Judaeus,De virtutibus,Philosophy,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,13831
+0018-026,tlg0018,tlg026,Philo Judaeus,Philo Judaeus,De praemiis et poenis et De exsecrationibus,Philosophy,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,10323
+0018-027,tlg0018,tlg027,Philo Judaeus,Philo Judaeus,Quod omnis probus liber sit,Philosophy,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,8887
+0018-028,tlg0018,tlg028,Philo Judaeus,Philo Judaeus,De vita contemplativa,Philosophy,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,5249
+0018-030,tlg0018,tlg030,Philo Judaeus,Philo Judaeus,In Flaccum,Philosophy,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,10202
+0018-031,tlg0018,tlg031,Philo Judaeus,Philo Judaeus,Legatio ad Gaium,Philosophy,Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,20091
+0099-001,tlg0099,tlg001,Strabo,Strabo,Geographica,Geography,Attic/Koine,-100,100,100 BCE – 100 CE,1st c. BCE – 1st c. CE,Imperial,320951
+0676-001,tlg0676,tlg001,Aglaïs,Aglaïs,Adversus suffusiones incipientes,Didactic poetry,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,207
+4150-001a,tlg4150,tlg001a,Anacreontea,Anacreontea,Anacreontea,Lyric poetry,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,2540
+1836-001,tlg1836,tlg001,Anonymi Aulodia,Anonymi Aulodia,Anonymi aulodia,Lyric poetry,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,273
+1126-003,tlg1126,tlg003,Anubion,Anubion,Fragmenta,Astronomy/Astrology,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,84
+1153-001,tlg1153,tlg001,Apocalypsis Adam,Apocalypsis Adam,Νυχθήμερον,Religious Prophecy,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,505
+0039-001,tlg0039,tlg001,Bruti-Mithridatis Epistulae,Bruti-Mithridatis Epistulae,Epistula,Epistolography,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,377
+1271-001,tlg1271,tlg001,Clemens Romanus et Clementina,Clemens Romanus et Clementina,Epistula i ad Corinthios,Epistolography,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,11393
+2632-001,tlg2632,tlg001,Comarius,Comarius,De lapide philosophorum,Alchemy,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,2674
+0656-001,tlg0656,tlg001,Dioscorides Pedanius,Dioscorides Pedanius,De materia medica,Medicine,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,109743
+2139-001,tlg2139,tlg001,Epitaphium Sicili,Epitaphium Sicili,Sicili epitaphium,Lyric poetry,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,75
+0526-001,tlg0526,tlg001,Flavio Giuseppe,Flavius Josephus,Antiquitates Judaicae,Historiography,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,336649
+0526-002,tlg0526,tlg002,Flavio Giuseppe,Flavius Josephus,Josephi vita,Biography,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,17634
+0526-003,tlg0526,tlg003,Flavio Giuseppe,Flavius Josephus,Contra Apionem,Philosophy,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,22843
+0526-004,tlg0526,tlg004,Flavio Giuseppe,Flavius Josephus,De bello Judaico libri vii,Historiography,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,139462
+0559-001,tlg0559,tlg001,Erone di Alessandria,Heron,Pneumatica,Mechanics,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,24994
+0559-002,tlg0559,tlg002,Erone di Alessandria,Heron,De automatis,Mechanics,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,10270
+0559-004,tlg0559,tlg004,Erone di Alessandria,Heron,Mechanicorum fragmenta,Mechanics,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,4881
+0559-005,tlg0559,tlg005,Erone di Alessandria,Heron,Catoptrica,Mechanics,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,567
+0559-006,tlg0559,tlg006,Erone di Alessandria,Heron,Metrica,Mathematics,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,22665
+0559-007,tlg0559,tlg007,Erone di Alessandria,Heron,Dioptra,Mechanics,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,14755
+0559-010,tlg0559,tlg010,Erone di Alessandria,Heron,Stereometrica,Mathematics,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,21221
+0559-011,tlg0559,tlg011,Erone di Alessandria,Heron,De mensuris,Mathematics,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,6143
+0559-012,tlg0559,tlg012,Erone di Alessandria,Heron,Belopoeica,Mechanics,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,6026
+0559-014,tlg0559,tlg014,Erone di Alessandria,Heron,Fragmenta Heroniana,Mathematics,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,3566
+0560-001,tlg0560,tlg001,Longinus,Longinus,De sublimitate,Rhetoric,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,14855
+0031-001,tlg0031,tlg001,Novum Testamentum,Novum Testamentum,Evangelium secundum Matthaeum,Religious History,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,21015
+0031-002,tlg0031,tlg002,Novum Testamentum,Novum Testamentum,Evangelium secundum Marcum,Religious History,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,12998
+0031-003,tlg0031,tlg003,Novum Testamentum,Novum Testamentum,Evangelium secundum Lucam,Religious History,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,22410
+0031-004,tlg0031,tlg004,Novum Testamentum,Novum Testamentum,Evangelium secundum Joannem,Religious History,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,18143
+0031-005,tlg0031,tlg005,Novum Testamentum,Novum Testamentum,Acta apostolorum,Religious History,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,20679
+0031-006,tlg0031,tlg006,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Romanos,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,8191
+0031-007,tlg0031,tlg007,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Corinthios i,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,8079
+0031-008,tlg0031,tlg008,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Corinthios ii,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,5165
+0031-009,tlg0031,tlg009,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Galatas,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,2613
+0031-010,tlg0031,tlg010,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Ephesios,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,2703
+0031-011,tlg0031,tlg011,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Philippenses,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,1873
+0031-012,tlg0031,tlg012,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Colossenses,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,1803
+0031-013,tlg0031,tlg013,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Thessalonicenses i,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,1677
+0031-014,tlg0031,tlg014,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Thessalonicenses ii,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,926
+0031-015,tlg0031,tlg015,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Timotheum i,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,1897
+0031-016,tlg0031,tlg016,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Timotheum ii,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,1469
+0031-017,tlg0031,tlg017,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Titum,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,778
+0031-018,tlg0031,tlg018,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Philemonem,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,387
+0031-019,tlg0031,tlg019,Novum Testamentum,Novum Testamentum,Epistula Pauli ad Hebraeos,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,5680
+0031-020,tlg0031,tlg020,Novum Testamentum,Novum Testamentum,Epistula Jacobi,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,2045
+0031-021,tlg0031,tlg021,Novum Testamentum,Novum Testamentum,Epistula Petri i,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,1930
+0031-022,tlg0031,tlg022,Novum Testamentum,Novum Testamentum,Epistula Petri ii,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,1243
+0031-023,tlg0031,tlg023,Novum Testamentum,Novum Testamentum,Epistula Joannis i,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,2444
+0031-024,tlg0031,tlg024,Novum Testamentum,Novum Testamentum,Epistula Joannis ii,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,281
+0031-025,tlg0031,tlg025,Novum Testamentum,Novum Testamentum,Epistula Joannis iii,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,255
+0031-026,tlg0031,tlg026,Novum Testamentum,Novum Testamentum,Epistula Juda,Religious Epistle,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,528
+0031-027,tlg0031,tlg027,Novum Testamentum,Novum Testamentum,Apocalypsis Joannis,Religious Prophecy,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,11113
+0648-001,tlg0648,tlg001,Onasander,Onasander,Strategicus,Military,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,13156
+1247-001,tlg1247,tlg001,Pseudo-Cebes,Pseudo-Cebes,Cebetis tabula,Philosophy,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,5628
+1068-001,tlg1068,tlg001,Res Gestae Divi Augusti,Res Gestae Divi Augusti,Res gestae,Historiography,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,3066
+0527-026,tlg0527,tlg026,Settanta (Anonimo),Septuaginta,Machabaeorum iv,Wisdom literature,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,9077
+1701-001,tlg1701,tlg001,Testamentum Abrahae,Testamentum Abrahae,Testamentum Abrahae,Religious Narrative,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,7953
+1701-002,tlg1701,tlg002,Testamentum Abrahae,Testamentum Abrahae,Testamentum Abrahae,Religious Narrative,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,3766
+1703-001,tlg1703,tlg001,Teucer,Teucer,De duodecim signis,Astronomy/Astrology,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,6331
+1747-001,tlg1747,tlg001,Vitae Adam Et Evae,Vitae Adam Et Evae,Vita Adam et Evae,Religious Narrative,Koine,1,100,1 – 100 CE,1st c. CE,Imperial,5129
+1765-003,tlg1765,tlg003,Vitae Aesopi,Vitae Aesopi,Vita Pl vel Accursiana,Narrative,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,14136
+1765-004,tlg1765,tlg004,Vitae Aesopi,Vitae Aesopi,Vita,Narrative,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,305
+1765-005,tlg1765,tlg005,Vitae Aesopi,Vitae Aesopi,"Βιβλίον μυθικὸν τοῦ Αἰσώπου, εἰκονίζον ἀπὸ τῶν ἀλόγων ζῴων πρὸς τὰς τῆς ἀνθρωπίνης φύσεως πράξεις",Narrative,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,170
+1765-006,tlg1765,tlg006,Vitae Aesopi,Vitae Aesopi,Vita G (e cod. 397 Bibliothecae Pierponti Morgan),Narrative,Unknown,1,100,1 – 100 CE,1st c. CE,Imperial,20734
+0708-001,tlg0708,tlg001,Ammonius,Ammonius,De adfinium vocabulorum differentia,Language,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,20021
+1148-004,tlg1148,tlg004,Antonius Diogenes,Antonius Diogenes,De incredibilibus,Narrative,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,201
+1157-001,tlg1157,tlg001,Apocalypsis Esdrae,Apocalypsis Esdrae,Apocalypsis Esdrae,Religious Prophecy,Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,3092
+1168-001,tlg1168,tlg001,Apollonius,Apollonius,Lexicon Homericum,Language,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,57611
+0551-002,tlg0551,tlg002,Appiano,Appianus,Basilica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,944
+0551-003,tlg0551,tlg003,Appiano,Appianus,Italica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1273
+0551-004,tlg0551,tlg004,Appiano,Appianus,Samnitica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,3991
+0551-005,tlg0551,tlg005,Appiano,Appianus,Celtica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,2404
+0551-006,tlg0551,tlg006,Appiano,Appianus,Sicelica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1075
+0551-007,tlg0551,tlg007,Appiano,Appianus,Iberica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,18392
+0551-008,tlg0551,tlg008,Appiano,Appianus,Annibaica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,11105
+0551-009,tlg0551,tlg009,Appiano,Appianus,Libyca,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,28924
+0551-010,tlg0551,tlg010,Appiano,Appianus,Numidica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,421
+0551-011,tlg0551,tlg011,Appiano,Appianus,Macedonica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4168
+0551-012,tlg0551,tlg012,Appiano,Appianus,Illyrica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,5528
+0551-013,tlg0551,tlg013,Appiano,Appianus,Syriaca,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,15743
+0551-014,tlg0551,tlg014,Appiano,Appianus,Mithridatica,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,27557
+0551-017,tlg0551,tlg017,Appiano,Appianus,Bellum civile,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,132704
+0074-001,tlg0074,tlg001,Flavius Arrianus,Flavius Arrianus,Alexandri anabasis,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,86998
+0074-002,tlg0074,tlg002,Flavius Arrianus,Flavius Arrianus,Historia Indica,Historiography,Ionic,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,15657
+0074-003,tlg0074,tlg003,Flavius Arrianus,Flavius Arrianus,Cynegeticus,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6965
+0074-004,tlg0074,tlg004,Flavius Arrianus,Flavius Arrianus,Periplus ponti Euxini,Geography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4975
+0074-005,tlg0074,tlg005,Flavius Arrianus,Flavius Arrianus,Tactica,Military,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10181
+0074-006,tlg0074,tlg006,Flavius Arrianus,Flavius Arrianus,Acies contra Alanos,Historiography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1423
+0074-008,tlg0074,tlg008,Flavius Arrianus,Flavius Arrianus,Epistula ad Lucium Gellium,Epistolography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,224
+1216-001,tlg1216,tlg001,Barnabae Epistula,Barnabae Epistula,Barnabae epistula,Epistolography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,7978
+0612-001,tlg0612,tlg001,Dio Chrysostomus,Dio Chrysostomus,Orationes,Oratory,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,205573
+0612-002,tlg0612,tlg002,Dio Chrysostomus,Dio Chrysostomus,Encomium comae,Oratory,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,459
+0557-001,tlg0557,tlg001,Epitteto (via Arriano),Epictetus,Dissertationes ab Arriano digestae,Philosophy,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,92433
+0557-002,tlg0557,tlg002,Epitteto (via Arriano),Epictetus,Enchiridion,Philosophy,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6057
+0557-003,tlg0557,tlg003,Epitteto (via Arriano),Epictetus,Dissertationum Epictetearum sive ab Arriano sive ab aliis digestarum fragmenta,Philosophy,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4771
+0557-004,tlg0557,tlg004,Epitteto (via Arriano),Epictetus,Gnomologium Epicteteum,Philosophy,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,331
+0557-005,tlg0557,tlg005,Epitteto (via Arriano),Epictetus,Gnomologium Epicteteum,Philosophy,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,2157
+1389-001,tlg1389,tlg001,Harpocration,Harpocration,Lexicon in decem oratores Atticos,Language,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,43594
+1413-001,tlg1413,tlg001,Heraclitus,Heraclitus,De incredibilibus,Paradoxography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,2050
+0071-001,tlg0071,tlg001,Periplus Maris Erythraei,Periplus Maris Erythraei,"Anonymi (Arriani, ut fertur) periplus maris Erythraei",Geography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,7035
+0007-001,tlg0007,tlg001,Plutarco,Plutarchus,Theseus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,8411
+0007-002,tlg0007,tlg002,Plutarco,Plutarchus,Romulus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10541
+0007-003,tlg0007,tlg003,Plutarco,Plutarchus,Comparatio Thesei et Romuli,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1301
+0007-004,tlg0007,tlg004,Plutarco,Plutarchus,Lycurgus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10792
+0007-005,tlg0007,tlg005,Plutarco,Plutarchus,Numa,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,8467
+0007-006,tlg0007,tlg006,Plutarco,Plutarchus,Comparatio Lycurgi et Numae,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1797
+0007-007,tlg0007,tlg007,Plutarco,Plutarchus,Solon,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,9775
+0007-008,tlg0007,tlg008,Plutarco,Plutarchus,Publicola,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6593
+0007-009,tlg0007,tlg009,Plutarco,Plutarchus,Comparatio Solonis et Publicolae,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1066
+0007-010,tlg0007,tlg010,Plutarco,Plutarchus,Themistocles,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,9017
+0007-011,tlg0007,tlg011,Plutarco,Plutarchus,Camillus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,12243
+0007-012,tlg0007,tlg012,Plutarco,Plutarchus,Pericles,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,11266
+0007-013,tlg0007,tlg013,Plutarco,Plutarchus,Fabius Maximus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,8686
+0007-014,tlg0007,tlg014,Plutarco,Plutarchus,Comparatio Periclis et Fabii Maximi,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,789
+0007-015,tlg0007,tlg015,Plutarco,Plutarchus,Alcibiades,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,11456
+0007-016,tlg0007,tlg016,Plutarco,Plutarchus,Marcius Coriolanus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10608
+0007-017,tlg0007,tlg017,Plutarco,Plutarchus,Comparatio Alcibiadis et Marcii Coriolani,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1199
+0007-018,tlg0007,tlg018,Plutarco,Plutarchus,Timoleon,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10102
+0007-019,tlg0007,tlg019,Plutarco,Plutarchus,Aemilius Paullus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,11039
+0007-020,tlg0007,tlg020,Plutarco,Plutarchus,Comparatio Aemilii Paulli et Timoleontis,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,539
+0007-021,tlg0007,tlg021,Plutarco,Plutarchus,Pelopidas,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10643
+0007-022,tlg0007,tlg022,Plutarco,Plutarchus,Marcellus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,9469
+0007-023,tlg0007,tlg023,Plutarco,Plutarchus,Comparatio Pelopidae et Marcelli,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,906
+0007-024,tlg0007,tlg024,Plutarco,Plutarchus,Aristides,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,9205
+0007-025,tlg0007,tlg025,Plutarco,Plutarchus,Cato Maior,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,9096
+0007-026,tlg0007,tlg026,Plutarco,Plutarchus,Comparatio Aristidis et Catonis,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1645
+0007-027,tlg0007,tlg027,Plutarco,Plutarchus,Philopoemen,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6357
+0007-028,tlg0007,tlg028,Plutarco,Plutarchus,Titus Flamininus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6560
+0007-029,tlg0007,tlg029,Plutarco,Plutarchus,Comparatio Philopoemenis et Titi Flaminini,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,616
+0007-030,tlg0007,tlg030,Plutarco,Plutarchus,Pyrrhus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,12334
+0007-031,tlg0007,tlg031,Plutarco,Plutarchus,Marius,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,14341
+0007-032,tlg0007,tlg032,Plutarco,Plutarchus,Lysander,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,9216
+0007-033,tlg0007,tlg033,Plutarco,Plutarchus,Sulla,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,12910
+0007-034,tlg0007,tlg034,Plutarco,Plutarchus,Comparatio Lysandri et Sullae,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1404
+0007-035,tlg0007,tlg035,Plutarco,Plutarchus,Cimon,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6594
+0007-036,tlg0007,tlg036,Plutarco,Plutarchus,Lucullus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,15073
+0007-037,tlg0007,tlg037,Plutarco,Plutarchus,Comparatio Cimonis et Luculli,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1103
+0007-038,tlg0007,tlg038,Plutarco,Plutarchus,Nicias,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10146
+0007-039,tlg0007,tlg039,Plutarco,Plutarchus,Crassus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,11527
+0007-040,tlg0007,tlg040,Plutarco,Plutarchus,Comparatio Niciae et Crassi,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1377
+0007-041,tlg0007,tlg041,Plutarco,Plutarchus,Eumenes,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6198
+0007-042,tlg0007,tlg042,Plutarco,Plutarchus,Sertorius,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,7449
+0007-043,tlg0007,tlg043,Plutarco,Plutarchus,Comparatio Eumenis et Sertorii,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,442
+0007-044,tlg0007,tlg044,Plutarco,Plutarchus,Agesilaus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,12210
+0007-045,tlg0007,tlg045,Plutarco,Plutarchus,Pompeius,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,22779
+0007-046,tlg0007,tlg046,Plutarco,Plutarchus,Comparatio Agesilai et Pompeii,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1219
+0007-047,tlg0007,tlg047,Plutarco,Plutarchus,Alexander,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,22724
+0007-048,tlg0007,tlg048,Plutarco,Plutarchus,Caesar,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,17974
+0007-049,tlg0007,tlg049,Plutarco,Plutarchus,Phocion,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,9551
+0007-050,tlg0007,tlg050,Plutarco,Plutarchus,Cato Minor,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,18934
+0007-051a,tlg0007,tlg051a,Plutarco,Plutarchus,Agis et Cleomenes,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,5068
+0007-051b,tlg0007,tlg051b,Plutarco,Plutarchus,Agis et Cleomenes,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10079
+0007-052a,tlg0007,tlg052a,Plutarco,Plutarchus,Tiberius et Gaius Gracchus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,5629
+0007-052b,tlg0007,tlg052b,Plutarco,Plutarchus,Tiberius et Gaius Gracchus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4660
+0007-053,tlg0007,tlg053,Plutarco,Plutarchus,Comparatio Agidis et Cleomenis cum Tiberio et Gaio Graccho,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1096
+0007-054,tlg0007,tlg054,Plutarco,Plutarchus,Demosthenes,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,7787
+0007-055,tlg0007,tlg055,Plutarco,Plutarchus,Cicero,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,13544
+0007-056,tlg0007,tlg056,Plutarco,Plutarchus,Comparatio Demosthenis et Ciceronis,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1097
+0007-057,tlg0007,tlg057,Plutarco,Plutarchus,Demetrius,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,14066
+0007-058,tlg0007,tlg058,Plutarco,Plutarchus,Antonius,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,21061
+0007-059,tlg0007,tlg059,Plutarco,Plutarchus,Comparatio Demetrii et Antonii,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1000
+0007-060,tlg0007,tlg060,Plutarco,Plutarchus,Dion,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,13180
+0007-061,tlg0007,tlg061,Plutarco,Plutarchus,Brutus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,13617
+0007-062,tlg0007,tlg062,Plutarco,Plutarchus,Comparatio Dionis et Bruti,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1056
+0007-063,tlg0007,tlg063,Plutarco,Plutarchus,Aratus,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,13163
+0007-064,tlg0007,tlg064,Plutarco,Plutarchus,Artaxerxes,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,8365
+0007-065,tlg0007,tlg065,Plutarco,Plutarchus,Galba,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6951
+0007-066,tlg0007,tlg066,Plutarco,Plutarchus,Otho,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4702
+0007-067,tlg0007,tlg067,Plutarco,Plutarchus,De liberis educandis,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,7124
+0007-068,tlg0007,tlg068,Plutarco,Plutarchus,Quomodo adolescens poetas audire debeat,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,11557
+0007-069,tlg0007,tlg069,Plutarco,Plutarchus,De recta ratione audiendi,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,5765
+0007-070,tlg0007,tlg070,Plutarco,Plutarchus,Quomodo adulator ab amico internoscatur,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,13547
+0007-071,tlg0007,tlg071,Plutarco,Plutarchus,Quomodo quis suos in virtute sentiat profectus,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,5680
+0007-072,tlg0007,tlg072,Plutarco,Plutarchus,De capienda ex inimicis utilitate,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,3442
+0007-073,tlg0007,tlg073,Plutarco,Plutarchus,De amicorum multitudine,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,2079
+0007-074,tlg0007,tlg074,Plutarco,Plutarchus,De fortuna,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1462
+0007-075,tlg0007,tlg075,Plutarco,Plutarchus,De virtute et vitio,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,762
+0007-076,tlg0007,tlg076,Plutarco,Plutarchus,Consolatio ad Apollonium,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10782
+0007-077,tlg0007,tlg077,Plutarco,Plutarchus,De tuenda sanitate praecepta,Medicine,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,7781
+0007-078,tlg0007,tlg078,Plutarco,Plutarchus,Conjugalia praecepta,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4228
+0007-079,tlg0007,tlg079,Plutarco,Plutarchus,Septem sapientium convivium,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10614
+0007-080,tlg0007,tlg080,Plutarco,Plutarchus,De superstitione,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,3835
+0007-081,tlg0007,tlg081,Plutarco,Plutarchus,Regum et imperatorum apophthegmata,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,18977
+0007-082,tlg0007,tlg082,Plutarco,Plutarchus,Apophthegmata Laconica,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,16577
+0007-082a,tlg0007,tlg082a,Plutarco,Plutarchus,Apophthegmata Laconica,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1843
+0007-082b,tlg0007,tlg082b,Plutarco,Plutarchus,Apophthegmata Laconica,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1375
+0007-083,tlg0007,tlg083,Plutarco,Plutarchus,Mulierum virtutes,Historiography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10704
+0007-084a,tlg0007,tlg084a,Plutarco,Plutarchus,Aetia Romana et Graeca,Erudition,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,15310
+0007-084b,tlg0007,tlg084b,Plutarco,Plutarchus,Aetia Romana et Graeca,Erudition,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6804
+0007-085,tlg0007,tlg085,Plutarco,Plutarchus,Parallela minora,Historiography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,5370
+0007-086,tlg0007,tlg086,Plutarco,Plutarchus,De fortuna Romanorum,Rhetoric,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,5193
+0007-087,tlg0007,tlg087,Plutarco,Plutarchus,De Alexandri magni fortuna aut virtute,Rhetoric,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,9654
+0007-088,tlg0007,tlg088,Plutarco,Plutarchus,De gloria Atheniensium,Rhetoric,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,3049
+0007-089,tlg0007,tlg089,Plutarco,Plutarchus,De Iside et Osiride,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,17846
+0007-090,tlg0007,tlg090,Plutarco,Plutarchus,De E apud Delphos,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,5619
+0007-091,tlg0007,tlg091,Plutarco,Plutarchus,De Pythiae oraculis,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,8256
+0007-092,tlg0007,tlg092,Plutarco,Plutarchus,De defectu oraculorum,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,15412
+0007-093,tlg0007,tlg093,Plutarco,Plutarchus,An virtus doceri possit,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,778
+0007-094,tlg0007,tlg094,Plutarco,Plutarchus,De virtute morali,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6462
+0007-095,tlg0007,tlg095,Plutarco,Plutarchus,De cohibenda ira,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6288
+0007-096,tlg0007,tlg096,Plutarco,Plutarchus,De tranquillitate animi,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6990
+0007-097,tlg0007,tlg097,Plutarco,Plutarchus,De fraterno amore,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,7556
+0007-098,tlg0007,tlg098,Plutarco,Plutarchus,De amore prolis,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,2474
+0007-099,tlg0007,tlg099,Plutarco,Plutarchus,An vitiositas ad infelicitatem sufficiat,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,991
+0007-100,tlg0007,tlg100,Plutarco,Plutarchus,Animine an corporis affectiones sint peiores,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,965
+0007-101,tlg0007,tlg101,Plutarco,Plutarchus,De garrulitate,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,6908
+0007-102,tlg0007,tlg102,Plutarco,Plutarchus,De curiositate,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4267
+0007-103,tlg0007,tlg103,Plutarco,Plutarchus,De cupiditate divitiarum,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,2593
+0007-104,tlg0007,tlg104,Plutarco,Plutarchus,De vitioso pudore,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4177
+0007-105,tlg0007,tlg105,Plutarco,Plutarchus,De invidia et odio,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1165
+0007-106,tlg0007,tlg106,Plutarco,Plutarchus,De laude ipsius,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4555
+0007-107,tlg0007,tlg107,Plutarco,Plutarchus,De sera numinis vindicta,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10622
+0007-108,tlg0007,tlg108,Plutarco,Plutarchus,De fato,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,3929
+0007-109,tlg0007,tlg109,Plutarco,Plutarchus,De genio Socratis,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,13322
+0007-110,tlg0007,tlg110,Plutarco,Plutarchus,De exilio,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4658
+0007-111,tlg0007,tlg111,Plutarco,Plutarchus,Consolatio ad uxorem,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,2191
+0007-112,tlg0007,tlg112,Plutarco,Plutarchus,Quaestiones convivales,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,71714
+0007-113,tlg0007,tlg113,Plutarco,Plutarchus,Amatorius,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,12621
+0007-114,tlg0007,tlg114,Plutarco,Plutarchus,Amatoriae narrationes,Narrative,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,2062
+0007-115,tlg0007,tlg115,Plutarco,Plutarchus,Maxime cum principibus philosopho esse disserendum,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1746
+0007-116,tlg0007,tlg116,Plutarco,Plutarchus,Ad principem ineruditum,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1818
+0007-117,tlg0007,tlg117,Plutarco,Plutarchus,An seni respublica gerenda sit,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,7691
+0007-118,tlg0007,tlg118,Plutarco,Plutarchus,Praecepta gerendae reipublicae,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,14274
+0007-119,tlg0007,tlg119,Plutarco,Plutarchus,"De unius in republica dominatione, populari statu, et paucorum imperio",Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,632
+0007-120,tlg0007,tlg120,Plutarco,Plutarchus,De vitando aere alieno,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,2422
+0007-121,tlg0007,tlg121,Plutarco,Plutarchus,Vitae decem oratorum,Biography,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10490
+0007-122,tlg0007,tlg122,Plutarco,Plutarchus,Comparationis Aristophanis et Menandri compendium,Rhetoric,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,842
+0007-123,tlg0007,tlg123,Plutarco,Plutarchus,De Herodoti malignitate,Rhetoric,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10398
+0007-125,tlg0007,tlg125,Plutarco,Plutarchus,Aetia physica,Physics,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,4621
+0007-126,tlg0007,tlg126,Plutarco,Plutarchus,De facie in orbe lunae,Astronomy/Astrology,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,14556
+0007-127,tlg0007,tlg127,Plutarco,Plutarchus,De primo frigido,Physics,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,5696
+0007-128,tlg0007,tlg128,Plutarco,Plutarchus,Aquane an ignis sit utilior,Rhetoric,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1861
+0007-129,tlg0007,tlg129,Plutarco,Plutarchus,De sollertia animalium,Biology,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,14154
+0007-130,tlg0007,tlg130,Plutarco,Plutarchus,Bruta animalia ratione uti,Biology,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,3882
+0007-131,tlg0007,tlg131,Plutarco,Plutarchus,De esu carnium i,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1811
+0007-132,tlg0007,tlg132,Plutarco,Plutarchus,De esu carnium ii,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1437
+0007-133,tlg0007,tlg133,Plutarco,Plutarchus,Platonicae quaestiones,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,7146
+0007-134,tlg0007,tlg134,Plutarco,Plutarchus,De animae procreatione in Timaeo,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,10640
+0007-135,tlg0007,tlg135,Plutarco,Plutarchus,Epitome libri de animae procreatione in Timaeo,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1364
+0007-136,tlg0007,tlg136,Plutarco,Plutarchus,De Stoicorum repugnantiis,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,13861
+0007-137,tlg0007,tlg137,Plutarco,Plutarchus,Stoicos absurdiora poetis dicere,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,579
+0007-138,tlg0007,tlg138,Plutarco,Plutarchus,De communibus notitiis adversus Stoicos,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,15871
+0007-139,tlg0007,tlg139,Plutarco,Plutarchus,Non posse suaviter vivi secundum Epicurum,Philosophical dialogue,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,11115
+0007-140,tlg0007,tlg140,Plutarco,Plutarchus,Adversus Colotem,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,11467
+0007-141,tlg0007,tlg141,Plutarco,Plutarchus,De latenter vivendo,Philosophy,Attic/Koine,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1487
+1622-001,tlg1622,tlg001,Polycarpus,Polycarpus,Epistula ad Philippenses,Epistolography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1321
+0548-001,tlg0548,tlg001,Pseudo-Apollodorus,Pseudo-Apollodorus,Bibliotheca,Mythography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,31359
+0548-002,tlg0548,tlg002,Pseudo-Apollodorus,Pseudo-Apollodorus,Bibliotheca,Mythography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,9037
+0564-003,tlg0564,tlg003,Rufus,Rufus,De corporis humani appellationibus,Medicine,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,5842
+0564-004,tlg0564,tlg004,Rufus,Rufus,De partibus corporis humani,Medicine,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,2634
+0564-005,tlg0564,tlg005,Rufus,Rufus,De ossibus,Medicine,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,1218
+0532-001,tlg0532,tlg001,Achilles Tatius,Achilles Tatius,Leucippe et Clitophon,Narrative,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,49478
+0388-002,tlg0388,tlg002,Acta Pauli,Acta Pauli,Martyrium Pauli,Religious Narrative,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1419
+0388-004,tlg0388,tlg004,Acta Pauli,Acta Pauli,Acta Pauli et Theclae,Religious Narrative,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4269
+0388-005,tlg0388,tlg005,Acta Pauli,Acta Pauli,Acta Pauli et Theclae,Religious Narrative,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,844
+0284-001,tlg0284,tlg001,Aelius Aristides,Aelius Aristides,Εἰς Δία,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2313
+0284-002,tlg0284,tlg002,Aelius Aristides,Aelius Aristides,Ἀθηνᾶ,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2534
+0284-003,tlg0284,tlg003,Aelius Aristides,Aelius Aristides,Ἰσθμικὸς εἰς Ποσειδῶνα,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3846
+0284-004,tlg0284,tlg004,Aelius Aristides,Aelius Aristides,Διόνυσος,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,851
+0284-005,tlg0284,tlg005,Aelius Aristides,Aelius Aristides,Ἡρακλῆς,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1656
+0284-006,tlg0284,tlg006,Aelius Aristides,Aelius Aristides,Λαλιὰ εἰς Ἀσκληπιόν,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1365
+0284-007,tlg0284,tlg007,Aelius Aristides,Aelius Aristides,Ἀσκληπιάδαι,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1719
+0284-008,tlg0284,tlg008,Aelius Aristides,Aelius Aristides,Εἰς τὸν Σάραπιν,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2972
+0284-009,tlg0284,tlg009,Aelius Aristides,Aelius Aristides,Εἰς βασιλέα,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3236
+0284-010,tlg0284,tlg010,Aelius Aristides,Aelius Aristides,Ἀπελλᾶ γενεθλιακός,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2352
+0284-011,tlg0284,tlg011,Aelius Aristides,Aelius Aristides,Εἰς Ἐτεωνέα ἐπικήδειος,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1469
+0284-012,tlg0284,tlg012,Aelius Aristides,Aelius Aristides,Ἐπὶ Ἀλεξάνδρῳ ἐπιτάφιος,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3061
+0284-013,tlg0284,tlg013,Aelius Aristides,Aelius Aristides,Παναθηναϊκός,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,32334
+0284-014,tlg0284,tlg014,Aelius Aristides,Aelius Aristides,Ῥώμης ἐγκώμιον,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,9544
+0284-015,tlg0284,tlg015,Aelius Aristides,Aelius Aristides,Σμυρναϊκὸς πολιτικός,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2103
+0284-016,tlg0284,tlg016,Aelius Aristides,Aelius Aristides,Πανηγυρικὸς ἐν Κυζίκῳ περὶ τοῦ ναοῦ,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3617
+0284-017,tlg0284,tlg017,Aelius Aristides,Aelius Aristides,Εἰς τὸ Αἰγαῖον πέλαγος,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1294
+0284-018,tlg0284,tlg018,Aelius Aristides,Aelius Aristides,Εἰς τὸ φρέαρ τοῦ Ἀσκληπιοῦ,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1424
+0284-019,tlg0284,tlg019,Aelius Aristides,Aelius Aristides,Ἐλευσίνιος,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1147
+0284-020,tlg0284,tlg020,Aelius Aristides,Aelius Aristides,Μονῳδία ἐπὶ Σμύρνῃ,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,858
+0284-021,tlg0284,tlg021,Aelius Aristides,Aelius Aristides,Παλινῳδία ἐπὶ Σμύρνῃ καὶ τῷ ταύτης ἀνοικισμῷ,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1888
+0284-022,tlg0284,tlg022,Aelius Aristides,Aelius Aristides,Προσφωνητικός Σμυρναϊκός,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1252
+0284-023,tlg0284,tlg023,Aelius Aristides,Aelius Aristides,Ἱεροὶ λόγοι αʹ,Biography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,5918
+0284-024,tlg0284,tlg024,Aelius Aristides,Aelius Aristides,Ἱεροὶ λόγοι βʹ,Biography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6532
+0284-025,tlg0284,tlg025,Aelius Aristides,Aelius Aristides,Ἱεροὶ λόγοι γʹ,Biography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3986
+0284-026,tlg0284,tlg026,Aelius Aristides,Aelius Aristides,Ἱεροὶ λόγοι δʹ,Biography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,9044
+0284-027,tlg0284,tlg027,Aelius Aristides,Aelius Aristides,Ἱεροὶ λόγοι εʹ,Biography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,5052
+0284-028,tlg0284,tlg028,Aelius Aristides,Aelius Aristides,Ἱεροὶ λόγοι ςʹ,Biography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,150
+0284-029,tlg0284,tlg029,Aelius Aristides,Aelius Aristides,Περὶ τοῦ πέμπειν βοήθειαν τοῖς ἐν Σικελίᾳ,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4373
+0284-030,tlg0284,tlg030,Aelius Aristides,Aelius Aristides,Εἰς τὸ ἐναντίον,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,5067
+0284-031,tlg0284,tlg031,Aelius Aristides,Aelius Aristides,Ὑπὲρ τῆς πρὸς Λακεδαιμονίους εἰρήνης,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2672
+0284-032,tlg0284,tlg032,Aelius Aristides,Aelius Aristides,Ὑπὲρ τῆς πρὸς Ἀθηναίους εἰρήνης,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2305
+0284-033,tlg0284,tlg033,Aelius Aristides,Aelius Aristides,Λευκτρικὸς αʹ,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6558
+0284-034,tlg0284,tlg034,Aelius Aristides,Aelius Aristides,Λευκτρικὸς βʹ,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6939
+0284-035,tlg0284,tlg035,Aelius Aristides,Aelius Aristides,Λευκτρικὸς γʹ,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3012
+0284-036,tlg0284,tlg036,Aelius Aristides,Aelius Aristides,Λευκτρικὸς δʹ,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2808
+0284-037,tlg0284,tlg037,Aelius Aristides,Aelius Aristides,Λευκτρικὸς εʹ,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3690
+0284-038,tlg0284,tlg038,Aelius Aristides,Aelius Aristides,Συμμαχικὸς αʹ,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4590
+0284-039,tlg0284,tlg039,Aelius Aristides,Aelius Aristides,Συμμαχικὸς βʹ,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4782
+0284-040,tlg0284,tlg040,Aelius Aristides,Aelius Aristides,Συμβουλευτικὸς περὶ τοῦ μὴ δεῖν κωμῳδεῖν,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2420
+0284-041,tlg0284,tlg041,Aelius Aristides,Aelius Aristides,Ἐπιστολὴ περὶ Σμύρνης,Epistolography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1355
+0284-042,tlg0284,tlg042,Aelius Aristides,Aelius Aristides,Περὶ ὁμονοίας ταῖς πόλεσιν,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7257
+0284-043,tlg0284,tlg043,Aelius Aristides,Aelius Aristides,Ῥοδιακός,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,5971
+0284-044,tlg0284,tlg044,Aelius Aristides,Aelius Aristides,Ῥοδίοις περὶ ὁμονοίας,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4917
+0284-045,tlg0284,tlg045,Aelius Aristides,Aelius Aristides,Πρὸς Πλάτωνα περὶ ῥητορικῆς,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,34683
+0284-046,tlg0284,tlg046,Aelius Aristides,Aelius Aristides,Πρὸς Πλάτωνα ὑπὲρ τῶν τεττάρων,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,58829
+0284-047,tlg0284,tlg047,Aelius Aristides,Aelius Aristides,Πρὸς Καπίτωνα,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4987
+0284-048,tlg0284,tlg048,Aelius Aristides,Aelius Aristides,Αἰγύπτιος,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,12209
+0284-049,tlg0284,tlg049,Aelius Aristides,Aelius Aristides,Περὶ τοῦ παραφθέγματος,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,13050
+0284-050,tlg0284,tlg050,Aelius Aristides,Aelius Aristides,Κατὰ τῶν ἐξορχουμένων,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4712
+0284-051,tlg0284,tlg051,Aelius Aristides,Aelius Aristides,Πρὸς τοὺς αἰτιωμένους ὅτι μὴ μελετῴη,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2569
+0284-052,tlg0284,tlg052,Aelius Aristides,Aelius Aristides,Πρεσβευτικὸς πρὸς Ἀχιλλέα,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3946
+0284-053,tlg0284,tlg053,Aelius Aristides,Aelius Aristides,Πρὸς Δημοσθένη περὶ ἀτελείας,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,10300
+0284-054,tlg0284,tlg054,Aelius Aristides,Aelius Aristides,Πρὸς Λεπτίνην ὑπὲρ ἀτελείας,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,12419
+0284-055,tlg0284,tlg055,Aelius Aristides,Aelius Aristides,Πανηγυρικὸς ἐπὶ τῷ ὕδατι ἐν Περγάμῳ,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,400
+0284-056,tlg0284,tlg056,Aelius Aristides,Aelius Aristides,Ars rhetorica,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,27127
+1813-001,tlg1813,tlg001,Anonymus De Plantis Aegyptiis,Anonymus De Plantis Aegyptiis,Fragmentum,Didactic poetry,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,149
+0082-001,tlg0082,tlg001,Apollonius Dyscolus,Apollonius Dyscolus,De pronominibus,Language,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,31461
+0082-002,tlg0082,tlg002,Apollonius Dyscolus,Apollonius Dyscolus,De adverbiis,Language,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,30058
+0082-003,tlg0082,tlg003,Apollonius Dyscolus,Apollonius Dyscolus,De conjunctionibus,Language,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,14218
+0082-004,tlg0082,tlg004,Apollonius Dyscolus,Apollonius Dyscolus,De constructione,Language,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,69872
+0719-001,tlg0719,tlg001,Aretaeus,Aretaeus,De causis et signis acutorum morborum libri duo,Medicine,Ionic,101,200,101 – 200 CE,2nd c. CE,Imperial,11502
+0719-002,tlg0719,tlg002,Aretaeus,Aretaeus,De causis et signis diuturnorum morborum libri duo,Medicine,Ionic,101,200,101 – 200 CE,2nd c. CE,Imperial,21032
+0719-003,tlg0719,tlg003,Aretaeus,Aretaeus,De curatione acutorum morborum libri duo,Medicine,Ionic,101,200,101 – 200 CE,2nd c. CE,Imperial,19458
+0719-004,tlg0719,tlg004,Aretaeus,Aretaeus,De curatione diuturnorum morborum libri duo,Medicine,Ionic,101,200,101 – 200 CE,2nd c. CE,Imperial,9788
+2148-001,tlg2148,tlg001,Aristodemus,Aristodemus,Fragmenta,Historiography,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,3203
+0553-001,tlg0553,tlg001,Artemidorus,Artemidorus,Onirocriticon,Oneirocriticism,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,72342
+1205-001,tlg1205,tlg001,Athenagoras,Athenagoras,Legatio sive Supplicatio pro Christianis,Oratory,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,13146
+1205-002,tlg1205,tlg002,Athenagoras,Athenagoras,De resurrectione,Theology,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,10044
+0614-001,tlg0614,tlg001,Valerius Babrius,Valerius Babrius,Mythiambi Aesopici,Lyric poetry,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,13928
+1252-002,tlg1252,tlg002,Certamen Homeri Et Hesiodi,Certamen Homeri Et Hesiodi,Certamen Homeri et Hesiodi,Narrative,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,2728
+0554-001,tlg0554,tlg001,Caritone di Afrodisia,Chariton,De Chaerea et Callirhoe,Narrative,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,41918
+1272-001,tlg1272,tlg001,Cleomedes,Cleomedes,De motu circulari corporum caelestium,Astronomy/Astrology,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,26883
+0361-001,tlg0361,tlg001,Cleonides,Cleonides,Introductio harmonica,Music,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,4177
+1311-001,tlg1311,tlg001,Didache Xii Apostolorum,Didache Xii Apostolorum,Διδαχαὶ τῶν ἀποστολῶν,Theology,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2631
+1350-001,tlg1350,tlg001,Epistula Ad Diognetum,Epistula Ad Diognetum,Epistula ad Diognetum,Epistolography,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,3087
+1353-001,tlg1353,tlg001,Epitaphium Abercii,Epitaphium Abercii,Epitaphium,Lyric poetry,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,173
+0186-001,tlg0186,tlg001,Marcus Cornelius Fronto,Marcus Cornelius Fronto,Ad Marcum Caesarem et invicem,Epistolography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,972
+0186-002,tlg0186,tlg002,Marcus Cornelius Fronto,Marcus Cornelius Fronto,Ad Marcum Caesarem et invicem,Epistolography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,325
+0186-003,tlg0186,tlg003,Marcus Cornelius Fronto,Marcus Cornelius Fronto,Ad amicos,Epistolography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,74
+0186-004,tlg0186,tlg004,Marcus Cornelius Fronto,Marcus Cornelius Fronto,Additamentum epistularum variarum acephalum,Epistolography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2524
+0186-005,tlg0186,tlg005,Marcus Cornelius Fronto,Marcus Cornelius Fronto,Epigrammata,Lyric poetry,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,68
+0057-001,tlg0057,tlg001,Galenus,Galenus,Adhortatio ad artes addiscendas,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,5797
+0057-002,tlg0057,tlg002,Galenus,Galenus,De optima doctrina,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2181
+0057-003,tlg0057,tlg003,Galenus,Galenus,Quod optimus medicus sit quoque philosophus,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1656
+0057-004,tlg0057,tlg004,Galenus,Galenus,De sectis ad eos qui introducuntur,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7425
+0057-006,tlg0057,tlg006,Galenus,Galenus,De constitutione artis medicae ad Patrophilum,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,14060
+0057-007,tlg0057,tlg007,Galenus,Galenus,Ars medica,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,18994
+0057-008,tlg0057,tlg008,Galenus,Galenus,De elementis ex Hippocrate libri ii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,16052
+0057-009,tlg0057,tlg009,Galenus,Galenus,De temperamentis libri iii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,32791
+0057-010,tlg0057,tlg010,Galenus,Galenus,De naturalibus facultatibus,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,37146
+0057-011,tlg0057,tlg011,Galenus,Galenus,De anatomicis administrationibus libri ix,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,89559
+0057-012,tlg0057,tlg012,Galenus,Galenus,De ossibus ad tirones,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7948
+0057-013,tlg0057,tlg013,Galenus,Galenus,De venarum arteriarumque dissectione,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,8472
+0057-014,tlg0057,tlg014,Galenus,Galenus,De nervorum dissectione,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4043
+0057-015,tlg0057,tlg015,Galenus,Galenus,De instrumento odoratus,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4837
+0057-016,tlg0057,tlg016,Galenus,Galenus,De uteri dissectione,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3770
+0057-017,tlg0057,tlg017,Galenus,Galenus,De usu partium,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,222756
+0057-018,tlg0057,tlg018,Galenus,Galenus,De motu musculorum libri ii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,17169
+0057-019,tlg0057,tlg019,Galenus,Galenus,De victu attenuante,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7162
+0057-020,tlg0057,tlg020,Galenus,Galenus,De utilitate respirationis liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7061
+0057-021,tlg0057,tlg021,Galenus,Galenus,De semine libri ii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,23951
+0057-022,tlg0057,tlg022,Galenus,Galenus,De foetuum formatione libellus,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,8855
+0057-023,tlg0057,tlg023,Galenus,Galenus,An in arteriis natura sanguis contineatur,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,5488
+0057-024,tlg0057,tlg024,Galenus,Galenus,De optima corporis nostri constitutione,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2040
+0057-025,tlg0057,tlg025,Galenus,Galenus,De bono habitu liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,957
+0057-027,tlg0057,tlg027,Galenus,Galenus,Quod animi mores corporis temperamenta sequantur,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,9746
+0057-028,tlg0057,tlg028,Galenus,Galenus,De propriorum animi cuiuslibet affectuum dignotione et curatione,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,9701
+0057-029,tlg0057,tlg029,Galenus,Galenus,De animi cuiuslibet peccatorum dignotione et curatione,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7366
+0057-030,tlg0057,tlg030,Galenus,Galenus,De atra bile,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7233
+0057-031,tlg0057,tlg031,Galenus,Galenus,De usu pulsuum,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,5131
+0057-032,tlg0057,tlg032,Galenus,Galenus,De placitis Hippocratis et Platonis,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,109685
+0057-034,tlg0057,tlg034,Galenus,Galenus,De parvae pilae exercitio,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2015
+0057-035,tlg0057,tlg035,Galenus,Galenus,De venereis,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,656
+0057-036,tlg0057,tlg036,Galenus,Galenus,De sanitate tuenda libri vi,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,77722
+0057-038,tlg0057,tlg038,Galenus,Galenus,De rebus boni malique suci,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,11783
+0057-039,tlg0057,tlg039,Galenus,Galenus,De ptisana,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2598
+0057-040,tlg0057,tlg040,Galenus,Galenus,De dignotione ex insomniis,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,565
+0057-041,tlg0057,tlg041,Galenus,Galenus,De morborum differentiis,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7699
+0057-042,tlg0057,tlg042,Galenus,Galenus,De causis morborum liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6930
+0057-043,tlg0057,tlg043,Galenus,Galenus,De symptomatum differentiis liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7618
+0057-044,tlg0057,tlg044,Galenus,Galenus,De symptomatum causis libri iii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,33589
+0057-045,tlg0057,tlg045,Galenus,Galenus,De differentiis febrium libri ii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,23935
+0057-046,tlg0057,tlg046,Galenus,Galenus,De morborum temporibus liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6087
+0057-047,tlg0057,tlg047,Galenus,Galenus,De totius morbi temporibus liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4111
+0057-048,tlg0057,tlg048,Galenus,Galenus,De typis liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1818
+0057-049,tlg0057,tlg049,Galenus,Galenus,Adversus eos qui de typis scripserunt vel de circuitibus,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6298
+0057-050,tlg0057,tlg050,Galenus,Galenus,De plenitudine liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,12949
+0057-051,tlg0057,tlg051,Galenus,Galenus,"De tremore, palpitatione, convulsione et rigore liber",Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,10546
+0057-052,tlg0057,tlg052,Galenus,Galenus,De comate secundum Hippocratem liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3947
+0057-053,tlg0057,tlg053,Galenus,Galenus,De marcore liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6659
+0057-054,tlg0057,tlg054,Galenus,Galenus,De tumoribus praeter naturam,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4860
+0057-055,tlg0057,tlg055,Galenus,Galenus,De inaequali intemperie liber,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3619
+0057-056,tlg0057,tlg056,Galenus,Galenus,De difficultate respirationis libri iii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,36988
+0057-057,tlg0057,tlg057,Galenus,Galenus,De locis affectis libri vi,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,80060
+0057-058,tlg0057,tlg058,Galenus,Galenus,De pulsibus libellus ad tirones,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6869
+0057-059,tlg0057,tlg059,Galenus,Galenus,De differentia pulsuum libri iv,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,49245
+0057-060,tlg0057,tlg060,Galenus,Galenus,De dignoscendis pulsibus libri iv,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,35937
+0057-061,tlg0057,tlg061,Galenus,Galenus,De causis pulsuum libri iv,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,36435
+0057-062,tlg0057,tlg062,Galenus,Galenus,De praesagitione ex pulsibus libri iv,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,41028
+0057-063,tlg0057,tlg063,Galenus,Galenus,Synopsis librorum suorum de pulsibus,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,17633
+0057-064,tlg0057,tlg064,Galenus,Galenus,De crisibus libri iii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,39009
+0057-065,tlg0057,tlg065,Galenus,Galenus,De diebus decretoriis libri iii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,31043
+0057-066,tlg0057,tlg066,Galenus,Galenus,De methodo medendi libri xiv,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,179163
+0057-067,tlg0057,tlg067,Galenus,Galenus,Ad Glauconem de medendi methodo libri ii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,25760
+0057-068,tlg0057,tlg068,Galenus,Galenus,De venae sectione adversus Erasistratum,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6843
+0057-069,tlg0057,tlg069,Galenus,Galenus,De venae sectione adversus Erasistrateos Romae degentes,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,10256
+0057-070,tlg0057,tlg070,Galenus,Galenus,De curandi ratione per venae sectionem,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,11356
+0057-071,tlg0057,tlg071,Galenus,Galenus,"De hirudinibus, revulsione, cucurbitula, incisione et scarificatione",Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,801
+0057-072,tlg0057,tlg072,Galenus,Galenus,De purgantium medicamentorum facultate,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3376
+0057-073,tlg0057,tlg073,Galenus,Galenus,Quos quibus catharticis medicamentis et quando purgare oporteat,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2248
+0057-074,tlg0057,tlg074,Galenus,Galenus,Pro puero epileptico consilium,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3644
+0057-075,tlg0057,tlg075,Galenus,Galenus,De simplicium medicamentorum temperamentis ac facultatibus libri xi,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,149539
+0057-076,tlg0057,tlg076,Galenus,Galenus,De compositione medicamentorum secundum locos libri x,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,169220
+0057-077,tlg0057,tlg077,Galenus,Galenus,De compositione medicamentorum per genera libri vii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,122680
+0057-078,tlg0057,tlg078,Galenus,Galenus,De antidotis libri ii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,34145
+0057-079,tlg0057,tlg079,Galenus,Galenus,De theriaca ad Pisonem,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,14733
+0057-081,tlg0057,tlg081,Galenus,Galenus,Institutio logica,Philosophy,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,9656
+0057-082,tlg0057,tlg082,Galenus,Galenus,De sophismatis seu captionibus penes dictionem,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2963
+0057-083,tlg0057,tlg083,Galenus,Galenus,De praenotione ad Posthumum,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,12584
+0057-084,tlg0057,tlg084,Galenus,Galenus,De substantia facultatum naturalium fragmentum,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1610
+0057-085,tlg0057,tlg085,Galenus,Galenus,In Hippocratis de natura hominis librum commentarii iii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,27838
+0057-086,tlg0057,tlg086,Galenus,Galenus,In Hippocratis vel Polybi opus de salubri victus ratione privatorum commentarius,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7512
+0057-087,tlg0057,tlg087,Galenus,Galenus,In Hippocratis de victu acutorum commentaria iv,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,76430
+0057-089,tlg0057,tlg089,Galenus,Galenus,In Hippocratis librum primum epidemiarum commentarii iii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,179490
+0057-092,tlg0057,tlg092,Galenus,Galenus,In Hippocratis aphorismos commentarii vii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,109209
+0057-093,tlg0057,tlg093,Galenus,Galenus,Adversus Lycum libellus,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,8459
+0057-094,tlg0057,tlg094,Galenus,Galenus,Adversus ea quae a Juliano in Hippocratis aphorismos enuntiata sunt libellus,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,8672
+0057-095,tlg0057,tlg095,Galenus,Galenus,In Hippocratis librum de articulis et Galeni in eum commentarii iv,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,58352
+0057-096,tlg0057,tlg096,Galenus,Galenus,De humero iis modis prolapso quos Hippocrates non vidit,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,11148
+0057-099,tlg0057,tlg099,Galenus,Galenus,In Hippocratis prognosticum commentaria iii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,48289
+0057-100,tlg0057,tlg100,Galenus,Galenus,In Hippocratis librum de fracturis commentarii iii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,47050
+0057-101,tlg0057,tlg101,Galenus,Galenus,In Hippocratis librum de officina medici commentarii iii,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,46710
+0057-102,tlg0057,tlg102,Galenus,Galenus,De musculorum dissectione ad tirones,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,16136
+0057-103,tlg0057,tlg103,Galenus,Galenus,De consuetudinibus,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4485
+0057-107,tlg0057,tlg107,Galenus,Galenus,De experientia medica,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1178
+0057-111,tlg0057,tlg111,Galenus,Galenus,Quod qualitates incorporeae sint,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3755
+0057-114,tlg0057,tlg114,Galenus,Galenus,De causis respirationis,Medicine,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,775
+1419-001,tlg1419,tlg001,Hermas,Hermas,Pastor,Religious Prophecy,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,32014
+0087-004,tlg0087,tlg004,Aelius Herodianus et Pseudo-Herodianus,Aelius Herodianus et Pseudo-Herodianus,Περὶ διχρόνων,Language,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,4877
+1451-003,tlg1451,tlg003,Josephus Et Aseneth,Josephus Et Aseneth,Confessio et precatio Aseneth,Religious Narrative,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,14704
+0561-001,tlg0561,tlg001,Longo Sofista,Longus,Daphnis et Chloe,Narrative,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,22837
+0062-001,tlg0062,tlg001,Luciano di Samosata,Lucianus,Phalaris,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3295
+0062-002,tlg0062,tlg002,Luciano di Samosata,Lucianus,Hippias,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1092
+0062-003,tlg0062,tlg003,Luciano di Samosata,Lucianus,Bacchus,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1188
+0062-004,tlg0062,tlg004,Luciano di Samosata,Lucianus,Hercules,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,875
+0062-005,tlg0062,tlg005,Luciano di Samosata,Lucianus,Electrum,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,700
+0062-006,tlg0062,tlg006,Luciano di Samosata,Lucianus,Muscae encomium,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1346
+0062-007,tlg0062,tlg007,Luciano di Samosata,Lucianus,Nigrinus,Philosophical dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4597
+0062-008,tlg0062,tlg008,Luciano di Samosata,Lucianus,Demonax,Biography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3832
+0062-009,tlg0062,tlg009,Luciano di Samosata,Lucianus,De domo,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3491
+0062-010,tlg0062,tlg010,Luciano di Samosata,Lucianus,Patriae encomium,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1079
+0062-011,tlg0062,tlg011,Luciano di Samosata,Lucianus,Macrobii,Paradoxography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2354
+0062-012,tlg0062,tlg012,Luciano di Samosata,Lucianus,Verae historiae,Narrative,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,12780
+0062-013,tlg0062,tlg013,Luciano di Samosata,Lucianus,Calumniae non temere credendum,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3538
+0062-014,tlg0062,tlg014,Luciano di Samosata,Lucianus,Lis consonantium,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1313
+0062-015,tlg0062,tlg015,Luciano di Samosata,Lucianus,Symposium,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,5540
+0062-016,tlg0062,tlg016,Luciano di Samosata,Lucianus,Cataplus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4603
+0062-017,tlg0062,tlg017,Luciano di Samosata,Lucianus,Juppiter confutatus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2634
+0062-018,tlg0062,tlg018,Luciano di Samosata,Lucianus,Juppiter tragoedus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7623
+0062-019,tlg0062,tlg019,Luciano di Samosata,Lucianus,Gallus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6496
+0062-020,tlg0062,tlg020,Luciano di Samosata,Lucianus,Prometheus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2748
+0062-021,tlg0062,tlg021,Luciano di Samosata,Lucianus,Icaromenippus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6063
+0062-022,tlg0062,tlg022,Luciano di Samosata,Lucianus,Timon,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6835
+0062-023,tlg0062,tlg023,Luciano di Samosata,Lucianus,Charon sive contemplantes,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4803
+0062-024,tlg0062,tlg024,Luciano di Samosata,Lucianus,Vitarum auctio,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4091
+0062-025,tlg0062,tlg025,Luciano di Samosata,Lucianus,Revivescentes sive piscator,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7345
+0062-026,tlg0062,tlg026,Luciano di Samosata,Lucianus,Bis accusatus sive tribunalia,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6497
+0062-027,tlg0062,tlg027,Luciano di Samosata,Lucianus,De sacrificiis,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1995
+0062-028,tlg0062,tlg028,Luciano di Samosata,Lucianus,Adversus indoctum et libros multos ementem,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4334
+0062-029,tlg0062,tlg029,Luciano di Samosata,Lucianus,Somnium sive vita Luciani,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2104
+0062-030,tlg0062,tlg030,Luciano di Samosata,Lucianus,De parasito sive artem esse parasiticam,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7450
+0062-031,tlg0062,tlg031,Luciano di Samosata,Lucianus,Philopseudes sive incredulus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7552
+0062-032,tlg0062,tlg032,Luciano di Samosata,Lucianus,Dearum judicium,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2368
+0062-033,tlg0062,tlg033,Luciano di Samosata,Lucianus,De mercede conductis potentium familiaribus,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,8090
+0062-034,tlg0062,tlg034,Luciano di Samosata,Lucianus,Anacharsis,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7187
+0062-035,tlg0062,tlg035,Luciano di Samosata,Lucianus,Menippus sive necyomantia,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3741
+0062-036,tlg0062,tlg036,Luciano di Samosata,Lucianus,De luctu,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1996
+0062-037,tlg0062,tlg037,Luciano di Samosata,Lucianus,Rhetorum praeceptor,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4033
+0062-038,tlg0062,tlg038,Luciano di Samosata,Lucianus,Alexander,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7929
+0062-039,tlg0062,tlg039,Luciano di Samosata,Lucianus,Imagines,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3700
+0062-040,tlg0062,tlg040,Luciano di Samosata,Lucianus,Pro imaginibus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4092
+0062-041,tlg0062,tlg041,Luciano di Samosata,Lucianus,De Syria dea,Historiography,Ionic,101,200,101 – 200 CE,2nd c. CE,Imperial,7147
+0062-042,tlg0062,tlg042,Luciano di Samosata,Lucianus,De morte Peregrini,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4829
+0062-043,tlg0062,tlg043,Luciano di Samosata,Lucianus,Fugitivi,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3692
+0062-044,tlg0062,tlg044,Luciano di Samosata,Lucianus,Toxaris vel amicitia,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,11180
+0062-045,tlg0062,tlg045,Luciano di Samosata,Lucianus,De saltatione,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,7960
+0062-046,tlg0062,tlg046,Luciano di Samosata,Lucianus,Lexiphanes,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3376
+0062-047,tlg0062,tlg047,Luciano di Samosata,Lucianus,Eunuchus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1501
+0062-048,tlg0062,tlg048,Luciano di Samosata,Lucianus,De astrologia,Astronomy/Astrology,Ionic,101,200,101 – 200 CE,2nd c. CE,Imperial,2225
+0062-049,tlg0062,tlg049,Luciano di Samosata,Lucianus,Pseudologista,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4540
+0062-050,tlg0062,tlg050,Luciano di Samosata,Lucianus,Deorum concilium,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2145
+0062-051,tlg0062,tlg051,Luciano di Samosata,Lucianus,Tyrannicida,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,3396
+0062-052,tlg0062,tlg052,Luciano di Samosata,Lucianus,Abdicatus,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,5551
+0062-053,tlg0062,tlg053,Luciano di Samosata,Lucianus,Quomodo historia conscribenda sit,Historiography,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,8712
+0062-054,tlg0062,tlg054,Luciano di Samosata,Lucianus,Dipsades,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1069
+0062-055,tlg0062,tlg055,Luciano di Samosata,Lucianus,Saturnalia,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,5983
+0062-056,tlg0062,tlg056,Luciano di Samosata,Lucianus,Herodotus,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1054
+0062-057,tlg0062,tlg057,Luciano di Samosata,Lucianus,Zeuxis,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1808
+0062-058,tlg0062,tlg058,Luciano di Samosata,Lucianus,Pro lapsu inter salutandum,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1870
+0062-059,tlg0062,tlg059,Luciano di Samosata,Lucianus,Apologia,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2347
+0062-060,tlg0062,tlg060,Luciano di Samosata,Lucianus,Harmonides,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1129
+0062-061,tlg0062,tlg061,Luciano di Samosata,Lucianus,Hesiodus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1061
+0062-062,tlg0062,tlg062,Luciano di Samosata,Lucianus,Scytha,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2161
+0062-063,tlg0062,tlg063,Luciano di Samosata,Lucianus,Hermotimus,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,16366
+0062-064,tlg0062,tlg064,Luciano di Samosata,Lucianus,Prometheus es in verbis,Oratory,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,1159
+0062-065,tlg0062,tlg065,Luciano di Samosata,Lucianus,Navigium,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,6148
+0062-066,tlg0062,tlg066,Luciano di Samosata,Lucianus,Dialogi mortuorum,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,13221
+0062-067,tlg0062,tlg067,Luciano di Samosata,Lucianus,Dialogi marini,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4703
+0062-068,tlg0062,tlg068,Luciano di Samosata,Lucianus,Dialogi deorum,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,8956
+0062-069,tlg0062,tlg069,Luciano di Samosata,Lucianus,Dialogi meretricii,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,9581
+0062-070,tlg0062,tlg070,Luciano di Samosata,Lucianus,Soloecista,Dialogue,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,2337
+0062-071,tlg0062,tlg071,Luciano di Samosata,Lucianus,Podagra,Lyric poetry,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,2155
+0562-001,tlg0562,tlg001,Marcus Aurelius Antoninus Imperator,Marcus Aurelius Antoninus Imperator,Τὰ εἰς ἑαυτόν,Philosophy,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,34226
+0563-001,tlg0563,tlg001,Maximus,Maximus,Dialexeis,Rhetoric,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,79803
+1487-001,tlg1487,tlg001,Maximus Astrologus,Maximus Astrologus,Περὶ καταρχῶν,Didactic poetry,Ionic/Epic,101,200,101 – 200 CE,2nd c. CE,Imperial,4592
+1487-002,tlg1487,tlg002,Maximus Astrologus,Maximus Astrologus,Περὶ καταρχῶν,Astronomy/Astrology,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,2445
+0268-002,tlg0268,tlg002,Mesomedes,Mesomedes,Epigrammata,Lyric poetry,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,129
+0358-001,tlg0358,tlg001,Nicomachus,Nicomachus,Introductio arithmetica,Mathematics,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,27463
+0358-002,tlg0358,tlg002,Nicomachus,Nicomachus,Harmonicum enchiridion,Music,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,5512
+0358-004,tlg0358,tlg004,Nicomachus,Nicomachus,Excerpta,Music,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,2660
+0358-005,tlg0358,tlg005,Nicomachus,Nicomachus,Problemata arithmetica,Mathematics,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,1368
+0023-001,tlg0023,tlg001,Oppianus,Oppianus,Halieutica,Didactic poetry,Ionic/Epic,101,200,101 – 200 CE,2nd c. CE,Imperial,26437
+1550-001,tlg1550,tlg001,Oracula Chaldaica,Oracula Chaldaica,Oracula,Oracles,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,3013
+1772-001,tlg1772,tlg001,Paraleipomena Jeremiou,Paraleipomena Jeremiou,Paraleipomena Jeremiou,Religious Narrative,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4937
+0525-001,tlg0525,tlg001,Pausanias,Pausanias,Graeciae descriptio,Geography,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,242433
+0671-001,tlg0671,tlg001,Philumenus,Philumenus,De venenatis animalibus eorumque remediis,Medicine,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,10406
+1608-001,tlg1608,tlg001,Phrynichus,Phrynichus,Praeparatio sophistica,Language,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,17197
+1608-002,tlg1608,tlg002,Phrynichus,Phrynichus,Eclogae,Language,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,10322
+0542-001,tlg0542,tlg001,Julius Pollux,Julius Pollux,Onomasticon,Language,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,144900
+0616-001,tlg0616,tlg001,Polyaenus,Polyaenus,Strategemata,Military,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,68134
+1637-001,tlg1637,tlg001,Protevangelium Jacobi,Protevangelium Jacobi,Protevangelium Jacobi,Religious History,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,4762
+1271-002,tlg1271,tlg002,Pseudo-Clemens,Pseudo-Clemens,Epistula ii ad Corinthios,Epistolography,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,3525
+0613-001,tlg0613,tlg001,Pseudo-Demetrius,Pseudo-Demetrius,De elocutione,Rhetoric,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,18683
+0061-001,tlg0061,tlg001,Pseudo-Luciano,Pseudo-Lucianus,Asinus,Narrative,Attic/Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,11014
+0061-009,tlg0061,tlg009,Pseudo-Luciano,Pseudo-Lucianus,Epigramma,Lyric poetry,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,33
+0061-010,tlg0061,tlg010,Pseudo-Luciano,Pseudo-Lucianus,Epigrammata,Lyric poetry,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,1267
+0606-001,tlg0606,tlg001,Rufus,Rufus,Ars rhetorica,Rhetoric,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,1665
+0527-018,tlg0527,tlg018,Settanta (Anonimo),Septuaginta,Esdras ii,Religious History,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,15171
+1766-001,tlg1766,tlg001,Tatianus,Tatianus,Oratio ad Graecos,Oratory,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,11829
+1724-001,tlg1724,tlg001,Theon,Theon,De utilitate mathematicae,Mathematics,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,42052
+1725-001,tlg1725,tlg001,Theophilus,Theophilus,Ad Autolycum,Oratory,Koine,101,200,101 – 200 CE,2nd c. CE,Imperial,24920
+0098-001,tlg0098,tlg001,Zenobius Sophista,Zenobius Sophista,Epitome collectionum Lucilli Tarrhaei et Didymi,Language,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,24313
+0384-002,tlg0384,tlg002,Acta Justini Et Septem Sodalium,Acta Justini Et Septem Sodalium,Acta Justini et septem sodalium,Religious Narrative,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,960
+0391-001,tlg0391,tlg001,Acta Scillitanorum Martyrum,Acta Scillitanorum Martyrum,Acta Scillitanorum martyrum sive passio Sperati et sociorum,Religious Narrative,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,758
+0545-001,tlg0545,tlg001,Claudius Aelianus,Claudius Aelianus,De natura animalium,Biology,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,117496
+0545-002,tlg0545,tlg002,Claudius Aelianus,Claudius Aelianus,Varia historia,Paradoxography,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,44160
+0545-003,tlg0545,tlg003,Claudius Aelianus,Claudius Aelianus,Epistulae rusticae,Epistolography,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,2429
+0732-001,tlg0732,tlg001,Alexander,Alexander,De mixtione,Medicine,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,11289
+0732-011,tlg0732,tlg011,Alexander,Alexander,De anima libri mantissa,Philosophy,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,40753
+0732-012,tlg0732,tlg012,Alexander,Alexander,Ἀπορίαι καὶ λύσεις,Philosophy,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,46248
+1131-001,tlg1131,tlg001,Anonymus Ad Avircium Marcellum Contra Cataphrygas,Anonymus Ad Avircium Marcellum Contra Cataphrygas,Ad Avircium Marcellum contra Cataphrygas,Theology,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,1294
+0008-001,tlg0008,tlg001,Ateneo di Naucrati,Athenaeus,Deipnosophistae,Erudition,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,314256
+0141-002,tlg0141,tlg002,Athenaeus,Athenaeus,Epigramma,Lyric poetry,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,45
+0385-001,tlg0385,tlg001,Cassius Dio,Cassius Dio,Historiae Romanae,Historiography,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,215016
+0555-001,tlg0555,tlg001,Clemens Alexandrinus,Clemens Alexandrinus,Protrepticus,Philosophy,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,27814
+0555-002,tlg0555,tlg002,Clemens Alexandrinus,Clemens Alexandrinus,Paedagogus,Philosophy,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,67215
+0555-003,tlg0555,tlg003,Clemens Alexandrinus,Clemens Alexandrinus,Hymnus Christi servatoris,Religious poetry,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,177
+0555-004,tlg0555,tlg004,Clemens Alexandrinus,Clemens Alexandrinus,Stromata,Philosophy,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,191379
+0555-005,tlg0555,tlg005,Clemens Alexandrinus,Clemens Alexandrinus,Eclogae propheticae,Philosophy,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,6024
+0555-006,tlg0555,tlg006,Clemens Alexandrinus,Clemens Alexandrinus,Quis dives salvetur,Theology,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,10793
+0555-007,tlg0555,tlg007,Clemens Alexandrinus,Clemens Alexandrinus,Excerpta ex Theodoto,Theology,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,9007
+0555-008,tlg0555,tlg008,Clemens Alexandrinus,Clemens Alexandrinus,Fragmenta,Theology,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,777
+0592-001,tlg0592,tlg001,Hermogenes,Hermogenes,Progymnasmata,Rhetoric,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,4730
+0592-002,tlg0592,tlg002,Hermogenes,Hermogenes,Περὶ στάσεων,Rhetoric,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,12316
+0592-003,tlg0592,tlg003,Hermogenes,Hermogenes,Περὶ εὑρέσεως,Rhetoric,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,23966
+0592-004,tlg0592,tlg004,Hermogenes,Hermogenes,Περὶ ἰδεῶν λόγου,Rhetoric,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,46717
+0592-005,tlg0592,tlg005,Hermogenes,Hermogenes,Περὶ μεθόδου δεινότητος,Rhetoric,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,7599
+0015-001,tlg0015,tlg001,Herodianus,Herodianus,Ab excessu divi Marci,Historiography,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,53141
+0024-001,tlg0024,tlg001,Oppianus,Oppianus,Cynegetica,Didactic poetry,Ionic/Epic,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,15894
+2042-001,tlg2042,tlg001,Origenes,Origenes,Contra Celsum,Theology,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,188817
+2042-005,tlg2042,tlg005,Origenes,Origenes,Commentarii in evangelium Joannis,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,176596
+2042-006,tlg2042,tlg006,Origenes,Origenes,Fragmenta in evangelium Joannis,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,25664
+2042-007,tlg2042,tlg007,Origenes,Origenes,Exhortatio ad martyrium,Theology,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,14701
+2042-008,tlg2042,tlg008,Origenes,Origenes,De oratione,Theology,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,33918
+2042-009,tlg2042,tlg009,Origenes,Origenes,In Jeremiam,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,67088
+2042-010,tlg2042,tlg010,Origenes,Origenes,Fragmenta in Jeremiam,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,9786
+2042-011,tlg2042,tlg011,Origenes,Origenes,Fragmenta in Lamentationes,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,12172
+2042-012,tlg2042,tlg012,Origenes,Origenes,Fragmentum in Lamentationes,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,186
+2042-013,tlg2042,tlg013,Origenes,Origenes,De engastrimytho,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,4324
+2042-014,tlg2042,tlg014,Origenes,Origenes,Fragmenta in librum primum Regnorum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,2216
+2042-015,tlg2042,tlg015,Origenes,Origenes,Fragmentum in librum primum Regnorum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,95
+2042-016,tlg2042,tlg016,Origenes,Origenes,Homiliae in Lucam,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,14469
+2042-018,tlg2042,tlg018,Origenes,Origenes,Dialogus cum Heraclide,Theology,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,6667
+2042-020,tlg2042,tlg020,Origenes,Origenes,Philocalia sive Ecloga de operibus Origenis a Basilio et Gregorio Nazianzeno facta,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,16164
+2042-022,tlg2042,tlg022,Origenes,Origenes,Homiliae in Genesim,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,1187
+2042-023,tlg2042,tlg023,Origenes,Origenes,Homiliae in Exodum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,1121
+2042-024,tlg2042,tlg024,Origenes,Origenes,Homiliae in Leviticum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,1884
+2042-025,tlg2042,tlg025,Origenes,Origenes,In Jesu Nave homiliae xxvi,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,5441
+2042-026,tlg2042,tlg026,Origenes,Origenes,Libri x in Canticum canticorum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,3585
+2042-027,tlg2042,tlg027,Origenes,Origenes,Homiliae in Ezechielem,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,1753
+2042-028,tlg2042,tlg028,Origenes,Origenes,Commentariorum series in evangelium Matthaei,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,5084
+2042-029,tlg2042,tlg029,Origenes,Origenes,Commentarium in evangelium Matthaei,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,25681
+2042-030,tlg2042,tlg030,Origenes,Origenes,Commentarium in evangelium Matthaei,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,104758
+2042-033,tlg2042,tlg033,Origenes,Origenes,Epistula ad Gregorium Thaumaturgum,Epistolography,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,944
+2042-040,tlg2042,tlg040,Origenes,Origenes,Epistula ad ignotum,Epistolography,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,136
+2042-045,tlg2042,tlg045,Origenes,Origenes,Epistula ad Africanum,Epistolography,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,6223
+2042-046,tlg2042,tlg046,Origenes,Origenes,De resurrectione libri ii,Theology,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,297
+2042-047,tlg2042,tlg047,Origenes,Origenes,Commentarii in Genesim,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,7910
+2042-048,tlg2042,tlg048,Origenes,Origenes,Selecta in Genesim,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,12225
+2042-049,tlg2042,tlg049,Origenes,Origenes,Fragmenta ex commentariis in Exodum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,3969
+2042-050,tlg2042,tlg050,Origenes,Origenes,Selecta in Exodum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,3887
+2042-051,tlg2042,tlg051,Origenes,Origenes,Selecta in Leviticum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,1798
+2042-052,tlg2042,tlg052,Origenes,Origenes,Selecta in Numeros,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,2076
+2042-053,tlg2042,tlg053,Origenes,Origenes,Selecta in Deuteronomium,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,2986
+2042-054,tlg2042,tlg054,Origenes,Origenes,Selecta in Jesu Nave,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,1132
+2042-055,tlg2042,tlg055,Origenes,Origenes,Selecta in Judices,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,344
+2042-056,tlg2042,tlg056,Origenes,Origenes,In Ruth,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,64
+2042-057,tlg2042,tlg057,Origenes,Origenes,Homiliae in Job,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,4288
+2042-059,tlg2042,tlg059,Origenes,Origenes,Fragmenta ex commentariis in Proverbia,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,4046
+2042-060,tlg2042,tlg060,Origenes,Origenes,In Canticum canticorum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,176
+2042-061,tlg2042,tlg061,Origenes,Origenes,Fragmenta ex commentariis in Ezechielem,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,496
+2042-062,tlg2042,tlg062,Origenes,Origenes,Selecta in Ezechielem,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,13447
+2042-063,tlg2042,tlg063,Origenes,Origenes,Fragmentum ex commentariis in Osee,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,698
+2042-064,tlg2042,tlg064,Origenes,Origenes,Fragmentum ex homiliis in Acta apostolorum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,216
+2042-065,tlg2042,tlg065,Origenes,Origenes,In epistulam ad Hebraeos homiliae,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,195
+2042-066,tlg2042,tlg066,Origenes,Origenes,Adnotationes in Genesim,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,765
+2042-067,tlg2042,tlg067,Origenes,Origenes,Adnotationes in Exodum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,291
+2042-068,tlg2042,tlg068,Origenes,Origenes,Adnotationes in Leviticum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,764
+2042-069,tlg2042,tlg069,Origenes,Origenes,Adnotationes in Numeros,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,261
+2042-070,tlg2042,tlg070,Origenes,Origenes,Adnotationes in Deuteronomium,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,2685
+2042-071,tlg2042,tlg071,Origenes,Origenes,Adnotationes in Jesu filium Nave,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,201
+2042-072,tlg2042,tlg072,Origenes,Origenes,Adnotationes in Judices,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,239
+2042-073,tlg2042,tlg073,Origenes,Origenes,Homiliae in Job,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,10030
+2042-074,tlg2042,tlg074,Origenes,Origenes,Excerpta in Psalmos,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,10425
+2042-075,tlg2042,tlg075,Origenes,Origenes,Expositio in Proverbia,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,21229
+2042-076,tlg2042,tlg076,Origenes,Origenes,Scholia in Canticum canticorum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,8196
+2042-077,tlg2042,tlg077,Origenes,Origenes,Scholia in Matthaeum,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,5214
+2042-078,tlg2042,tlg078,Origenes,Origenes,Scholia in Lucam,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,13442
+2042-079,tlg2042,tlg079,Origenes,Origenes,Commentarii in evangelium Joannis,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,70532
+2042-086,tlg2042,tlg086,Origenes,Origenes,Homiliae in Job,Commentary,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,7417
+0638-001,tlg0638,tlg001,Flavius Philostratus,Flavius Philostratus,Vita Apollonii,Biography,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,100923
+0638-003,tlg0638,tlg003,Flavius Philostratus,Flavius Philostratus,Vitae sophistarum,Biography,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,33452
+0638-004,tlg0638,tlg004,Flavius Philostratus,Flavius Philostratus,Heroicus,Dialogue,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,25261
+0638-005,tlg0638,tlg005,Flavius Philostratus,Flavius Philostratus,Nero,Dialogue,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,1143
+0638-006,tlg0638,tlg006,Flavius Philostratus,Flavius Philostratus,Epistulae et dialexeis,Epistolography,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,8914
+0638-007,tlg0638,tlg007,Flavius Philostratus,Flavius Philostratus,De gymnastica,Historiography,Attic/Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,8774
+0638-009,tlg0638,tlg009,Flavius Philostratus,Flavius Philostratus,Epigramma,Lyric poetry,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,54
+1600-001,tlg1600,tlg001,Philostratus Major,Philostratus Major,Imagines,Art,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,26321
+0094-002,tlg0094,tlg002,Pseudo-Plutarchus,Pseudo-Plutarchus,De musica,Music,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,8933
+1665-001,tlg1665,tlg001,Seniores Apud Irenaeum,Seniores Apud Irenaeum,Reliquiae plurium anonymorum,Theology,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,373
+1666-001,tlg1666,tlg001,Sententiae Sexti,Sententiae Sexti,Sententiae Sexti,Philosophy,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,4331
+0544-001,tlg0544,tlg001,Sesto Empirico,Sextus Empiricus,Pyrrhoniae hypotyposes,Philosophy,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,59003
+1702-001,tlg1702,tlg001,Testamentum Jobi,Testamentum Jobi,Testamentum Jobi,Religious Narrative,Koine,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,7696
+0641-001,tlg0641,tlg001,Xenophon,Xenophon,Ephesiaca,Narrative,Unknown,101,300,101 – 300 CE,2nd–3rd c. CE,Imperial,19250
+0090-001,tlg0090,tlg001,Agathemerus,Agathemerus,Geographiae informatio,Geography,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,2323
+1286-001,tlg1286,tlg001,Corpus Hermeticum,Corpus Hermeticum,Poimandres,Philosophy,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,2676
+1286-002,tlg1286,tlg002,Corpus Hermeticum,Corpus Hermeticum,Dialogus,Philosophical dialogue,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,1574
+1286-003,tlg1286,tlg003,Corpus Hermeticum,Corpus Hermeticum,Hieros logos,Philosophy,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,352
+1286-004,tlg1286,tlg004,Corpus Hermeticum,Corpus Hermeticum,Πρὸς Τὰτ ὁ κρατὴρ ἢ μονάς,Philosophical dialogue,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,1035
+1286-005,tlg1286,tlg005,Corpus Hermeticum,Corpus Hermeticum,Πρὸς Τὰτ υἱὸν ὅτι ἀφανὴς θεὸς φανερώτατός ἐστιν,Philosophical dialogue,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,1274
+1286-006,tlg1286,tlg006,Corpus Hermeticum,Corpus Hermeticum,"Ὅτι ἐν μόνῳ τῷ θεῷ τὸ ἀγαθόν ἐστιν, ἀλλαχόθι δὲ οὐδαμοῦ",Philosophical dialogue,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,894
+1286-007,tlg1286,tlg007,Corpus Hermeticum,Corpus Hermeticum,Ὅτι μέγιστον κακὸν ἐν ἀνθρώποις ἡ περὶ τοῦ θεοῦ ἀγνωσία,Philosophy,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,287
+1286-008,tlg1286,tlg008,Corpus Hermeticum,Corpus Hermeticum,"Ὅτι οὐδὲν τῶν ὄντων ἀπόλλυται, ἀλλὰ τὰς μεταβολὰς ἀπωλείας καὶ θανάτους πλανώμενοι λέγουσιν",Philosophical dialogue,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,529
+1286-009,tlg1286,tlg009,Corpus Hermeticum,Corpus Hermeticum,"Περὶ νοήσεως καὶ αἰσθήσεως. [ὅτι ἐν μόνῳ τῷ θεῷ τὸ καλὸν καὶ ἀγαθόν ἐστιν, ἀλλαχόθι δὲ οὐδαμοῦ]",Philosophical dialogue,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,1125
+1286-010,tlg1286,tlg010,Corpus Hermeticum,Corpus Hermeticum,Κλείς,Philosophical dialogue,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,2781
+1286-011,tlg1286,tlg011,Corpus Hermeticum,Corpus Hermeticum,Νοῦς πρὸς Ἑρμῆν,Philosophical dialogue,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,2576
+1286-012,tlg1286,tlg012,Corpus Hermeticum,Corpus Hermeticum,Περὶ νοῦ κοινοῦ πρὸς Τάτ,Philosophical dialogue,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,2410
+1286-013,tlg1286,tlg013,Corpus Hermeticum,Corpus Hermeticum,"Πρὸς τὸν υἱὸν Τὰτ ἐν ὄρει λόγος ἀπόκρυφος, περὶ παλιγγενεσίας καὶ σιγῆς ἐπαγγελίας",Philosophical dialogue,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,2162
+0004-001,tlg0004,tlg001,Diogenes Laertius,Diogenes Laertius,Vitae philosophorum,Biography,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,130661
+0004-002,tlg0004,tlg002,Diogenes Laertius,Diogenes Laertius,Epigrammata,Lyric poetry,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,1244
+2063-005,tlg2063,tlg005,Gregorius Thaumaturgus,Gregorius Thaumaturgus,Epistula canonica,Epistolography,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,1205
+0658-001,tlg0658,tlg001,Heliodorus,Heliodorus,Aethiopica,Narrative,Attic/Koine,201,300,201 – 300 CE,3rd c. CE,Imperial,89151
+0658-002,tlg0658,tlg002,Heliodorus,Heliodorus,Epigrammata,Lyric poetry,Aeolic,201,300,201 – 300 CE,3rd c. CE,Imperial,102
+2115-060,tlg2115,tlg060,Hippolytus,Hippolytus,Refutatio omnium haeresium,Theology,Koine,201,300,201 – 300 CE,3rd c. CE,Imperial,81518
+2178-001,tlg2178,tlg001,Cassius Longinus,Cassius Longinus,Ars rhetorica,Rhetoric,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,6311
+2178-002,tlg2178,tlg002,Cassius Longinus,Cassius Longinus,Excerpta,Rhetoric,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,748
+2583-001,tlg2583,tlg001,Manetho,Manetho,Apotelesmatica,Didactic poetry,Ionic/Epic,201,300,201 – 300 CE,3rd c. CE,Imperial,22992
+2009-001,tlg2009,tlg001,Vitae Sancti Marini,Vitae Sancti Marini,Martyrium Marini,Religious Narrative,Koine,201,300,201 – 300 CE,3rd c. CE,Imperial,293
+2016-001,tlg2016,tlg001,Vitae Sanctorum Perpetuae Et Felicitatis,Vitae Sanctorum Perpetuae Et Felicitatis,Passio Perpetuae et Felicitatis,Religious Narrative,Koine,201,300,201 – 300 CE,3rd c. CE,Imperial,4566
+2007-001,tlg2007,tlg001,Vitae Sanctorum Potamiaenae Et Basilidis,Vitae Sanctorum Potamiaenae Et Basilidis,Martyrium Potamiaenae et Basilidis,Religious Narrative,Koine,201,300,201 – 300 CE,3rd c. CE,Imperial,421
+0581-001,tlg0581,tlg001,Paradoxographus Palatinus,Paradoxographus Palatinus,Admiranda,Paradoxography,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,685
+0077-001,tlg0077,tlg001,Periplus Maris Magni,Periplus Maris Magni,Stadiasmus sive periplus Maris Magni,Geography,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,6693
+0652-001,tlg0652,tlg001,Philostratus Junior,Philostratus Junior,Imagines,Art,Attic/Koine,201,300,201 – 300 CE,3rd c. CE,Imperial,8053
+2000-001,tlg2000,tlg001,Plotinus,Plotinus,Enneades,Philosophy,Attic/Koine,201,300,201 – 300 CE,3rd c. CE,Imperial,246704
+2034-001,tlg2034,tlg001,Porphyrius,Porphyrius,Vita Plotini,Biography,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,9190
+2034-002,tlg2034,tlg002,Porphyrius,Porphyrius,Vita Pythagorae,Biography,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,6551
+2034-003,tlg2034,tlg003,Porphyrius,Porphyrius,De abstinentia,Philosophy,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,39825
+2034-004,tlg2034,tlg004,Porphyrius,Porphyrius,De antro nympharum,Commentary,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,5554
+2034-005,tlg2034,tlg005,Porphyrius,Porphyrius,Ad Marcellam,Philosophy,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,5186
+2034-006,tlg2034,tlg006,Porphyrius,Porphyrius,Isagoge sive quinque voces,Commentary,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,6369
+2034-008,tlg2034,tlg008,Porphyrius,Porphyrius,Sententiae ad intelligibilia ducentes,Philosophy,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,8659
+2034-028,tlg2034,tlg028,Porphyrius,Porphyrius,Introductio in tetrabiblum Ptolemaei,Astronomy/Astrology,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,9671
+2046-001,tlg2046,tlg001,Quintus,Quintus,Posthomerica,Epic poetry,Ionic/Epic,201,300,201 – 300 CE,3rd c. CE,Imperial,69034
+2679-001,tlg2679,tlg001,Testamentum Salomonis,Testamentum Salomonis,Testamentum Salomonis,Religious Narrative,Koine,201,300,201 – 300 CE,3rd c. CE,Imperial,9298
+2679-002,tlg2679,tlg002,Testamentum Salomonis,Testamentum Salomonis,Testamentum Salomonis,Religious Narrative,Koine,201,300,201 – 300 CE,3rd c. CE,Imperial,85
+2027-001,tlg2027,tlg001,Valerius Apsines,Valerius Apsines,Ars rhetorica,Rhetoric,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,21927
+2027-002,tlg2027,tlg002,Valerius Apsines,Valerius Apsines,Περὶ τῶν ἐσχηματισμένων προβλημάτων,Rhetoric,Unknown,201,300,201 – 300 CE,3rd c. CE,Imperial,2128
+2135-001,tlg2135,tlg001,Alypius,Alypius,Isagoge musica,Music,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,5002
+2243-001,tlg2243,tlg001,Apocalypsis Sedrach,Apocalypsis Sedrach,Apocalypsis Sedrach,Religious Prophecy,Koine,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,2741
+2136-001,tlg2136,tlg001,Bacchius Geron,Bacchius Geron,Isagoge artis musicae,Music,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,4108
+2137-001,tlg2137,tlg001,Gaudentius,Gaudentius,Harmonica introductio,Music,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,5446
+1386-001,tlg1386,tlg001,Historia Alexandri Magni,Historia Alexandri Magni,Recensio α sive Recensio vetusta,Narrative,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,38750
+2023-002,tlg2023,tlg002,Iamblichus,Iamblichus,Protrepticus,Philosophy,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,29294
+2586-001,tlg2586,tlg001,Menander,Menander,Διαίρεσις τῶν ἐπιδεικτικῶν,Rhetoric,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,10478
+2586-002,tlg2586,tlg002,Menander,Menander,Περὶ ἐπιδεικτικῶν,Rhetoric,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,22476
+2959-001,tlg2959,tlg001,Methodius Episcopus,Methodius Episcopus,Symposium sive Convivium decem virginum,Philosophical dialogue,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,32608
+2959-002,tlg2959,tlg002,Methodius Episcopus,Methodius Episcopus,De Libero Arbitrio,Philosophical dialogue,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,8251
+2959-005,tlg2959,tlg005,Methodius Episcopus,Methodius Episcopus,"De Creatis (Fragmenta Ap. Photium, Bibl. Cod. 235)",Philosophical dialogue,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,2198
+2966-002,tlg2966,tlg002,Phileas,Phileas,Epistula ad Thmuitanos,Epistolography,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,739
+0094-001,tlg0094,tlg001,Pseudo-Plutarchus,Pseudo-Plutarchus,De fluviis,Geography,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,7438
+0094-003,tlg0094,tlg003,Pseudo-Plutarchus,Pseudo-Plutarchus,Placita philosophorum,Historiography,Unknown,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,17532
+0647-001,tlg0647,tlg001,Triphiodorus,Triphiodorus,Ἅλωσις Ἰλίου,Epic poetry,Ionic/Epic,201,400,201 – 400 CE,3rd–4th c. CE,Late antique,4840
+0096-002a,tlg0096,tlg002a,Esopo (Aesopica),Aesopus et Aesopica,Fabulae,Narrative,Unknown,-800,800,800 BCE – 800 CE,8th c. BCE – 8th c. CE,Imperial,80361
+0096-002b,tlg0096,tlg002b,Esopo (Aesopica),Aesopus et Aesopica,Fabulae,Narrative,Unknown,-800,800,800 BCE – 800 CE,8th c. BCE – 8th c. CE,Imperial,48460
+2003-001,tlg2003,tlg001,Giuliano imperatore,Flavius Claudius Julianus Imperator,Ἐγκώμιον εἰς τὸν αὐτοκράτορα Κωνστάντιον,Oratory,Unknown,301,400,301 – 400 CE,4th c. CE,Late antique,13052
+2236-001,tlg2236,tlg001,Peanio (versione greca di Eutropio),Paeanius,Breviarium ab urbe condita,Historiography,Unknown,301,400,301 – 400 CE,4th c. CE,Late antique,26295
+4029-001,tlg4029,tlg001,Procopio di Cesarea,Procopius,De bellis,Historiography,Unknown,501,600,501 – 600 CE,6th c. CE,Late antique,252560
+1443-001,tlg1443,tlg001,Ignatius,Ignatius,Epistulae vii genuinae,Epistolography,Unknown,1,200,1 – 200 CE,1st–2nd c. CE,Imperial,9127
+1484-001,tlg1484,tlg001,Vitae Sancti Polycarpi,Vitae Sancti Polycarpi,Epistula ecclesiae Smyrnensis de martyrio sancti Polycarpi,Epistolography,Unknown,101,200,101 – 200 CE,2nd c. CE,Imperial,3061

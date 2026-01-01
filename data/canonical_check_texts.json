@@ -1,0 +1,315 @@
+{
+ "_source": "Reference titles and descriptions of the checks of the catalogue, in Italian. The English texts are in src/greek_corpus_pipeline/rule_catalog.py (name_en, description_en).",
+ "_note": "These texts are the baseline against which tests/test_canonical_texts.py compares the catalogue and the CSV data/catalogo_controlli.csv. A text changes here only together with the catalogue, and only if the scientific definition of the check changes.",
+ "_count": 77,
+ "controlli": {
+  "agreement-modifier": {
+   "titolo": "Possibile mancato accordo del modificatore",
+   "descrizione": "Un articolo, un aggettivo o un participio attributivo non concorda con la propria testa in genere, numero o caso. Il controllo confronta soltanto i tratti presenti in entrambi i PoS tag e non si applica alle teste ellittiche; l'errore può trovarsi nel modificatore o nella testa."
+  },
+  "annotator-note-in-relation": {
+   "titolo": "Appunto dell'annotatore nel campo relation",
+   "descrizione": "Il campo relation contiene una nota di lavorazione insieme a una possibile etichetta sintattica. Il valore non è una relazione valida e la nota può contraddire l'etichetta riportata; la relazione corretta deve essere stabilita controllando la frase e l'albero."
+  },
+  "apos-suffix-orphan": {
+   "titolo": "Suffisso _AP senza apposizione",
+   "descrizione": "Il token porta _AP o _AP_CO: l’etichetta dichiara che questa parola e un’altra espressione indicano la stessa persona o cosa, come «Socrate, il filosofo». Il programma risale lungo le teste fino alla radice. Se non trova APOS o APOS_CO, segnala il caso: il suffisso dichiara un’apposizione, ma nell’albero manca il collegamento che la rappresenta e il caso deve essere verificato."
+  },
+  "apostrophe-mixed": {
+   "titolo": "Apostrofi di elisione codificati con caratteri diversi",
+   "descrizione": "Nel corpus coesistono più code point usati come apostrofo di elisione. Il programma propone di convertirli tutti in ʼ (U+02BC), adottato come carattere canonico secondo la convenzione seguita da Celano 2025. La sostituzione uniforma la codifica, ma non costituisce un requisito universale dello schema AGDT e viene applicata soltanto se l’utente accetta la proposta."
+  },
+  "aux-finite-verb": {
+   "titolo": "Verbo finito con relazione AuxY o AuxZ",
+   "descrizione": "Il postag identifica un verbo di modo finito, ma il campo relation contiene AuxY o AuxZ, funzioni non normalmente assegnate a un verbo finito nello schema AGDT 2.0. Il caso può riflettere un uso parentetico o avverbiale e deve essere valutato nel contesto."
+  },
+  "aux-governor-without-child": {
+   "titolo": "AuxP o AuxC senza dipendente",
+   "descrizione": "Un token con relazione AuxP o AuxC non ha dipendenti. Normalmente da questi nodi dipende il complemento o la testa della subordinata, ma il dipendente può mancare per ellissi, lacuna o testo interrotto; il caso deve essere verificato senza correzione automatica."
+  },
+  "aux-governs-conjuncts": {
+   "titolo": "Nodo non COORD che regge più congiunti _CO",
+   "descrizione": "Più token marcati con _CO dipendono dallo stesso nodo, ma il nodo non porta la relazione COORD. La struttura dell'albero e le etichette forniscono quindi indicazioni incompatibili e devono essere verificate nel contesto."
+  },
+  "beta-code-form": {
+   "titolo": "Residui di beta code nella forma",
+   "descrizione": "Il campo form contiene simboli riconducibili alla traslitterazione beta code. La conversione in Unicode può essere incompleta o ambigua e deve essere verificata manualmente."
+  },
+  "beta-code-lemma": {
+   "titolo": "Residui di beta code nel lemma",
+   "descrizione": "Il campo lemma contiene simboli riconducibili alla traslitterazione beta code. La conversione in Unicode può essere incompleta o ambigua e deve essere verificata manualmente."
+  },
+  "breathing-impossible": {
+   "titolo": "Apostrofo di elisione codificato come spirito",
+   "descrizione": "In posizione finale compare un carattere di spirito usato come segno autonomo di elisione, invece dell'apostrofo adottato dal profilo di normalizzazione. Il programma sostituisce il carattere soltanto quando non funziona come diacritico della vocale e la trasformazione è univoca."
+  },
+  "case-letter-l": {
+   "titolo": "Locativo, valore ammesso ma raro",
+   "descrizione": "L'ottava posizione del postag contiene l, valore previsto per il locativo ma raro nel corpus. La segnalazione non implica un errore: il caso deve essere verificato nel contesto senza una correzione predefinita."
+  },
+  "case-object": {
+   "titolo": "Oggetto in caso inatteso",
+   "descrizione": "Un nome, pronome o aggettivo sostantivato con relazione OBJ è marcato come nominativo o vocativo. Poiché OBJ può indicare diversi argomenti richiesti dal reggente, devono essere verificati congiuntamente caso, relazione e testa."
+  },
+  "case-subject": {
+   "titolo": "Soggetto in caso inatteso per il contesto",
+   "descrizione": "Un token con relazione SBJ presenta un caso diverso dal nominativo. Il valore può essere giustificato da costruzioni specifiche, come infinitive, assoluti, participi supplementari o attrazione; in assenza di tali condizioni devono essere controllati caso, relazione e testa."
+  },
+  "coord-discordant-conjuncts": {
+   "titolo": "Funzioni diverse nella stessa coordinazione",
+   "descrizione": "Più membri della stessa coordinazione, riconosciuti dal suffisso _CO e collegati allo stesso nodo coordinante, presentano funzioni di base diverse. L’asimmetria può essere corretta oppure dipendere da un’annotazione incoerente; il programma segnala il caso senza proporre una correzione."
+  },
+  "coord-suffix-orphan": {
+   "titolo": "Suffisso _CO senza nodo coordinante",
+   "descrizione": "Il suffisso _CO indica che il token è membro di una coordinazione. Risalendo lungo le teste non viene però trovato un nodo con relazione COORD, direttamente o attraverso una parola funzionale, come una preposizione AuxP o una congiunzione subordinante AuxC; il suffisso e i collegamenti devono essere verificati."
+  },
+  "corpus-not-nfc": {
+   "titolo": "Corpus prevalentemente in NFD",
+   "descrizione": "La quota di valori testuali codificati in forma Unicode NFD supera la soglia definita per il corpus (50%). Il programma converte globalmente i valori in NFC secondo la politica di normalizzazione dichiarata, senza modificare il contenuto grafico."
+  },
+  "creon-anomaly": {
+   "titolo": "χρεὼν nominale con PoS incompleto",
+   "descrizione": "La forma χρεὼν presenta un'analisi nominale incompleta. Il valore n-s---nn- può essere proposto soltanto per occorrenze validate come nome neutro singolare nominativo; analisi verbali o letture diverse richiedono una revisione contestuale."
+  },
+  "degree-underscore": {
+   "titolo": "Trattino basso nella posizione del grado",
+   "descrizione": "La nona posizione del postag contiene _ al posto di -. Il programma sostituisce il trattino basso con il trattino previsto, evitando che etichette equivalenti siano contate come valori diversi."
+  },
+  "dein-participle": {
+   "titolo": "δεῖν con modo participiale",
+   "descrizione": "La forma δεῖν è annotata con p nella posizione del modo, cioè come participio. Nelle occorrenze non controverse, δεῖν è l'infinito di δεῖ e richiede n."
+  },
+  "deina-anomaly": {
+   "titolo": "δεῖνʼ pronominale con PoS incompleto",
+   "descrizione": "La forma elisa δεῖνʼ, quando rappresenta il pronome δεῖνα, presenta un postag incompleto e contenente trattini bassi. Un'etichetta completa può essere proposta soltanto se genere, numero e caso sono ricavabili univocamente dal contesto o se l'occorrenza è già stata validata."
+  },
+  "double-accent": {
+   "titolo": "Due accenti sulla stessa parola",
+   "descrizione": "Il campo form contiene due accenti al di fuori dei contesti in cui una parola può ricevere l'accento di un'enclitica. Il caso deve essere verificato nel contesto."
+  },
+  "final-sigma-inside": {
+   "titolo": "Sigma finale all'interno della parola",
+   "descrizione": "Il carattere ς compare in una posizione interna del campo form, dove è atteso σ. Il programma sostituisce automaticamente il sigma finale con il sigma non finale."
+  },
+  "grade-p": {
+   "titolo": "Grado positivo marcato con p",
+   "descrizione": "La nona posizione del postag contiene p per indicare il grado positivo, ma la codifica adottata usa il trattino quando il grado non è comparativo o superlativo. Il programma sostituisce p con - nella nona posizione."
+  },
+  "head-cycle": {
+   "titolo": "Ciclo nelle teste",
+   "descrizione": "Seguendo i valori head, il programma torna a un token già incontrato. Il ciclo può dipendere da un token che indica se stesso come testa oppure da più dipendenze circolari; in entrambi i casi la struttura non è un albero valido."
+  },
+  "head-dangling": {
+   "titolo": "Testa inesistente",
+   "descrizione": "Il campo head del token contiene un numero diverso da 0. Il programma cerca nella stessa frase un token il cui id corrisponda a quel numero; se non lo trova, il collegamento sintattico punta a una testa inesistente e non è valido. L'albero deve quindi essere ricostruito manualmente."
+  },
+  "head-missing": {
+   "titolo": "Testa sintattica non dichiarata",
+   "descrizione": "Il campo head del token è vuoto (non è quindi indicato l’id della parola da cui il token dipende), mentre almeno un altro token della frase dichiara una testa. La testa corretta deve essere indicata manualmente."
+  },
+  "invalid-character": {
+   "titolo": "Carattere non ammesso nella posizione morfologica",
+   "descrizione": "Una posizione del postag contiene un carattere non previsto dall'inventario AGDT 2.0 per quella posizione. Il valore corretto dipende dall'analisi morfologica della forma e deve essere verificato nel contesto."
+  },
+  "invalid-length-broken": {
+   "titolo": "Etichetta di lunghezza errata da ricostruire nel contesto",
+   "descrizione": "Il PoS tag non ha i nove caratteri previsti e contiene, oltre al codice della parte del discorso, almeno un altro valore informativo. Il carattere mancante o eccedente può alterare l'interpretazione delle posizioni successive; l'intera etichetta deve quindi essere ricostruita nel contesto."
+  },
+  "invalid-length-padding": {
+   "titolo": "Etichetta composta da soli trattini con lunghezza errata",
+   "descrizione": "Il PoS tag contiene una parte del discorso valida nella prima posizione e soltanto trattini nelle posizioni successive, ma non ha i nove caratteri previsti. Poiché non sono presenti altri valori morfologici, il programma aggiunge o elimina i soli trattini terminali necessari. Un'etichetta già lunga nove caratteri non viene modificata."
+  },
+  "leading-t": {
+   "titolo": "PoS non ammesso in prima posizione (t)",
+   "descrizione": "La prima posizione del postag contiene t, valore non previsto dall'inventario morfologico AGDT 2.0. La parte del discorso corretta deve essere determinata in base alla forma e al contesto."
+  },
+  "leading-x-lexical": {
+   "titolo": "PoS x su un record lessicale",
+   "descrizione": "La prima posizione del postag contiene x, ma il record rappresenta una parola effettivamente presente nel testo e non è classificato come nodo ellittico. La parte del discorso corretta deve essere determinata nel contesto."
+  },
+  "lemma-graphic-variant": {
+   "titolo": "Varianti grafiche concorrenti dello stesso lemma",
+   "descrizione": "Il corpus usa, per la stessa voce, due o più grafie ammesse incluse in un elenco configurabile di equivalenze. La regola si attiva soltanto quando più varianti coesistono nella risorsa; la scelta della forma canonica è una decisione di normalizzazione."
+  },
+  "lemma-suspicious-characters": {
+   "titolo": "Caratteri anomali nel lemma",
+   "descrizione": "Il campo lemma contiene trattini, parentesi o cifre all'interno della parola. Questi caratteri possono dipendere da convenzioni della risorsa di provenienza (es. περι-κεῖμαι, Ἰων(ν)ης); la forma canonica deve essere scelta in base alla politica lessicografica adottata."
+  },
+  "lemma-tool-numbering": {
+   "titolo": "Numero finale nel lemma",
+   "descrizione": "Il campo lemma termina con una cifra usata dalla risorsa o dall'analizzatore per distinguere voci omografe. La rimozione può fondere identificatori lessicali distinti; la pipeline deve quindi applicarla soltanto secondo la politica di normalizzazione dichiarata."
+  },
+  "mediopassive-d": {
+   "titolo": "Diatesi d non prevista",
+   "descrizione": "La sesta posizione del postag contiene d, valore non previsto dalla codifica AGDT 2.0 adottata per il greco. Può trattarsi di una convenzione importata o locale, per esempio per i deponenti; l'interpretazione e la correzione devono essere verificate nel contesto."
+  },
+  "missing-lemma": {
+   "titolo": "Lemma assente",
+   "descrizione": "Il campo lemma è assente o vuoto. Il lemma corretto deve essere stabilito a partire dalla forma e dal contesto e non può essere ricostruito in modo sicuro con una sostituzione meccanica."
+  },
+  "missing-postag": {
+   "titolo": "PoS tag assente",
+   "descrizione": "Nel file XML il token non presenta l'attributo postag, oppure l'attributo è presente ma vuoto (postag=\"\"). Il PoS tag deve essere ricostruito a partire da forma, lemma e contesto."
+  },
+  "mixed-script": {
+   "titolo": "Lettere latine confondibili in una parola greca",
+   "descrizione": "Il campo form mescola caratteri greci e latini e i caratteri latini hanno corrispondenti greci graficamente equivalenti. Il programma sostituisce i caratteri latini con i corrispondenti greci, rendendo possibile il confronto esatto tra stringhe."
+  },
+  "mixed-script-unrepairable": {
+   "titolo": "Lettere latine non confondibili in una parola greca",
+   "descrizione": "Il campo form contiene caratteri greci e latini e almeno un carattere latino non ha un corrispondente greco graficamente equivalente. Può trattarsi di un segno editoriale o di un errore di codifica; il programma segnala il caso senza proporre una sostituzione automatica."
+  },
+  "nonlexical-z-pos": {
+   "titolo": "PoS extra-schema su un record non lessicale (z)",
+   "descrizione": "La prima posizione del postag contiene z, valore non documentato nell'inventario AGDT 2.0. Se, nella specifica risorsa e versione, il valore ricorre esclusivamente su record non lessicali, deve essere trattato come indicatore tecnico locale senza dedurre automaticamente una parte del discorso sostitutiva."
+  },
+  "numeral-generic-m": {
+   "titolo": "Numerale con trattini bassi nel PoS tag",
+   "descrizione": "Un token riconosciuto come numerale presenta trattini bassi nelle posizioni non applicabili del postag. Quando la parte del discorso è già determinata in modo univoco, il programma sostituisce l'etichetta con m--------."
+  },
+  "osfranthiti-anomaly": {
+   "titolo": "ὀσφράνθητι con analisi morfologica incompatibile",
+   "descrizione": "La forma ὀσφράνθητι presenta un postag che non la identifica come seconda persona singolare dell'imperativo aoristo passivo. Il valore corretto v2samp--- è proposto dal programma automaticamente. La correzione riguarda esclusivamente il postag e non modifica né certifica il lemma, la relazione sintattica o la testa."
+  },
+  "participle-mood-g": {
+   "titolo": "Valore non ammesso nella posizione del modo (g)",
+   "descrizione": "La quinta posizione del postag contiene g, valore non previsto per il modo verbale nell'inventario AGDT 2.0. Il valore corretto dipende dall'analisi della forma."
+  },
+  "pot-anomaly": {
+   "titolo": "Forme elise πότʼ/πόθʼ con PoS aggettivale",
+   "descrizione": "Le forme πότʼ e πόθʼ, nelle occorrenze validate nella tabella di riferimento, sono forme elise dell'avverbio interrogativo πότε «quando?», ma recano il postag aggettivale a-_---___. In πότʼ cade la ε finale davanti a vocale; in πόθʼ l'elisione si accompagna al passaggio di τ a θ davanti allo spirito aspro. Il valore d-------- può essere applicato automaticamente soltanto alle occorrenze già validate; eventuali nuove occorrenze richiedono controllo contestuale."
+  },
+  "punctuation-leading-e": {
+   "titolo": "PoS e su un segno di punteggiatura",
+   "descrizione": "La forma è un segno di punteggiatura, ma la prima posizione del postag contiene e. Per la punteggiatura la codifica adottata usa u; il programma sostituisce quindi e-------- con u-------- quando la corrispondenza è univoca."
+  },
+  "relation-bare-convention": {
+   "titolo": "Etichetta extra-schema usata sistematicamente dal corpus",
+   "descrizione": "Una relazione non prevista dall'inventario AGDT 2.0 ricorre almeno venti volte e in almeno il 90% dei documenti della stessa risorsa e versione. La distribuzione suggerisce una convenzione locale, ma non consente di espandere automaticamente il valore in una relazione AGDT."
+  },
+  "relation-greek-lookalike": {
+   "titolo": "Carattere greco confondibile nell'etichetta sintattica",
+   "descrizione": "Il campo relation contiene un carattere greco graficamente identico al carattere latino previsto, per esempio zeta greco al posto di Z in AuxZ. Il programma sostituisce il carattere con il corrispondente latino."
+  },
+  "relation-missing": {
+   "titolo": "Relazione assente",
+   "descrizione": "Il campo relation è assente o vuoto. La funzione sintattica del token deve essere determinata controllando la frase e l'albero."
+  },
+  "relation-nil-placeholder": {
+   "titolo": "Segnaposto nil al posto della relazione",
+   "descrizione": "Il campo relation contiene nil, segnaposto che indica l'assenza dell'analisi e non una relazione sintattica AGDT. La relazione corretta deve essere stabilita controllando la frase e l'albero."
+  },
+  "relation-truncated-or-foreign": {
+   "titolo": "Relazione non AGDT riconducibile a una convenzione nota",
+   "descrizione": "Il campo relation contiene un'etichetta non riconosciuta da AGDT 2.0 ma riconducibile a un'abbreviazione, a una convenzione precedente o a un altro schema noto, per esempio Aux, AUX, CO o CONJ. Il programma segnala il caso, ma non propone una correzione automatica: la relazione corretta deve essere scelta leggendo la frase e controllando l’albero."
+  },
+  "relation-typo": {
+   "titolo": "Refuso univoco nell'etichetta sintattica",
+   "descrizione": "Il campo relation differisce per un solo carattere da un'unica etichetta ammessa dallo schema. Quando la corrispondenza è univoca, il programma sostituisce il valore con l'etichetta riconosciuta."
+  },
+  "relation-unknown": {
+   "titolo": "Relazione fuori schema",
+   "descrizione": "Il campo relation contiene un'etichetta non appartenente all'inventario AGDT 2.0 e non riconducibile a nessuno dei casi specifici gestiti dalle altre regole. La relazione corretta deve essere scelta nel contesto."
+  },
+  "san-anomaly": {
+   "titolo": "σὰν come nome di lettera con PoS incompleto",
+   "descrizione": "La forma σὰν, quando indica il nome della lettera ϻ, presenta un postag incompleto. Il valore n-s---na- può essere proposto soltanto se il contesto conferma l'analisi come nome neutro singolare accusativo."
+  },
+  "sentence-many-roots": {
+   "titolo": "Frase con più radici",
+   "descrizione": "Più di un token della stessa frase ha head=\"0\". Una frase AGDT deve avere una sola radice; il caso può indicare un errore strutturale o una segmentazione della frase da rivedere."
+  },
+  "sentence-no-root": {
+   "titolo": "Frase senza radice",
+   "descrizione": "Nessun token della frase ha head=\"0\". La struttura non possiede quindi una radice dichiarata e può contenere un ciclo, una testa mancante o un collegamento danneggiato."
+  },
+  "sentence-not-annotated": {
+   "titolo": "Nessuna testa dichiarata nella frase",
+   "descrizione": "Tutti i token della frase hanno il campo head vuoto, quindi la frase non contiene collegamenti sintattici dichiarati. Il programma genera una sola segnalazione per l'intera frase; l'albero deve essere ricostruito o recuperato manualmente."
+  },
+  "slot-forbidden": {
+   "titolo": "Tratto non ammesso per la parte del discorso",
+   "descrizione": "Il PoS tag valorizza un tratto che la parte del discorso non ammette, per esempio un tempo su un sostantivo o un caso su un verbo di modo finito. Il tratto o la parte del discorso devono essere verificati nel contesto."
+  },
+  "slot-missing": {
+   "titolo": "Tratto morfologico obbligatorio non valorizzato",
+   "descrizione": "Nel PoS tag manca un tratto richiesto per quella forma, per esempio il genere di un sostantivo o la persona di un verbo finito. Gli altri tratti sono presenti, ma l'analisi risulta incompleta e deve essere completata nel contesto."
+  },
+  "slot-missing-bare": {
+   "titolo": "Sostantivo privo di tratti morfologici (n--------)",
+   "descrizione": "Il postag identifica il token come sostantivo ma non valorizza numero, genere e caso. L'etichetta è formalmente ben formata, ma l'analisi morfologica è incompleta; i tratti devono essere ricostruiti nel contesto, salvo nomi indeclinabili o convenzioni dichiarate della risorsa."
+  },
+  "tan-anomaly": {
+   "titolo": "τάν/τᾶν, forma lessicalmente ambigua",
+   "descrizione": "Le forme normalizzate τάν e τᾶν possono appartenere a una formula allocutiva oppure corrispondere all'accusativo femminile singolare dell'articolo o pronome in varietà che conservano ᾱ. La forma grafica non consente una scelta univoca e l'analisi deve essere verificata nel contesto."
+  },
+  "tessereskaideka-anomaly": {
+   "titolo": "τεσσερεσκαίδεκα con PoS non numerale",
+   "descrizione": "Le forme τεσσερεσκαίδεκα e τεσσαρεσκαίδεκα, quando indicano il numerale indeclinabile «quattordici», sono annotate con una parte del discorso diversa da numerale. Il valore m-------- è proposto automaticamente dal programma."
+  },
+  "token-id-duplicate": {
+   "titolo": "Identificatore duplicato",
+   "descrizione": "Due o più token della stessa frase hanno lo stesso identificatore. Ogni rimando a quel valore diventa ambiguo e gli identificatori o i collegamenti devono essere corretti manualmente."
+  },
+  "underscore-person-number": {
+   "titolo": "Trattino basso nelle posizioni morfologiche 2-8",
+   "descrizione": "Il postag contiene _ in una delle posizioni dalla seconda all'ottava, nelle quali la codifica adottata usa - per un tratto non applicabile o non valorizzato. Il programma sostituisce _ con -; eventuali incoerenze morfologiche residue vanno controllate separatamente."
+  },
+  "unicode-not-nfc": {
+   "titolo": "Codifica non normalizzata in NFC",
+   "descrizione": "Uno o più valori testuali non sono in forma Unicode NFC, mentre il corpus nel suo insieme usa prevalentemente NFC. Il programma normalizza i valori interessati, evitando che stringhe graficamente identiche siano contate come diverse."
+  },
+  "uninflected-lemma": {
+   "titolo": "Lemma nominale senza caso in tutte le occorrenze",
+   "descrizione": "Un lemma nominale attestato almeno cinque volte non presenta mai un valore di caso. Il comportamento può dipendere dalla natura indeclinabile o straniera del lemma, da una convenzione della risorsa o da una lacuna sistematica di annotazione e deve essere valutato a livello del lemma."
+  },
+  "verbal-adjective-g": {
+   "titolo": "Valore locale g per aggettivi verbali in -τέος",
+   "descrizione": "La risorsa usa g nella posizione del modo come codice locale per aggettivi verbali in -τέος. Questa codifica non appartiene ad AGDT 2.0, che tratta queste forme come aggettivi. Il programma mostra il corrispondente postag aggettivale, ma non lo applica automaticamente. Ogni occorrenza deve essere verificata nel contesto, perché alcuni tratti non sono ricavabili dalla sola forma: in particolare, nei neutri in -τέον, come ποιητέον, il caso può essere nominativo oppure accusativo e deve quindi essere stabilito manualmente."
+  },
+  "whitespace-in-form": {
+   "titolo": "Separatore interno nella forma",
+   "descrizione": "Il campo form contiene uno spazio, una tabulazione o un ritorno a capo. Il record può contenere più token oppure una segmentazione danneggiata; la semplice eliminazione del separatore non è una correzione sicura e la tokenizzazione deve essere rivista manualmente."
+  },
+  "whitespace-in-lemma": {
+   "titolo": "Separatore interno nel lemma",
+   "descrizione": "Il campo lemma contiene uno o più separatori interni. Il valore può rappresentare un lemma pluriverbale, una tokenizzazione errata o una convenzione lessicografica della risorsa; il programma non elimina automaticamente i separatori."
+  },
+  "pedalion-b-pos": {
+   "titolo": "PoS extra-schema usato come estensione locale (b)",
+   "descrizione": "La prima posizione del postag contiene b, valore non documentato nell'inventario AGDT 2.0 ma usato dalla risorsa come convenzione locale. Una conversione può essere proposta soltanto se il profilo della specifica risorsa e versione dichiara una corrispondenza univoca."
+  },
+  "lemma-rare-for-form": {
+   "titolo": "Lemma raro per forma e PoS",
+   "descrizione": "Una combinazione di forma e PoS attestata almeno venticinque volte è ricondotta una sola volta a un lemma diverso da quello che copre almeno il 95% delle sue occorrenze. Il caso può essere corretto o anomalo; il programma mostra come possibile alternativa il lemma di maggioranza, ma non applica automaticamente alcuna correzione."
+  },
+  "personal-pronoun-person": {
+   "titolo": "Persona non annotata nel pronome personale",
+   "descrizione": "Il record è un pronome personale, ma il postag non specifica la persona. AGDT 2.0 non richiede questo tratto per i pronomi, quindi la sua assenza non è una violazione dello schema. GCP la registra come variante perché il profilo operativo che adotta è deliberatamente più ricco del minimo prescritto: l'informazione serve a chi voglia un'annotazione completa, armonizzata e confrontabile fra risorse. Nessuna correzione viene proposta, e la persona non viene dedotta."
+  },
+  "rare-relation-for-lemma-and-pos": {
+   "titolo": "Relazione rara per lemma e PoS",
+   "descrizione": "Per ogni coppia di lemma e parte del discorso attestata almeno duecento volte fra le parole del testo, il programma calcola come si distribuiscono le relazioni sintattiche di base, cioè le etichette private dei suffissi _CO e _AP. Le occorrenze la cui relazione copre al massimo l'uno per cento di quella coppia vengono segnalate. La rarità non dimostra un errore: una costruzione può essere rara e corretta, e il numero assoluto dice quanto pesa la percentuale."
+  },
+  "dein-participle-disputed": {
+   "titolo": "δεῖν participiale da verificare sul passo",
+   "descrizione": "La forma δεῖν porta un'etichetta di participio in un caso che il programma non corregge senza verifica. Ciò avviene quando il luogo è fra le attestazioni che il LSJ, s.v. δεῖ, IV, segnala come dubbie e la pipeline può identificarlo dalla citazione della risorsa, oppure quando le informazioni disponibili non permettono di escludere con sufficiente sicurezza che l'occorrenza appartenga a uno di questi luoghi. In questi casi il programma non propone alcuna correzione: l'analisi deve essere verificata sul passo e sulla tradizione testuale. La regola resta separata da quella che corregge le altre occorrenze di δεῖν annotate come participio."
+  },
+  "common-gender-c": {
+   "titolo": "Valore c extra-schema nella posizione del genere",
+   "descrizione": "La settima posizione del postag contiene c, valore non previsto dall'inventario AGDT 2.0 per il genere. Nelle risorse analizzate il valore ricorre soprattutto con pronomi e alcuni nomi e la sua distribuzione è compatibile con una convenzione locale per il genere comune, ma questa interpretazione non è documentata nelle risorse disponibili. Il valore deve quindi essere verificato nel profilo della singola risorsa e nel contesto; il programma non propone alcuna conversione automatica."
+  },
+  "isolated-breathing": {
+   "titolo": "Spirito isolato nella forma",
+   "descrizione": "La forma è costituita soltanto da U+0314 o U+0313. Nei casi verificati il segno può rappresentare una parentesi rimasta codificata come spirito oppure un frammento staccato da una parola danneggiata. Per le occorrenze già validate il programma può mostrare una proposta di sostituzione ricavata da una tabella chiusa di corrispondenze; la proposta non viene mai applicata automaticamente. Le altre occorrenze devono essere ricostruite manualmente nel contesto."
+  },
+  "invisible-char-form": {
+   "titolo": "Caratteri di formato nella forma",
+   "descrizione": "Il campo form contiene uno dei caratteri di formato Unicode esplicitamente riconosciuti dalla pipeline (U+200B, U+200C, U+200D, U+2060 o U+FEFF). Questi caratteri non hanno funzione ortografica nella rappresentazione del greco adottata dal corpus e possono interrompere il confronto fra stringhe graficamente equivalenti. Il programma propone la loro rimozione. Gli spazi e gli altri separatori sono gestiti da controlli distinti."
+  },
+  "invisible-char-lemma": {
+   "titolo": "Caratteri di formato nel lemma",
+   "descrizione": "Il campo lemma contiene uno dei caratteri di formato Unicode esplicitamente riconosciuti dalla pipeline (U+200B, U+200C, U+200D, U+2060 o U+FEFF). Questi caratteri non hanno funzione ortografica nella rappresentazione del greco adottata dal corpus e possono interrompere il confronto fra lemmi graficamente equivalenti. Il programma propone la loro rimozione. Gli spazi e gli altri separatori sono gestiti da controlli distinti."
+  }
+ }
+}

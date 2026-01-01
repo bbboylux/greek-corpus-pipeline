@@ -1,0 +1,5 @@
+corpus,model,version,corpus_fingerprint,resource_fingerprint,tokens_supplied
+gorman,stanza,1.14.0,d7f08464469afa39,738ee3df02f33fa5,616646
+gorman,udpipe,1.4.0.1,d7f08464469afa39,28e919b3269a6730,616646
+pedalion,stanza,1.14.0,2e3f8845e9df6259,738ee3df02f33fa5,274608
+pedalion,udpipe,1.4.0.1,2e3f8845e9df6259,28e919b3269a6730,274608
